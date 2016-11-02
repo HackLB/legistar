@@ -100,6 +100,12 @@ def save_record(record):
         with open(agenda_path, 'wb') as f:
             f.write(r.content)
 
+    minutes_path = os.path.join(directory, 'minutes.pdf')
+    if record['minutes'] and not os.path.exists(minutes_path):
+        r = requests.get(record['minutes'])
+        with open(minutes_path, 'wb') as f:
+            f.write(r.content)
+
 
 
 if __name__ == "__main__":
