@@ -1,0 +1,129 @@
+#!/usr/bin/env python
+import os, sys
+from pprint import pprint
+import simplejson as json
+import requests
+from bs4 import BeautifulSoup
+import feedparser
+import urllib.parse
+import dateparser
+
+
+base_url = 'http://longbeach.legistar.com/'
+rss = 'http://longbeach.legistar.com/Feed.ashx?M=Calendar&ID=3443504&GUID=0fe979a8-f2da-4787-a541-6ccef967561e&Mode=This%20Year&Title=City+of+Long+Beach+-+Calendar+(This+Year)'
+
+
+def get_records():
+    """
+    Extracts garage sale records from the city garage sale Web page,
+    then puts each record into a dictionary and returns a list of dictionaries.
+    """
+    print('Getting garage sales data...')
+    data = feedparser.parse(rss)
+    print('Got {} items'.format(len(data.entries)))
+    # return data.entries[10:20]
+    return data.entries
+
+
+def enhance_and_clean_record(record):
+
+    url = record['link']
+    r = requests.get(url)
+    soup = BeautifulSoup(r.content, 'html.parser')
+
+
+    # Get meeting name
+    meeting_name = soup.find('a', {'id': 'ctl00_ContentPlaceHolder1_hypName'}).string
+    record['name'] = meeting_name
+
+
+    # Get agenda if existing
+    agenda_ele = soup.find('a', {'id': 'ctl00_ContentPlaceHolder1_hypAgenda'})
+    agenda = None
+    if agenda_ele:
+        try:
+            agenda = urllib.parse.urljoin(base_url, agenda_ele['href'])
+        except KeyError:
+            pass
+    record['agenda'] = agenda
+
+
+    # Get minutes if existing
+    minutes_ele = soup.find('a', {'id': 'ctl00_ContentPlaceHolder1_hypMinutes'})
+    minutes = None
+    if minutes_ele:
+        try:
+            minutes = urllib.parse.urljoin(base_url, minutes_ele['href'])
+        except KeyError:
+            pass
+    record['minutes'] = minutes
+
+    del(record['published'])
+    del(record['published_parsed'])
+    del(record['links'])
+    del(record['guidislink'])
+    del(record['tags'])
+    del(record['title_detail'])
+    del(record['summary_detail'])
+
+    dt_string = (' ').join(record['title'].split(' - ')[1:3])
+    record['datetime'] = dateparser.parse(dt_string).isoformat()
+
+    return record
+
+
+
+def get_subdirectory(record):
+    """
+    Takes the base filename and returns a path to a subdirectory, creating it if needed.
+    """
+
+    cleaned_meeting_name = record['name'].lower().replace(' ', '_').replace(',', '').replace('\'', '').replace('(', '').replace(')', '')
+
+    meeting_dir = record['datetime'].replace(':','.')
+
+    sub_dir = os.path.join(data_path, cleaned_meeting_name, meeting_dir)
+    os.makedirs(sub_dir, exist_ok=True)
+    return sub_dir
+
+
+
+def save_record(record):
+    record = enhance_and_clean_record(record)
+    pprint(record)
+    directory = get_subdirectory(record)
+
+    path = os.path.join(directory, 'data.json')
+    with open(path, 'w') as f:
+        json.dump(record, f, indent=4, ensure_ascii=False, sort_keys=True)
+
+    agenda_path = os.path.join(directory, 'agenda.pdf')
+    if record['agenda'] and not os.path.exists(agenda_path):
+        r = requests.get(record['agenda'])
+        with open(agenda_path, 'wb') as f:
+            f.write(r.content)
+
+
+
+def save_records(records):
+    """
+    Saves records to invidual JSON files.
+    Records are per-address. Each new garage sale for 
+    a given address gets appended to its existing file.
+    Files are named and organized based on an MD5 of 
+    the address.
+    """
+    print('Saving garage sales data...')
+    for record in records:
+        save_record(record)
+
+
+
+if __name__ == "__main__":
+    repo_path = os.path.dirname(os.path.realpath(sys.argv[0]))  # Path to current directory
+    data_path = os.path.join(repo_path, '_data')                # Root path for record data
+    os.makedirs(data_path, exist_ok=True)
+
+    records = get_records()                     # Get Legistar records...
+    save_records(records)                       # Save the scraped records to JSON files...
+

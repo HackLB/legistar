@@ -1,2 +1,5 @@
+beautifulsoup4
+dateparser
 feedparser
+requests
 simplejson
