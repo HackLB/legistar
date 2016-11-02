@@ -15,18 +15,16 @@ rss = 'http://longbeach.legistar.com/Feed.ashx?M=Calendar&ID=3443504&GUID=0fe979
 
 def get_records():
     """
-    Extracts garage sale records from the city garage sale Web page,
-    then puts each record into a dictionary and returns a list of dictionaries.
+    Extracts city meeting records from the Legistar calendar
+    RSS feed, then puts each record into a dictionary and returns a list of dictionaries.
     """
-    print('Getting garage sales data...')
+    print('Getting Legistar calendar data...')
     data = feedparser.parse(rss)
     print('Got {} items'.format(len(data.entries)))
-    # return data.entries[10:20]
     return data.entries
 
 
 def enhance_and_clean_record(record):
-
     url = record['link']
     r = requests.get(url)
     soup = BeautifulSoup(r.content, 'html.parser')
@@ -90,7 +88,6 @@ def get_subdirectory(record):
 
 def save_record(record):
     record = enhance_and_clean_record(record)
-    pprint(record)
     directory = get_subdirectory(record)
 
     path = os.path.join(directory, 'data.json')
@@ -105,25 +102,14 @@ def save_record(record):
 
 
 
-def save_records(records):
-    """
-    Saves records to invidual JSON files.
-    Records are per-address. Each new garage sale for 
-    a given address gets appended to its existing file.
-    Files are named and organized based on an MD5 of 
-    the address.
-    """
-    print('Saving garage sales data...')
-    for record in records:
-        save_record(record)
-
-
-
 if __name__ == "__main__":
     repo_path = os.path.dirname(os.path.realpath(sys.argv[0]))  # Path to current directory
     data_path = os.path.join(repo_path, '_data')                # Root path for record data
     os.makedirs(data_path, exist_ok=True)
 
     records = get_records()                     # Get Legistar records...
-    save_records(records)                       # Save the scraped records to JSON files...
+
+    print('Saving Legistar calendar data...')
+    for record in records:
+        save_record(record)                     # Save the scraped records to JSON files...
 
