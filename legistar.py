@@ -8,9 +8,31 @@ import feedparser
 import urllib.parse
 import dateparser
 
+from geopy.geocoders import Nominatim, GoogleV3
+from geopy.exc import GeocoderTimedOut
+
+
+with open('../secrets.json') as f:    
+    secrets = json.load(f)
+
+geolocator = GoogleV3(api_key=secrets['google_api_key'])
 
 base_url = 'http://longbeach.legistar.com/'
 rss = 'http://longbeach.legistar.com/Feed.ashx?M=Calendar&ID=3443504&GUID=0fe979a8-f2da-4787-a541-6ccef967561e&Mode=This%20Year&Title=City+of+Long+Beach+-+Calendar+(This+Year)'
+
+
+
+def geocode(address):
+    try:
+        location = geolocator.geocode(address, timeout=2)
+        if location:
+            data = {"latitude": location.latitude, "longitude": location.longitude, "address": location.address}
+            print(data)
+            return data
+        else:
+            return None
+    except GeocoderTimedOut:
+        return geocode(address)
 
 
 def get_records():
@@ -23,11 +45,42 @@ def get_records():
     print('Got {} items'.format(len(data.entries)))
     return data.entries
 
+def fix_address(address):
+    if 'Bay Shore Library' in address:
+        return '195 Bay Shore Avenue, Long Beach, CA'
+    if 'Council Chamber' in address:
+        return '333 W. Ocean Boulevard, Long Beach, CA'
+    if 'Long Beach Yacht Club' in address:
+        return '6201 Appian Way, Long Beach, CA'
+    if '4801 Airport Plaza Drive' in address:
+        return '4801 Airport Plaza Drive, Long Beach, CA'
+    if 'Senior Center Library' in address:
+        return 'El Dorado Park West Community Center, Long Beach, CA'
+
+    return '{}, Long Beach, CA'.format(address).replace('\n', ', ')
+
 
 def enhance_and_clean_record(record):
     url = record['link']
     r = requests.get(url)
+    print(url)
     soup = BeautifulSoup(r.content, 'html.parser')
+
+
+    # Get meeting location
+    meeting_location = soup.find('span', {'id': 'ctl00_ContentPlaceHolder1_lblLocation'}).string
+    record['location'] = meeting_location
+
+    # Geocoding location
+    if record['location']:
+        cleaned_address = fix_address(record['location'])
+
+        print('record location: {}'.format(cleaned_address))
+        geocoded_location = geocode(cleaned_address)
+        print(geocoded_location)
+        if geocoded_location:
+            record['coordinates'] = geocoded_location
+            print('Found location: {}'.format(geocoded_location))
 
 
     # Get meeting name
@@ -89,6 +142,8 @@ def get_subdirectory(record):
 def save_record(record):
     record = enhance_and_clean_record(record)
     directory = get_subdirectory(record)
+
+    print('Saving record of _{}_\nlocated at: {}'.format(record['title'], record['location']))
 
     path = os.path.join(directory, 'data.json')
     with open(path, 'w') as f:
