@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504209&GUID=F90AD159-9832-4107-9338-06A440CBAE2E",
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
     "datetime": "2016-09-06T16:00:00",
     "id": "F90AD159-9832-4107-9338-06A440CBAE2E-2016-09-22-00-26-22",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=504209&GUID=F90AD159-9832-4107-9338-06A440CBAE2E",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=504209&GUID=F90AD159-9832-4107-9338-06A440CBAE2E",
     "name": "Budget Oversight Committee",
     "summary": "",

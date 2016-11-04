@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=505745&GUID=96A9D9D1-8268-4B26-B6C8-46EA89E05643",
+    "coordinates": {
+        "address": "Long Beach, CA, USA",
+        "latitude": 33.7700504,
+        "longitude": -118.1937395
+    },
     "datetime": "2016-09-20T15:45:00",
     "id": "96A9D9D1-8268-4B26-B6C8-46EA89E05643-2016-10-24-23-42-11",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=505745&GUID=96A9D9D1-8268-4B26-B6C8-46EA89E05643",
+    "location": "333 W. Ocean Boulevard\r\n14th Floor Conference Rm",
     "minutes": null,
     "name": "Economic Development and Finance Committee (Attorney/Client)",
     "summary": "",

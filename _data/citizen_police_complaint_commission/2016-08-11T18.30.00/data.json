@@ -1,9 +1,15 @@
 {
-    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=500799&GUID=A61B950C-D3E2-4B47-BB07-5287D28B5035",
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=500788&GUID=085364FD-56BB-483E-B8E7-2A27D90D8222",
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
     "datetime": "2016-08-11T18:30:00",
-    "id": "A61B950C-D3E2-4B47-BB07-5287D28B5035-2016-08-05-22-37-37",
-    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=500799&GUID=A61B950C-D3E2-4B47-BB07-5287D28B5035",
-    "minutes": null,
+    "id": "085364FD-56BB-483E-B8E7-2A27D90D8222-2016-08-19-17-32-03",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=500788&GUID=085364FD-56BB-483E-B8E7-2A27D90D8222",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=500788&GUID=085364FD-56BB-483E-B8E7-2A27D90D8222",
     "name": "Citizen Police Complaint Commission",
     "summary": "",
     "title": "Citizen Police Complaint Commission - 8/11/2016 - 6:30 PM"

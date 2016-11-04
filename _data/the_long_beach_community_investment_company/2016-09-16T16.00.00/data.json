@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=505974&GUID=BF56CDA2-9139-42C4-9B56-BBBFE45B3874",
+    "coordinates": {
+        "address": "Long Beach, CA, USA",
+        "latitude": 33.7700504,
+        "longitude": -118.1937395
+    },
     "datetime": "2016-09-16T16:00:00",
     "id": "BF56CDA2-9139-42C4-9B56-BBBFE45B3874-2016-09-16-16-41-35",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=505974&GUID=BF56CDA2-9139-42C4-9B56-BBBFE45B3874",
+    "location": "Third Wednesday of the Month, \r\n333 W. Ocean Boulevard\r\n3rd Floor Conference Room",
     "minutes": null,
     "name": "The Long Beach Community Investment Company",
     "summary": "",

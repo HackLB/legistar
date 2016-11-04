@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=511021&GUID=6626FD52-F8D4-4FC3-B50B-3821935A0D0F",
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
     "datetime": "2016-10-18T15:15:00",
     "id": "6626FD52-F8D4-4FC3-B50B-3821935A0D0F-2016-10-24-16-41-42",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=511021&GUID=6626FD52-F8D4-4FC3-B50B-3821935A0D0F",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
     "minutes": null,
     "name": "State Legislation Committee",
     "summary": "",

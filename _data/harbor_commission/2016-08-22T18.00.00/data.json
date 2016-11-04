@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=501589&GUID=7DB7F4BA-56B5-4AD6-935A-651BE0FB4977",
+    "coordinates": {
+        "address": "4801 Airport Plaza Dr, Long Beach, CA 90815, USA",
+        "latitude": 33.8106718,
+        "longitude": -118.1365498
+    },
     "datetime": "2016-08-22T18:00:00",
     "id": "7DB7F4BA-56B5-4AD6-935A-651BE0FB4977-2016-08-12-15-59-24",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=501589&GUID=7DB7F4BA-56B5-4AD6-935A-651BE0FB4977",
+    "location": "Harbor Department Interim Administrative Offices\r\n4801 Airport Plaza Drive",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=501589&GUID=7DB7F4BA-56B5-4AD6-935A-651BE0FB4977",
     "name": "Harbor Commission",
     "summary": "",

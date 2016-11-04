@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504666&GUID=9C246144-07FE-4497-B4EA-525F92B4F733",
+    "coordinates": {
+        "address": "Long Beach, CA 90808, USA",
+        "latitude": 33.8197825,
+        "longitude": -118.1064156
+    },
     "datetime": "2016-09-15T16:00:00",
     "id": "9C246144-07FE-4497-B4EA-525F92B4F733-2016-10-17-18-52-02",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=504666&GUID=9C246144-07FE-4497-B4EA-525F92B4F733",
+    "location": "Skylinks Municipal Golf Course\r\n4800 E. Wardlow Rd., LB 90808",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=504666&GUID=9C246144-07FE-4497-B4EA-525F92B4F733",
     "name": "Airport Advisory Commission",
     "summary": "",

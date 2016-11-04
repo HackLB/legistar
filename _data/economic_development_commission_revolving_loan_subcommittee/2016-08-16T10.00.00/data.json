@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=500422&GUID=77F8A716-15C1-42EC-A9F7-21D184928299",
+    "coordinates": {
+        "address": "Long Beach, CA, USA",
+        "latitude": 33.7700504,
+        "longitude": -118.1937395
+    },
     "datetime": "2016-08-16T10:00:00",
     "id": "77F8A716-15C1-42EC-A9F7-21D184928299-2016-08-22-21-16-52",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=500422&GUID=77F8A716-15C1-42EC-A9F7-21D184928299",
+    "location": "333 W. OOCEAN BOULEVARD\r\n3RD FLOOR CONFERENCE RM",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=500422&GUID=77F8A716-15C1-42EC-A9F7-21D184928299",
     "name": "Economic Development Commission Revolving Loan Subcommittee",
     "summary": "",

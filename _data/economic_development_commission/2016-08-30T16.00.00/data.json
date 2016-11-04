@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=502433&GUID=BD04AFD5-B714-475C-91F5-DC47FB9734DA",
+    "coordinates": {
+        "address": "Long Beach, CA, USA",
+        "latitude": 33.7700504,
+        "longitude": -118.1937395
+    },
     "datetime": "2016-08-30T16:00:00",
     "id": "BD04AFD5-B714-475C-91F5-DC47FB9734DA-2016-09-06-18-12-12",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=502433&GUID=BD04AFD5-B714-475C-91F5-DC47FB9734DA",
+    "location": "333 W. OCEAN BOULEVARD\r\n3RD FLOOR CONFERENCE RM",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=502433&GUID=BD04AFD5-B714-475C-91F5-DC47FB9734DA",
     "name": "Economic Development Commission",
     "summary": "",

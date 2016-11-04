@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=506709&GUID=E83E2089-F252-4F37-B254-D2C78DCE4CC2",
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
     "datetime": "2016-10-06T17:00:00",
     "id": "E83E2089-F252-4F37-B254-D2C78DCE4CC2-2016-10-21-16-22-26",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=506709&GUID=E83E2089-F252-4F37-B254-D2C78DCE4CC2",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=506709&GUID=E83E2089-F252-4F37-B254-D2C78DCE4CC2",
     "name": "Planning Commission",
     "summary": "",

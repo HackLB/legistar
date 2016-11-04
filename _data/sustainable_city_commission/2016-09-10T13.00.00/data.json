@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504369&GUID=BE444058-55EB-4486-8158-E23CD292B7DE",
+    "coordinates": {
+        "address": "Long Beach, CA 90813, USA",
+        "latitude": 33.7844997,
+        "longitude": -118.1971031
+    },
     "datetime": "2016-09-10T13:00:00",
     "id": "BE444058-55EB-4486-8158-E23CD292B7DE-2016-09-06-23-16-21",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=504369&GUID=BE444058-55EB-4486-8158-E23CD292B7DE",
+    "location": "Mark Twain Neighborhood Library\r\n1401 East Anaheim Street\r\nLong Beach, CA 90813",
     "minutes": null,
     "name": "Sustainable City Commission",
     "summary": "",

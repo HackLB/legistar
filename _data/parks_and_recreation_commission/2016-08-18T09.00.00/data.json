@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=501059&GUID=7E5C5295-17AA-48AF-85FC-43CDD55386D0",
+    "coordinates": {
+        "address": "Long Beach, CA, USA",
+        "latitude": 33.7700504,
+        "longitude": -118.1937395
+    },
     "datetime": "2016-08-18T09:00:00",
     "id": "7E5C5295-17AA-48AF-85FC-43CDD55386D0-2016-10-10-22-16-07",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=501059&GUID=7E5C5295-17AA-48AF-85FC-43CDD55386D0",
+    "location": "El Dorado Park W. Community Cntr\r\nSenior Center Library\r\n2800 N. Studebaker Road",
     "minutes": null,
     "name": "Parks and Recreation Commission",
     "summary": "",

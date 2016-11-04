@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=507944&GUID=D85C0D5D-6DC4-4F37-84D2-F1F21A969BC4",
+    "coordinates": {
+        "address": "195 Bay Shore Ave, Long Beach, CA 90803, USA",
+        "latitude": 33.7580301,
+        "longitude": -118.1305219
+    },
     "datetime": "2016-10-20T09:00:00",
     "id": "D85C0D5D-6DC4-4F37-84D2-F1F21A969BC4-2016-10-21-21-11-47",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=507944&GUID=D85C0D5D-6DC4-4F37-84D2-F1F21A969BC4",
+    "location": "Bay Shore Library, 195 Bay Shore Avenue, Third Thursday",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=507944&GUID=D85C0D5D-6DC4-4F37-84D2-F1F21A969BC4",
     "name": "Belmont Shore Parking and Business Improvement Area Advisory Commission",
     "summary": "",

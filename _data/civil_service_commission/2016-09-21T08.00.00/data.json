@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=506042&GUID=11C6267D-50DC-4877-838C-4926182A9CF3",
+    "coordinates": {
+        "address": "Long Beach, CA, USA",
+        "latitude": 33.7700504,
+        "longitude": -118.1937395
+    },
     "datetime": "2016-09-21T08:00:00",
     "id": "11C6267D-50DC-4877-838C-4926182A9CF3-2016-10-10-16-52-07",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=506042&GUID=11C6267D-50DC-4877-838C-4926182A9CF3",
+    "location": "333 W. OCEAN BLVD., 7TH FLOOR\r\nCIVIL SERVICE BOARD ROOM",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=506042&GUID=11C6267D-50DC-4877-838C-4926182A9CF3",
     "name": "Civil Service Commission",
     "summary": "",

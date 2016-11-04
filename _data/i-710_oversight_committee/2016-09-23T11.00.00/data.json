@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=506428&GUID=9870D9EA-11C1-4CCE-A1D0-6F7C4C797E2D",
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
     "datetime": "2016-09-23T11:00:00",
     "id": "9870D9EA-11C1-4CCE-A1D0-6F7C4C797E2D-2016-09-20-18-56-21",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=506428&GUID=9870D9EA-11C1-4CCE-A1D0-6F7C4C797E2D",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
     "minutes": null,
     "name": "I-710 Oversight Committee",
     "summary": "",

@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=502147&GUID=54325CE4-EA89-420E-8A6F-96587E1E529B",
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
     "datetime": "2016-08-25T16:00:00",
     "id": "54325CE4-EA89-420E-8A6F-96587E1E529B-2016-11-01-20-52-21",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=502147&GUID=54325CE4-EA89-420E-8A6F-96587E1E529B",
+    "location": "CITY COUNCIL CHAMBER\r\n333 W. OCEAN BOULEVARD",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=502147&GUID=54325CE4-EA89-420E-8A6F-96587E1E529B",
     "name": "Sustainable City Commission",
     "summary": "",

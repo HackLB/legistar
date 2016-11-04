@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=505728&GUID=5745E390-0831-48F0-9C8B-8F78C8985E8B",
+    "coordinates": {
+        "address": "Long Beach, CA, USA",
+        "latitude": 33.7700504,
+        "longitude": -118.1937395
+    },
     "datetime": "2016-09-26T12:00:00",
     "id": "5745E390-0831-48F0-9C8B-8F78C8985E8B-2016-10-14-17-56-04",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=505728&GUID=5745E390-0831-48F0-9C8B-8F78C8985E8B",
+    "location": "333 W. OCEAN BOULEVARD\r\nCOUNCIL CHAMBER",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=505728&GUID=5745E390-0831-48F0-9C8B-8F78C8985E8B",
     "name": "Long Beach Transit",
     "summary": "",

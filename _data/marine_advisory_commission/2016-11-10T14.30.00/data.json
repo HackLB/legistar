@@ -1,8 +1,14 @@
 {
     "agenda": null,
+    "coordinates": {
+        "address": "6201 Appian Way, Long Beach, CA 90803, USA",
+        "latitude": 33.752993,
+        "longitude": -118.1139241
+    },
     "datetime": "2016-11-10T14:30:00",
     "id": "7B278178-47B5-4E8D-84BC-E4A91BEB2A76-2016-10-26-20-12-09",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=512882&GUID=7B278178-47B5-4E8D-84BC-E4A91BEB2A76",
+    "location": "Long Beach Yacht Club \r\n6201 Appian Way",
     "minutes": null,
     "name": "Marine Advisory Commission",
     "summary": "",

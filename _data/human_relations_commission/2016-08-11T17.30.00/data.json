@@ -1,8 +1,14 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=494515&GUID=FD46F738-B864-49E1-8A0C-EE9A022D16FC",
+    "coordinates": {
+        "address": "100 W Broadway #550, Long Beach, CA 90802, USA",
+        "latitude": 33.7689325,
+        "longitude": -118.1930229
+    },
     "datetime": "2016-08-11T17:30:00",
     "id": "FD46F738-B864-49E1-8A0C-EE9A022D16FC-2016-07-18-17-38-38",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=494515&GUID=FD46F738-B864-49E1-8A0C-EE9A022D16FC",
+    "location": "Neighborhood Services Bureau\r\n100 W. Broadway, Suite 550",
     "minutes": null,
     "name": "Human Relations Commission",
     "summary": "",
