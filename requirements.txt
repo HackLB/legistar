@@ -3,3 +3,4 @@ dateparser
 feedparser
 requests
 simplejson
+geopy
