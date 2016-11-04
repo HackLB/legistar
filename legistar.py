@@ -46,9 +46,11 @@ def get_records():
     return data.entries
 
 def fix_address(address):
-    if 'Bay Shore Library' in address:
+    if 'bay shore library' in address.lower():
         return '195 Bay Shore Avenue, Long Beach, CA'
-    if 'Council Chamber' in address:
+    if 'council chamber' in address.lower():
+        return '333 W. Ocean Boulevard, Long Beach, CA'
+    if '333 w' in address.lower():
         return '333 W. Ocean Boulevard, Long Beach, CA'
     if 'Long Beach Yacht Club' in address:
         return '6201 Appian Way, Long Beach, CA'
@@ -56,6 +58,10 @@ def fix_address(address):
         return '4801 Airport Plaza Drive, Long Beach, CA'
     if 'Senior Center Library' in address:
         return 'El Dorado Park West Community Center, Long Beach, CA'
+    if 'Code Enforcement Conference Room' in address:
+        return '100 W. Broadway, Suite 400, Long Beach, CA 90802'
+    if 'Neighborhood Services Bureau' in address.lower():
+        return '100 W. Broadway, Suite 550, Long Beach, CA 90802'
 
     return '{}, Long Beach, CA'.format(address).replace('\n', ', ')
 
@@ -63,7 +69,6 @@ def fix_address(address):
 def enhance_and_clean_record(record):
     url = record['link']
     r = requests.get(url)
-    print(url)
     soup = BeautifulSoup(r.content, 'html.parser')
 
 
@@ -75,12 +80,12 @@ def enhance_and_clean_record(record):
     if record['location']:
         cleaned_address = fix_address(record['location'])
 
-        print('record location: {}'.format(cleaned_address))
         geocoded_location = geocode(cleaned_address)
-        print(geocoded_location)
         if geocoded_location:
             record['coordinates'] = geocoded_location
-            print('Found location: {}'.format(geocoded_location))
+        else:
+            print('record location: {}'.format(cleaned_address))
+            print('location not found')
 
 
     # Get meeting name
