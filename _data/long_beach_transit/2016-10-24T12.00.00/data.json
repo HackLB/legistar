@@ -1,9 +1,191 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=509434&GUID=65E7A315-FEA7-488C-AD0E-8BA80F8D8FAD",
+    "agenda_items": [
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "2. Minutes 9 26 16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734116&GUID=4D5A7F72-30BD-4BA5-AEA9-5FB03B4343AA"
+                }
+            ],
+            "file_num": "16-079TR",
+            "name": "Approval of Minutes",
+            "title": "Recommendation to approve the minutes of the regular session meeting held on September 26, 2016. (Maricela de Rivera)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857142&GUID=5D30FAC3-01D2-4D53-8BB8-C0B0D31F3078&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "7a. Monthly Financial Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734670&GUID=A58BC28C-AAB3-4D71-BA61-42867FC675B2"
+                },
+                {
+                    "filename": "7b. Quarterly Investment Report.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742405&GUID=7A5DB657-CC6C-4E04-B47D-59A632B990ED"
+                }
+            ],
+            "file_num": "16-090TR",
+            "name": "Monthly Financial Report",
+            "title": "Monthly Financial Report. (Lisa Patton)\r\n\r\nINFORMATION ITEM",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857151&GUID=F9AE9687-2367-44C4-98F4-AED7441E59C9&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "8. Actuarial Valuation of Retirement Plans for Contract Employees.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734726&GUID=FFCAF5DD-6E3B-4777-A9B3-9618EF03EC4B"
+                },
+                {
+                    "filename": "8a. Long Beach Transit Contract Plan Actuarial Valuation 7-1-2016.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734727&GUID=A8A1E20B-D3BD-49E6-ACD8-C966B688CB51"
+                }
+            ],
+            "file_num": "16-082TR",
+            "name": "Actuarial Valuation of Retirement Plans for Contract Employees as of July 1, 2016",
+            "title": "Actuarial Valuation of Retirement Plans for Contract Employees as of July 1, 2016. (Lisa Patton)\r\n\r\nINFORMATION ITEM",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857117&GUID=2A0862EA-D5B1-4827-848D-4F518F471860&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "9. Actuarial Valuation of Retirement Plans for Salaried Employees.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734740&GUID=7DF5C5DF-6FAB-4FB6-B370-1759293C74CC"
+                },
+                {
+                    "filename": "9a. Long Beach Transit Salaried 7-1-2016 Actuarial Valuation Final.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734741&GUID=9F5B33D5-BDBC-4F92-B79B-BD09F5F10138"
+                }
+            ],
+            "file_num": "16-083TR",
+            "name": "Actuarial Valuation of Retirement Plans for Salaried Employees as of July 1, 2016",
+            "title": "Actuarial Valuation of Retirement Plans for Salaried Employees as of July 1, 2016. (Lisa Patton)\r\n\r\nINFORMATION ITEM",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857118&GUID=2E8DD2A6-A613-4606-992D-EC267E4DC918&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [
+                {
+                    "filename": "10. Changes in Authorized Banking Personnel.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734721&GUID=AE0B0D15-90F7-45D0-A015-471135F99456"
+                }
+            ],
+            "file_num": "16-084TR",
+            "name": "Changes in Authorized Banking Personnel",
+            "title": "Recommendation to adopt a resolution to update the authorized personnel able to perform banking and investment transactions for Long Beach Transit. (Lisa Patton)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857123&GUID=1A8D34A2-DDB3-4F7B-887A-8B7B883AA3B1&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 11,
+            "attachments": [
+                {
+                    "filename": "11. Management Services for Workers' Compensation Claims and Medical Bill Review Services.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734722&GUID=6DE52EF4-F8E8-44AB-B244-E9063302C7EF"
+                }
+            ],
+            "file_num": "16-085TR",
+            "name": "Management Services for Workers’ Compensation Claims and Medical Bill Review Services",
+            "title": "Recommendation to authorize the President and CEO to enter into a three-year, fixed-rate contract with Athens Administrators for the provision of management services for workers’ compensation claims and medical bill review services, at a cost of $842,827 with two, one-year options at $301,051 for Option Year One, and $309,873 for Option Year Two, for a total authorization amount not to exceed $1,453,751. (LaVerne David)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857128&GUID=F74299CF-F186-41D3-9647-AD0E33A5422E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 12,
+            "attachments": [
+                {
+                    "filename": "12. Epoxy Shop Floor System Application.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734724&GUID=5E77E1DD-87F0-4353-AC00-C69EE0A505CF"
+                }
+            ],
+            "file_num": "16-086TR",
+            "name": "Epoxy Shop Floor System Application",
+            "title": "Recommendation to authorize the President and CEO to enter into a contract with Servicon Systems, Inc., for the installation of Tennant Epoxy floor coating systems at the LBT2 Maintenance building, at a cost of $135,313 with two options at $168,644 for Option Year One and $175,840 for Option Year Two, for a total authorization amount not to exceed $479,797. (Debra Johnson)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857129&GUID=B2023277-9C4F-4E4D-984F-C63AB467628F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 13,
+            "attachments": [
+                {
+                    "filename": "Long Beach Transit Customer Code of Conduct October 2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4722127&GUID=BDCDC9E7-8E0B-443E-B0AA-348D93FFA812"
+                },
+                {
+                    "filename": "13. Long Beach Transit Customer Code of Conduct.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734748&GUID=71BBF4EF-40A8-43ED-B3E0-1074DFFE7672"
+                }
+            ],
+            "file_num": "16-087TR",
+            "name": "Long Beach Transit Customer Code of Conduct",
+            "title": "Recommendation to adopt the Long Beach Transit Customer Code of Conduct. (Debra Johnson)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857134&GUID=F0951614-75D7-4FD3-A12F-82D52FF5BA9E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 14,
+            "attachments": [
+                {
+                    "filename": "14. Calendar Year 2017 Board of Directors Meeting Dates.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734753&GUID=20E47B19-9738-49BB-853A-29B22FD7D5F7"
+                }
+            ],
+            "file_num": "16-088TR",
+            "name": "Calendar Year 2017 Board of Directors Meeting Dates",
+            "title": "Recommendation to approve the Board of Directors Meeting dates for Calendar Year 2017. (Ivette Gonzalez)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857136&GUID=340D6C06-37A0-4A8A-BF83-DF71D88A63AC&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 18,
+            "attachments": [
+                {
+                    "filename": "2. Minutes 9 26 16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734116&GUID=4D5A7F72-30BD-4BA5-AEA9-5FB03B4343AA"
+                }
+            ],
+            "file_num": "16-079TR",
+            "name": "Approval of Minutes",
+            "title": "Recommendation to approve the minutes of the regular session meeting held on September 26, 2016. (Maricela de Rivera)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857142&GUID=5D30FAC3-01D2-4D53-8BB8-C0B0D31F3078&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-10-24T12:00:00",
     "id": "65E7A315-FEA7-488C-AD0E-8BA80F8D8FAD-2016-10-22-00-12-03",

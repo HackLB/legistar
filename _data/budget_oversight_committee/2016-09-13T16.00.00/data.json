@@ -1,5 +1,54 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504990&GUID=7BA296C7-9D95-4098-A3AB-552CE821F76F",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "091316.boc.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4673241&GUID=F3BCEF10-9A87-40BE-B0B2-C2FEE79FA6CA"
+                }
+            ],
+            "file_num": "16-0862",
+            "name": "091316-BOC-MIns Apprvl 4 9/6/16",
+            "title": "Recommendation to approve the minutes for the Budget Oversight Committee meeting held Tuesday, September 6, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2832765&GUID=901A759A-2B06-460A-85E0-B959C44C49C4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "090616.boc.item4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4690428&GUID=E5EDD6C9-0624-4AEC-A964-EAC1A6C59C6B"
+                },
+                {
+                    "filename": "090616.boc.item4-PC-Building Healthy Communities.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4690429&GUID=87C5369C-7BF1-4220-B961-4B103A1AE210"
+                },
+                {
+                    "filename": "091316.boc.item2.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674343&GUID=13B6A31B-06C1-4B92-AE62-87214E0ABC62"
+                },
+                {
+                    "filename": "091316.boc.item2.Correspondence - Bill Pearl.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674347&GUID=90F6AED0-ECEC-41B5-BE89-396DDC89306B"
+                }
+            ],
+            "file_num": "16-0855",
+            "name": "090616-BOC-R&F; remaining Proposed FY17 Budget items",
+            "title": "Recommendation to review Mayor Garcia's budget recommendations, receive and file an update on any remaining Proposed Fiscal Year 2017 Budget items, and forward recommendations to the City Council.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2827174&GUID=073C9512-8122-4588-83BF-B52EB5ADA47A&Options=&Search=",
+            "version": 2
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

@@ -1,9 +1,10 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=503822&GUID=ECD8467D-7FE1-43B4-8A09-F9CBA4AC19C3",
+    "agenda_items": [],
     "coordinates": {
-        "address": "Long Beach, CA 90802, USA",
-        "latitude": 33.7415317,
-        "longitude": -118.1941785
+        "address": "100 W Broadway #400, Long Beach, CA 90802, USA",
+        "latitude": 33.7689325,
+        "longitude": -118.1930229
     },
     "datetime": "2016-09-19T13:30:00",
     "id": "ECD8467D-7FE1-43B4-8A09-F9CBA4AC19C3-2016-09-28-18-52-07",

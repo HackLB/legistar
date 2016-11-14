@@ -1,9 +1,73 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=502433&GUID=BD04AFD5-B714-475C-91F5-DC47FB9734DA",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "16-036ED Finished Agenda And Draft Minutes 07.26.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4638963&GUID=E3279A9B-90E7-4610-9280-580AEDBC185B"
+                }
+            ],
+            "file_num": "16-036ED",
+            "name": "ED-Minutes 07.26.16",
+            "title": "Recommendation to approve the minutes for the meeting held July 26, 2016.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819069&GUID=BAECF075-E0CC-4FAE-AE57-F27508BFB83C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "16-038ED Finished Agenda And Minutes EDC RLF Aug 16, 2016 Meeting.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4638964&GUID=B2FA371D-F762-4854-89D2-1C9E2227FFA2"
+                }
+            ],
+            "file_num": "16-038ED",
+            "name": "ED-RLF Subcommittee",
+            "title": "Recommendation to receive and file the minuttes from the Revolving Loan Fund Subcommittee meeting held August 16, 2016 regarding actions related to loan considerations.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819071&GUID=1DF87E52-565D-4D40-A93A-7161688E380F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "16-037ED",
+            "name": "ED-Mayor Discussion",
+            "title": "Recommendation to receive and file a discussion by Mayor Robert Garcia regarding economic development priorities and opportunities for the City of Long Beach.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819070&GUID=9B826AD3-AE23-4EC1-9FA3-818F749A64AE&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-039ED",
+            "name": "ED-ED Blueprint Status",
+            "title": "Recommendation to receive and file an update from the City's Innovation Team regarding the status of the Draft Economic Development Blueprint.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819072&GUID=5CE65D1C-3F88-4A38-A609-A622CB6E7460&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [],
+            "file_num": "16-040ED",
+            "name": "ED-Other Cities' Strategic Plans",
+            "title": "Recommendation to receive and file a presentation from the City's Innovation Team regarding other cities' strategic plans for economic development.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819073&GUID=BC938931-0E9F-4A4A-B17B-9F1BBB478064&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-08-30T16:00:00",
     "id": "BD04AFD5-B714-475C-91F5-DC47FB9734DA-2016-09-06-18-12-12",

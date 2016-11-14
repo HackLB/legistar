@@ -1,5 +1,17 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504084&GUID=419C1DC6-0C0D-4529-A28E-B4F14E422269",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-052CP",
+            "name": "090816-CPCC-CS",
+            "title": "CPCC NO.\t\tALLEGATION(S)\r\n15-259\t\t\tFailure to Investigate and Unbecoming Conduct.\r\n15-256\t\t\tUse of Force.\r\n15-233\t\t\tMisuse of Authority, Unbecoming Conduct and Failure to \r\n\t\t\t\t\tInvestigate.\r\n16-009\t\t\tUse of Force, Improper Detention and Profanity.\r\n15-276\t\t\tUse of Force and Unbecoming Conduct.\r\n16-005\t\t\tUnbecoming Conduct and Dishonesty.\r\n15-254\t\t\tFailure to Investigate, Unbecoming Conduct and \r\n\t\t\t\t\tHarassment.\r\n15-245\t\t\tMisuse of Authority, Unbecoming Conduct and \r\n\t\t\t\t\tDishonesty.\r\n16-120\t\t\tBias Based Policing.\r\n15-253\t\t\tUnbecoming Conduct.",
+            "type": "CP-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2827277&GUID=E0C44419-0865-44AE-A48D-5031DA4079A2&Options=&Search=",
+            "version": 1
+        }
+    ],
     "datetime": "2016-09-08T18:30:00",
     "id": "419C1DC6-0C0D-4529-A28E-B4F14E422269-2016-09-03-01-25-59",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=504084&GUID=419C1DC6-0C0D-4529-A28E-B4F14E422269",

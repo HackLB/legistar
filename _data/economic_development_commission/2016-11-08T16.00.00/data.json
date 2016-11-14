@@ -1,12 +1,66 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=513872&GUID=55DC0C0B-BC5E-4CA2-ACD4-6CEF529FD77A",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-055ED",
+            "name": "ED-Phase II Session",
+            "title": "Staff update regarding Phase II of the Beacon Economics report.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2875540&GUID=6ED49496-4C57-40FE-AC56-BE11B15C5963&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "16-056ED",
+            "name": "DLBA Pres",
+            "title": "Recommendation to receive and file a presentation of Downtown Long Beach Alliance programs including discussion of Business Improvement Districts by DLBA President and CEO, Kraig Kojian.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2875541&GUID=7CB33F6C-7953-4300-B191-9A2C61722E58&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "20161102 ED Blueprint Focus Areas.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4763233&GUID=7CFC1118-F6EC-4C23-BFEF-C035D5BCD4B1"
+                }
+            ],
+            "file_num": "16-057ED",
+            "name": "Focus Areas study",
+            "title": "Recommendation to receive and approve Economic Development Commissioners’ five proposed Focus Areas study areas. ",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2875498&GUID=387B7CF2-468B-4ED7-9EBC-7DB985B9D402&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "DRAFT-Blueprint-Calendar_11 2 16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4762981&GUID=8B1374BD-BB1D-421F-B579-9172FEE4C4C2"
+                }
+            ],
+            "file_num": "16-058ED",
+            "name": "proposed calendar",
+            "title": "Recommendation to approve Economic Development Commissioners’ proposed calendar for upcoming Economic Development Commission meetings.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2875537&GUID=15FCEC88-9A3A-42D9-8547-4198CA6A2463&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-11-08T16:00:00",
-    "id": "55DC0C0B-BC5E-4CA2-ACD4-6CEF529FD77A-2016-11-03-21-51-46",
+    "id": "55DC0C0B-BC5E-4CA2-ACD4-6CEF529FD77A-2016-11-11-18-01-45",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=513872&GUID=55DC0C0B-BC5E-4CA2-ACD4-6CEF529FD77A",
     "location": "333 W. OCEAN BOULEVARD\r\n3RD FLOOR CONFERENCE RM",
     "minutes": null,

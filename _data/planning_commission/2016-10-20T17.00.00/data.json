@@ -1,5 +1,127 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=508797&GUID=E5CBD7DB-900E-48D3-9B0C-60C758E3FECA",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "10-6-16 PC minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727499&GUID=570A4FD2-1A9D-475E-B357-4A1FA5A8C0B1"
+                }
+            ],
+            "file_num": "16-070PL",
+            "name": "PL - PC minutes 10-6-16",
+            "title": "Recommendation to receive and file the Planning Commission minutes of October 6, 2016.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859313&GUID=9EC279CB-999F-462E-A263-BB43491C1B8E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "230 W. 3rd Street staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727500&GUID=03301094-A739-4016-B74D-60D3C1DD49BA"
+                },
+                {
+                    "filename": "230 W. 3rd Street Exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727507&GUID=A958ED72-B289-4D01-9427-CDB590397C28"
+                },
+                {
+                    "filename": "230 W. 3rd Street exhibit C.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727508&GUID=814CC869-7E7C-4E28-B6FA-D656F1B8BF45"
+                }
+            ],
+            "file_num": "16-071PL",
+            "name": "PL 230 W. Third Street",
+            "title": "Recommendation to approve a Site Plan Review for the construction of an eight-story, 163-unit residential development at 230 W. Third Street in the Downtown Planned Development District (PD-30). (District 1) (Application No. 1603-20)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859314&GUID=7B44AEC8-CD00-4E34-810B-AEFFF40989AE&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "2 61st Place staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727502&GUID=55E20D01-B8D3-45CF-976F-6E9FAB8231F4"
+                },
+                {
+                    "filename": "2 61st Place exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727503&GUID=D30C81EE-074C-4FA4-BD3D-2C2C7394BA2C"
+                },
+                {
+                    "filename": "2 61st Place exhibit C.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727504&GUID=54802962-2C3A-47DC-9792-E3A0CA115543"
+                },
+                {
+                    "filename": "2 61st Place exhibit E.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727506&GUID=FBB4012D-FBA4-45AB-828A-B3EBAC353E0E"
+                },
+                {
+                    "filename": "2 61st Place exhibit F.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4734041&GUID=BFC207C6-8AAA-4FC8-9383-526B13D48D19"
+                }
+            ],
+            "file_num": "16-072PL",
+            "name": "PL - 2 61st Place",
+            "title": "Recommendation to recommend that the City Council adopt Negative Declaration ND-03-16 and approve a Zone Change from CNR (Neighborhood Commercial and Residential District) to R-2-I (a two-family, three-story residential district), a Local Coastal Development Permit, and a Local Coastal Program Amendment, for the property at 2 61st Place. (District 3) (Application No. 1603-22)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859315&GUID=E423E0E0-6946-4F02-A6CE-F6A438A9E53A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "777 E. Ocean Boulevard staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727551&GUID=6F317C77-6069-4EDD-BFDF-43EAE58D26E8"
+                },
+                {
+                    "filename": "777 E. Ocean Blvd exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727552&GUID=883DBDAD-89CB-4618-BD14-B16C98BA685E"
+                },
+                {
+                    "filename": "777 E. Ocean Blvd Exhibit D.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4732050&GUID=F0D6C20D-D353-45B6-A058-A8A17227B54F"
+                }
+            ],
+            "file_num": "16-073PL",
+            "name": "PL - 777 E. Ocean Boulevard",
+            "title": "Recommendation to approve an Addendum to the Shoreline GatewayEnvironmental Impact Report (#18-05 and 26-07) and approve a Modification to Site Plan Review to allow a 35-story mixed-use building (East Tower) with 315 residential units and 6,711 square feet of retail/restaurant space, previously approved for 221 residential units and 6,367 square feet of retail/restaurant space as part of the Shoreline Gateway Master Plan (Application No. 0510-27), to be constructed on a vacant parcel located at 777 E. Ocean Boulevard, in the Downtown Plan (PD-30) area. (District 2) (Application No. 1512-25)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859336&GUID=090997EE-B77A-404B-A4B7-B78C15A52CB9&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "ABM Ord staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727553&GUID=31D8D84E-0B3C-4730-8821-213C19A70BCF"
+                }
+            ],
+            "file_num": "16-074PL",
+            "name": "PL - ABM Amendment",
+            "title": "Recommendation to recommend that the City Council accept Categorical Exemption CE-16-236, approve a Zoning Code Amendment and Local Coastal Program Amendment to revise provisions relating to the regulation of Alcoholic Beverage Manufacturing facilities, specifically pertaining to parking requirements, hours of operation, locational requirements, and review processes. (Citywide) (Application No. 1609-25)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859337&GUID=615283D5-8ECE-45E0-942A-8E6D2DF1FC36&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

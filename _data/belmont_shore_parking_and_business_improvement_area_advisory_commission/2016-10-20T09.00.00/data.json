@@ -1,5 +1,71 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=507944&GUID=D85C0D5D-6DC4-4F37-84D2-F1F21A969BC4",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "16-050BS Finished Agenda And Draft Minutes 09.15.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4731134&GUID=D0B3EB2D-E01E-4D19-8063-356DFC214276"
+                }
+            ],
+            "file_num": "16-050BS",
+            "name": "BS-Minutes 09.15.16",
+            "title": "Recommendation to approve the minutes for the meeting held September 15, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860849&GUID=AE7702C6-FAC1-4743-9940-37C996DBF248&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "16-051BS BSPBIAAC Aug 2016 Financial Statement.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4731135&GUID=46E48CC2-C414-433E-B379-929385B74BAF"
+                }
+            ],
+            "file_num": "16-051BS",
+            "name": "BS-Fncl Rpt Aug 2016",
+            "title": "Recommendation to receive and file the Financial Report for the period ending August 31, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860850&GUID=877F79CD-5220-44DD-8D3B-D6B6702A08FD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "16-052BS LBT BSERP Report September 2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4731136&GUID=949D6F11-F72A-41C4-A5C3-34EA1E7F3520"
+                }
+            ],
+            "file_num": "16-052BS",
+            "name": "BS-LBT Rpt Sep 2016",
+            "title": "Recommendation to receive and file the Long Beach Transit Employee Bus Pass Program Status Report for the period September 1, 2016 through September 30, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860851&GUID=7A3095B2-F739-483B-A663-9BE8F2628D88&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "16-053BS Arborist tree report Belmont Shore 2nd Street 10.06.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4731069&GUID=757DD3BE-EFBE-463E-8A30-263C53520D4B"
+                }
+            ],
+            "file_num": "16-053BS",
+            "name": "BS-Arborist Rpt",
+            "title": "Recommendation to receive and file the City’s arborist report regarding the trees located along 2nd Street in the Belmont Shore business district.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860826&GUID=9CB81672-D8F0-4F5D-964F-4CCCD235FC39&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "195 Bay Shore Ave, Long Beach, CA 90803, USA",
         "latitude": 33.7580301,

@@ -1,5 +1,71 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=506428&GUID=9870D9EA-11C1-4CCE-A1D0-6F7C4C797E2D",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "092316.i710.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4687512&GUID=64BBDB10-E92F-488F-A6B2-5FFE1BB1D3DB"
+                }
+            ],
+            "file_num": "16-0891",
+            "name": "092316-I-710-Mins Apprvl 4 8/21/15",
+            "title": "Recommendation to approve the minutes of the I-710 Oversight Committee meeting held Friday, August 21, 2015.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841080&GUID=649B2FB4-5931-4CED-80AB-6C188B2926AD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "092316.i710.noatt2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4687513&GUID=600D3DE5-B7A1-4E3B-897C-5A23A02CACB7"
+                }
+            ],
+            "file_num": "16-0892",
+            "name": "092316-I710-R&F; Update Project",
+            "title": "Recommendation to receive and file an update on the I-710 Project.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841082&GUID=9E03E60F-F264-415E-9FC8-26DE2D920D75&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "092316.i710.noatt3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4687514&GUID=09483019-1297-4C8B-8808-86A66705E12C"
+                }
+            ],
+            "file_num": "16-0893",
+            "name": "092316-I710-R&F; Update Livability Init.",
+            "title": "Recommendation to receive and file an update on the I-710 Livability Initiative.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841083&GUID=4CD93A9C-34A5-4D97-8524-6CD8516677EB&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "092316.i710.noatt4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4687531&GUID=CA8969DC-FE18-4068-95B2-04DCD5A9DDD1"
+                }
+            ],
+            "file_num": "16-0894",
+            "name": "092316-I710-R&F; Shoemaker Bridge Proj. Update",
+            "title": "Recommendation to receive and file an update on the Shoemaker Bridge Project.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841090&GUID=AA77F9D3-D6F7-4E5B-847A-4DD92C7FB665&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

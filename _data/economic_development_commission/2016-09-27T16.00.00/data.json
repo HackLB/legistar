@@ -1,9 +1,73 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=505059&GUID=71DCFD7A-FF0E-4650-8F53-33D353B2AEF9",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "16-041ED Finished Agenda And Draft Minutes 08.30.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4689226&GUID=2290D0B1-ABA8-43AC-A443-6164C6B24206"
+                }
+            ],
+            "file_num": "16-041ED",
+            "name": "ED-Minutes 08.30.16",
+            "title": "Recommendation to approve the minutes for the meeting held August 30, 2016.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841895&GUID=F37A4648-7215-45F1-939D-5C581387BD5F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "16-045ED Loan Committee Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4689227&GUID=B95377FE-8306-4F02-9B71-3ED7F90288D3"
+                }
+            ],
+            "file_num": "16-045ED",
+            "name": "ED-RLF Report",
+            "title": "Recommendation to receive and file an oral report from the Revolving Loan Fund Subcommittee regarding actions related to loan considerations.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841896&GUID=ADBDE278-CDEF-4A40-8319-4655B09B497F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "16-046ED",
+            "name": "ED-Beacon Analysis",
+            "title": "Recommendation to receive and file a presentation of Long Beach Economic Development Support Analysis including a regional economic profile, detailed employment analysis, and detailed demographic analysis by Beacon Economics.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841927&GUID=528D773D-94D1-47DA-8CA9-7A8D9B40D6FD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-047ED",
+            "name": "ED-Study Session Calendar",
+            "title": "Recommendation to approve the updated Economic Development Blueprint Study Session Calendar and Project Schedule.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841928&GUID=602F62B8-6812-4AD4-B741-0F0F5BC05DEA&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [],
+            "file_num": "16-048ED",
+            "name": "ED-Study Sessions Focus",
+            "title": "Recommendation to finalize and approve the focus areas for the Economic Development Blueprint Study Sessions.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841929&GUID=C36C5119-A17D-4C63-AB3E-E4707BB1EAF1&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-09-27T16:00:00",
     "id": "71DCFD7A-FF0E-4650-8F53-33D353B2AEF9-2016-10-03-17-32-03",

@@ -1,0 +1,82 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=514974&GUID=E96D3292-72C5-4B23-B668-DAD56D50921B",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "1. 16-066PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777547&GUID=E8C85CE8-3E7C-425B-A349-D8DFFE9CB2D6"
+                }
+            ],
+            "file_num": "16-066PR",
+            "name": "2016 October Minutes",
+            "title": "Recommendation to approve the Parks & Recreation Commission Meeting minutes of October 20, 2016.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882740&GUID=DC51AA73-5200-4DC2-937C-42ED338D7982&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "2. 16-067PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777422&GUID=9671E4F4-6514-4141-B903-192A6EC2B637"
+                }
+            ],
+            "file_num": "16-067PR",
+            "name": "2016 November PSA",
+            "title": "Authorize the Director, or his or her management designee, to execute the Personal Services and Instruction Agreements and amend Attachment \"A\" of the agreements as needed.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882687&GUID=A3532D08-7FFC-4D76-B82B-339D45A8F537&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "3. 16-068PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777423&GUID=A6250CEB-83CB-4B22-BB93-A436D5E887A8"
+                }
+            ],
+            "file_num": "16-068PR",
+            "name": "2016 November Fee Waivers",
+            "title": "Recommendation to approve the fee waiver requests outlined in Attachment \"A\", in accordance with the Fee Waiver policy.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882689&GUID=BC9D7AB4-6415-4A9C-ABDE-5E063791145A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "4. 16-069PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777424&GUID=B3B8F69C-A564-4CBA-AB47-17B61464F2AB"
+                }
+            ],
+            "file_num": "16-069PR",
+            "name": "2016 Nov WCC",
+            "title": "Recommendation to receive and file the Director's monthly highlights report, \"We Create Community\",  for November, 2016.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882690&GUID=5A2FB104-BA77-4B0D-9378-D12D9830BD86&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "Long Beach, CA, USA",
+        "latitude": 33.7700504,
+        "longitude": -118.1937395
+    },
+    "datetime": "2016-11-17T09:00:00",
+    "id": "E96D3292-72C5-4B23-B668-DAD56D50921B-2016-11-12-01-35-31",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=514974&GUID=E96D3292-72C5-4B23-B668-DAD56D50921B",
+    "location": "El Dorado Park W. Community Cntr\r\nSenior Center Library\r\n2800 N. Studebaker Road",
+    "minutes": null,
+    "name": "Parks and Recreation Commission",
+    "summary": "",
+    "title": "Parks and Recreation Commission - 11/17/2016 - 9:00 AM"
+}

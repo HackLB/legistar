@@ -1,0 +1,82 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=516028&GUID=E5AE54B8-39C1-4C1E-B9C1-C3B5787C3F80",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "111516.flc.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777031&GUID=620FAF11-00F7-4A6D-8C33-2BC2D0A8EAFC"
+                }
+            ],
+            "file_num": "16-1021",
+            "name": "111516-FLC-Mins Apprvl 4 12/15/15",
+            "title": "Recommendation to approve the minutes for the Federal Legislation Committee meeting held Tuesday, December 15, 2015.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882506&GUID=A556AE41-7E6F-44B5-9AB2-432266F944FB&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "111516.flc.noatt2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777118&GUID=59E54AB0-F19D-42F0-A213-0B46F49C9225"
+                }
+            ],
+            "file_num": "16-1022",
+            "name": "111516-FLC-R&F; 2016 114th US Congress Rpt",
+            "title": "Recommendation to receive and file a report on the 114th United States Congress, calendar year 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882535&GUID=29409861-9C33-46DA-8A07-BF1F51F7ABE4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "111516.flc.item3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777119&GUID=A39A8D70-DF39-4457-9F77-23427D796B13"
+                }
+            ],
+            "file_num": "16-1023",
+            "name": "111516-FLC-R&F; Govt Affrs 2016 Nos.",
+            "title": "Recommendation to receive and file a report on the City's Government\nAffairs by the Numbers for FY 16.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882536&GUID=45753F8A-A663-420A-ABD4-13F29DE11174&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "111516.flc.item4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777120&GUID=9A7A14CA-9AFF-4D6F-BAF7-96572E5E44BE"
+                }
+            ],
+            "file_num": "16-1024",
+            "name": "111516-FLC-R&F;&F; 2017 Fed Leg Agenda",
+            "title": "Recommendation to receive and file staff's recommendations for the City's 2017 Federal Legislative Agenda, and forward the Federal Legislation Committee's recommendations to the City Council for adoption.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882537&GUID=2362C002-A4CB-49A5-8044-ABB0632E5130&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-11-15T16:00:00",
+    "id": "E5AE54B8-39C1-4C1E-B9C1-C3B5787C3F80-2016-11-11-21-25-42",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=516028&GUID=E5AE54B8-39C1-4C1E-B9C1-C3B5787C3F80",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": null,
+    "name": "Federal Legislation Committee",
+    "summary": "",
+    "title": "Federal Legislation Committee - 11/15/2016 - 4:00 PM"
+}

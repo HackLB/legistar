@@ -1,5 +1,57 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=506515&GUID=28596189-0E2D-4567-B867-6290850FC835",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-024TI",
+            "name": " ",
+            "title": "Recommendation to approve the minutes from the Technology & Innovation Commission meeting held Wednesday, August 24, 2016.",
+            "type": "TI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841431&GUID=76A53A21-2A24-4359-8537-DB8185E96E2F&Options=&Search=",
+            "version": 2
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "16-025TI",
+            "name": " ",
+            "title": "Recommendation to receive and file oral report updates from each Commissioner regarding potential civic engagement and technology and innovation opportunities with local groups.",
+            "type": "TI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841433&GUID=77C5CDA4-DD4B-481D-92D9-21E50AA28C39&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "16-026TI",
+            "name": " ",
+            "title": "Recommendation to receive and file oral report updates from each Commissioner regarding meetings with the City Council members to survey each district regarding potential civic engagement opportunities in their respective districts.",
+            "type": "TI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2844288&GUID=0693F029-7C40-42FA-8DAA-CADA14575646&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-027TI",
+            "name": " ",
+            "title": "Recommendation to receive and file oral reports regarding the Technology & Innovation Commission's potential engagement during Innovation Week events, including the Civic Innovation Summit.",
+            "type": "TI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2844254&GUID=04B7D3CC-EFC0-47E0-9BC9-7AFBB2560CF1&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [],
+            "file_num": "16-028TI",
+            "name": " ",
+            "title": "Recommendation to receive and file oral reports on external communication from the Technology & Innovation Commission.",
+            "type": "TI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2844289&GUID=D0BFF4A1-184A-4C56-876D-88B6C1C2DD81&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

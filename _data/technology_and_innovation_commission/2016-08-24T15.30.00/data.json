@@ -1,5 +1,39 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=501903&GUID=934746D6-D9E6-4770-8B56-CC78C958F1C1",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "FinishedAgendaAndDRAFTMinutes-6-22-2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4635295&GUID=91B90689-EAA0-4569-834A-6713F0A20392"
+                }
+            ],
+            "file_num": "16-017TI",
+            "name": " ",
+            "title": "Recommendation to approve the minutes of the Technology & Innovation Commission meeting held Wednesday, June 22, 2016.",
+            "type": "TI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2817584&GUID=2B835050-9933-4F71-AE6A-FF93752013A4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "Finished Agenda And DRAFT Minutes 7-27-2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4635296&GUID=B372925E-5ECB-4BC8-A679-188305642134"
+                }
+            ],
+            "file_num": "16-018TI",
+            "name": " ",
+            "title": "Recommendation to approve the minutes of the Technology & Innovation Commission Special Meeting held Wednesday, July 27, 2016.",
+            "type": "TI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2817585&GUID=A8B38A60-5213-432D-8702-FD349CFD5042&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

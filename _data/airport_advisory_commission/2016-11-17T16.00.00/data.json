@@ -1,0 +1,44 @@
+{
+    "agenda": null,
+    "agenda_items": [
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "16-026AC",
+            "name": "AAC Minutes 091516",
+            "title": "Recommendation to approve the Minutes from the Airport Advisory Commission meeting on September 15, 2016.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860725&GUID=70187ECB-88B3-42E6-96A9-EA62AA86F9F8&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "Draft AAC Annual Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4732698&GUID=6F7FB8F2-67CD-4D88-A0C9-F9819581B8BE"
+                }
+            ],
+            "file_num": "16-029AC",
+            "name": "AAC Annual Report",
+            "title": "Recommendation to consider the content of the Airport Advisory Commission Annual Report and take action to refer it to the City Council.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2861294&GUID=CAF452E2-7117-4CDC-BAF2-B6184343A810&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "Long Beach, CA 90808, USA",
+        "latitude": 33.8197825,
+        "longitude": -118.1064156
+    },
+    "datetime": "2016-11-17T16:00:00",
+    "id": "D89A0879-E843-47D4-90DC-AD9E98CADCE0-2016-11-10-19-55-38",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=515886&GUID=D89A0879-E843-47D4-90DC-AD9E98CADCE0",
+    "location": "Skylinks Municipal Golf Course\r\n4800 E. Wardlow Rd., LB 90808",
+    "minutes": null,
+    "name": "Airport Advisory Commission",
+    "summary": "",
+    "title": "Airport Advisory Commission - 11/17/2016 - 4:00 PM"
+}

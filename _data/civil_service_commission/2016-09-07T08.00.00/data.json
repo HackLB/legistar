@@ -1,9 +1,141 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504150&GUID=1B114F19-C15E-4CA0-823E-7D2B65C2DB1F",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "CSC MIN 8-17-16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653566&GUID=5C1036C2-C484-4471-98FC-7A8389198671"
+                }
+            ],
+            "file_num": "16-151CS",
+            "name": "CSC Minutes 8-24-16",
+            "title": "Recommendation to approve minutes: \nRegular Meeting of August 17, 2016",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826143&GUID=4937A7BD-C6EF-477B-B230-9F970F3AF2B2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "EXAM RESULTS.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653568&GUID=F876B157-B72E-44D2-AB34-56F6A1396C3A"
+                }
+            ],
+            "file_num": "16-152CS",
+            "name": "Exam Results",
+            "title": "Recommendation to approve examination results:\nBuilding Maintenance Engineer (Established 8/25/16) - 23 Applied,\n  2 Qualified\nBusiness Systems Specialist (Established 8/17/16) - 41 Applied, \n 41 Qualified\nClerk Supervisor (Established 9/1/16) - 73 Applied, 23 Qualified\nCommunication Specialist (Established 8/23/16) - 23 Applied, \n 23 Qualified\nPolice Officer - Lateral (Established 8/31/16) - 6 Applied, 6 Qualified\nPolice Property & Supply Clerk (Established 8/17/16) - 345 Applied, \n 118 Qualified\nPrincipal Building Inspector (Established 9/1/16) - 6 Applied, \n 5 Qualified\nProject Scheduler (Established 8/26/16) - 17 Applied, 17 Qualified\nSenior Civil Engineer (Established 8/23/16) - 36 Applied, \n 17 Qualified\nSpecial Services Officer (Established 8/19/16) - 36 Applied, \n 36 Qualified\nSystems Support Specialist (Established 8/17/16) - 66 Applied,\n 66 Qualified",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826150&GUID=19A21916-BDBE-453A-A353-B0A109C74B8E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "Bulletins.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653569&GUID=E264B425-2E85-46B0-8B3A-2077797C4686"
+                }
+            ],
+            "file_num": "16-153CS",
+            "name": "Bulletins",
+            "title": "Recommendation to receive and file bulletins:\r\nCivil Engineer\r\nCombination Building Inspector Aide\r\nEngineering Aide\r\nPetroleum Operations Coordinator\r\nRefuse Operator\r\nTree Trimmer",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826151&GUID=1D257056-54F2-431D-B0E0-7B62A7D4079B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-154CS",
+            "name": "Retirement",
+            "title": "Recommendation to receive and file retirement:\nRobin Hawkins/Police Officer/Police (31 yrs., 13 days)\nMichael Wooldridge/Police Officer/Police (24 yrs., 5 mos.)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826161&GUID=4DF1D9A3-2D69-4DCE-9B29-D5B4F394EB9B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [],
+            "file_num": "16-155CS",
+            "name": "Disability Retirement",
+            "title": "Recommendation to receive and file disability retirement (DELETED)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826162&GUID=12C210BE-9520-45EE-9AC6-1DD51DC960A6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [],
+            "file_num": "16-156CS",
+            "name": "Resignations",
+            "title": "Recommendation to receive and file resignations:\nMarvin Estrada/Parking Meter Technician I/Public Works \n (8 mos., 4 days)\nTanya Mungia/Library Clerk I/Library (4 yrs., 10 mos.)\nRoxana Martinez/Customer Service Representative III/Long Beach \n Gas & Oil (5 yrs., 4 mos.)\nSteven-Ray Wing/Police Recruit/Police (4 mos., 15 days)\nDanielle Grajeda/Customer Service Representative III/Financial\n  Management (15 yrs., 4 mos.)\nChristopher Visscher/Civil Engineer/Harbor (2 yrs., 2 mos.)\nJanae Rivera/Animal Control Officer I/Parks (3 yrs., 2 mos.)\nBonnie Tam/Administrative Analyst III/Fire (9 yrs., 10 days)\nRay Hammond/Administrative Analyst II/Financial Management\n  (1 yr., 5 mos.)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826163&GUID=57C414C0-C30A-47B1-BB80-450B1CB3C7BA&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [],
+            "file_num": "16-157CS",
+            "name": "Transfers",
+            "title": "Recommendation to approve transfers:\nBetty Forgacs/Accounting Clerk III/Library to Accounting\n Clerk III/Fire\nJaime Serrano/Senior Equipment Operator/Long Beach \n Gas & Oil to Senior Equipment Operator/Water\nVictor Serrano/Senior Equipment Operator/Long Beach \n Gas & Oil to Senior Equipment Operator/Water\nCarmelo Vaca/Combination Building Inspector Aide I/Development\n  Services to Combination Building Inspector Aide II/Fire",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826164&GUID=256CE69C-5879-4CF6-A46D-BF22C42D452C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "EXT NC HOURS - J  IVERSON.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653570&GUID=4617AD79-EBE3-4E2A-8FF6-92AC9D31EEF0"
+                }
+            ],
+            "file_num": "16-158CS",
+            "name": "Ext NC Hours - Joshus Iverson - WUW",
+            "title": "RECOMMENDATION TO EXTEND NON-CAREER HOURS - Joshua Iverson, Water Utility Worker NC\r\nCommunication from Christopher J. Garner, General Manager, Water Department",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826172&GUID=95FF32B6-6DBE-4FA8-8D94-1A0838D2872B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "EXT EXP ELIGIBLE LST.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653578&GUID=F0AEDFDF-074F-43B0-AFFE-3B22D2FB37D2"
+                }
+            ],
+            "file_num": "16-159CS",
+            "name": "Extension of Eligible Lists",
+            "title": "RECOMMENDATION TO APPROVE EXTENSION OF EXPIRING ELIGIBLE LISTS (6 months)\nStaff report prepared by Kandice Taylor-Sherwood, Executive Director\nHousing Aide (9/25/15)\nPublic Health Nurse Test 1 (3/18/16)\nSenior Equipment Operator - Crane Test 3 (9/3/15)\nSenior Plumbing Inspector Test 2 & 3 (3/8/16 & 3/31/16)\nSenior Program Manager - Harbor Test 5 (9/14/15)\nTransportation Programs Planner Test 2 (3/4/16)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826173&GUID=4F989FFB-A91A-4AA8-86FF-293FD33501A8&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [],
+            "file_num": "16-160CS",
+            "name": "Order of Layoff",
+            "title": "RECOMMENDATION FOR ORDER-OF-LAYOFF\r\nCommunication for Patrick H. West, City Manager",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826187&GUID=6EBD636A-3296-4B58-A0F1-1297C57FBD00&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-09-07T08:00:00",
     "id": "1B114F19-C15E-4CA0-823E-7D2B65C2DB1F-2016-09-21-20-15-46",

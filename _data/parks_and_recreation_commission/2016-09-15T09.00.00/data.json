@@ -1,12 +1,126 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504740&GUID=AD3C55A2-B177-469F-8081-2526B63ED588",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "8.18.16 draft minutes",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4670150&GUID=DB3C9CA7-CF49-494A-B7BB-692B09B1E4E1"
+                }
+            ],
+            "file_num": "16-052PR",
+            "name": "2016 August minutes",
+            "title": "Recommendation to approve the Parks & Recreation Commission Meeting minutes of August 18, 2016.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2833069&GUID=D742FD78-7B87-4D12-8E84-11CEC8311E12&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "2. 16-053PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4670160&GUID=D757833F-9416-4E46-9B13-E1EDA212E1F3"
+                }
+            ],
+            "file_num": "16-053PR",
+            "name": "2016 September PSA",
+            "title": "Authorize the Director, or his or her management designee, to execute the Personal Services and Instruction Agreements and amend Attachment \"A\" of the agreements as needed.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2829843&GUID=4DE3CEAC-A5ED-44CF-A30E-E377DAAC1867&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "3. 16-054PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4670159&GUID=528C34B4-96E1-4347-87E3-8C51FB618298"
+                }
+            ],
+            "file_num": "16-054PR",
+            "name": "2016 September Fee Waivers",
+            "title": "Recommendation to approve the fee waiver requests outlined in Attachment \"A\", in accordance with the Fee Waiver policy.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2829844&GUID=74E0DC02-4BD1-4AB4-8F46-740A1F586A22&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "4. 16-056PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4670210&GUID=9EDE615D-ACF6-43BF-801C-22DA01D24AB8"
+                }
+            ],
+            "file_num": "16-055PR",
+            "name": "2016 September Fitness Provider",
+            "title": "Authorize the Director to execute the First Amendment to Fitness Provider Permit No. 33126 with Emily Duval Ledger, dba Recreation Fitness at Whaley Park; and amend Attachment “A” of the Permits as needed. (District 4)",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2829910&GUID=CD9E0B1F-7679-47C2-95BF-084F08AC9CFE&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "5.  16-056PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4670211&GUID=3F497B36-8074-40FB-B362-010EC53FB5E2"
+                }
+            ],
+            "file_num": "16-056PR",
+            "name": "2016 September Lawn Bowling",
+            "title": "Authorize the Director of Parks, Recreation and Marine to execute a Non-exclusive Revocable Permit with Long Beach Lawn Bowling Club, a California Non-profit Corporation, for the use and operation of the Long Beach Lawn Bowling buildings and greens for a term of three years, with two, three-year renewal options at the discretion of the Director.  (District 3)",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2833095&GUID=D374F03A-686F-481A-AB4D-9E21BBC60410&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [
+                {
+                    "filename": "WCC Sept. 2016",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4670212&GUID=B2B87209-6B94-4651-BB7E-F4FF20A8888C"
+                }
+            ],
+            "file_num": "16-057PR",
+            "name": "2016 September WCC",
+            "title": "Recommendation to receive and file the Director's monthly highlights report, \"We Create Community\",  for September, 2016.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2829923&GUID=43E8E62B-FAF5-4792-8C17-C93821104540&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "8. 16-058PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4670233&GUID=E617D900-3138-4502-8B98-F096D9558562"
+                }
+            ],
+            "file_num": "16-058PR",
+            "name": "2016 September Correspondence",
+            "title": "Recommendation to receive and file correspondence for September, 2016.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2831046&GUID=A6639947-571C-41D2-98DB-5F2A3786B423&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "Long Beach, CA, USA",
         "latitude": 33.7700504,
         "longitude": -118.1937395
     },
     "datetime": "2016-09-15T09:00:00",
-    "id": "AD3C55A2-B177-469F-8081-2526B63ED588-2016-10-20-19-11-44",
+    "id": "AD3C55A2-B177-469F-8081-2526B63ED588-2016-11-12-01-52-04",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=504740&GUID=AD3C55A2-B177-469F-8081-2526B63ED588",
     "location": "El Dorado Park W. Community Cntr\r\nSenior Center Library\r\n2800 N. Studebaker Road",
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=504740&GUID=AD3C55A2-B177-469F-8081-2526B63ED588",

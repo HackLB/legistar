@@ -1,5 +1,106 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504209&GUID=F90AD159-9832-4107-9338-06A440CBAE2E",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "090616.boc.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4654416&GUID=22490D6D-5C39-423A-AFD0-676AFEA26E92"
+                }
+            ],
+            "file_num": "16-0852",
+            "name": "090616-BOC-Mins Apprvl 4 8/23/16",
+            "title": "Recommendation to approve the minutes for the Budget Oversight Committee meeting held Tuesday, August 23, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826742&GUID=8584484F-A717-4614-8E5E-816603ABF214&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "090616.boc.item2a.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686810&GUID=31BAE203-1EAC-42EA-AE6B-D273BA2B0901"
+                },
+                {
+                    "filename": "090616.boc.item2b.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686811&GUID=C9FF5030-ABD4-4AA7-BBD5-B4509339C0BA"
+                },
+                {
+                    "filename": "090616.boc.item2c.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686812&GUID=27ADE4DD-DBCF-441E-8590-A98EDC5ECB42"
+                },
+                {
+                    "filename": "090616.boc.item2d.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686813&GUID=DFB5898E-F63D-42B8-85A3-9462FD9A4CC3"
+                }
+            ],
+            "file_num": "16-0853",
+            "name": "090616-BOC-R&F; Overview of the Proposed FY 2017 4 LS, DS",
+            "title": "Recommendation to receive and file follow-up information from the \nAugust 23, 2016 Budget Hearing to receive and discuss an Overview of the Proposed Fiscal Year 2017 Budget for the following: Library Services, Department of Development Services, and from the August 23, 2016 meeting of the Budget Oversight Committee.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826784&GUID=C74C4F28-71EC-4B13-963F-0B4E5616F760&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "090616.boc.item3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4690360&GUID=8B54967B-1C18-4BBB-A18A-63F4D70DA946"
+                },
+                {
+                    "filename": "090616.boc.item3-PowerPoint.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4690361&GUID=FD00A1B6-97CF-4026-BC76-29E8E671118E"
+                }
+            ],
+            "file_num": "16-0854",
+            "name": "090616-BOC-R&F; Budget Priority Survey",
+            "title": "Recommendation to receive and file the Long Beach Budget Priority Survey results.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826972&GUID=0B76E61B-6993-4E7B-82C0-C44DA09866E2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "090616.boc.item4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4690428&GUID=E5EDD6C9-0624-4AEC-A964-EAC1A6C59C6B"
+                },
+                {
+                    "filename": "090616.boc.item4-PC-Building Healthy Communities.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4690429&GUID=87C5369C-7BF1-4220-B961-4B103A1AE210"
+                },
+                {
+                    "filename": "091316.boc.item2.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674343&GUID=13B6A31B-06C1-4B92-AE62-87214E0ABC62"
+                },
+                {
+                    "filename": "091316.boc.item2.Correspondence - Bill Pearl.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674347&GUID=90F6AED0-ECEC-41B5-BE89-396DDC89306B"
+                }
+            ],
+            "file_num": "16-0855",
+            "name": "090616-BOC-R&F; remaining Proposed FY17 Budget items",
+            "title": "Recommendation to review Mayor Garcia's budget recommendations, receive and file an update on any remaining Proposed Fiscal Year 2017 Budget items, and forward recommendations to the City Council.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2827174&GUID=073C9512-8122-4588-83BF-B52EB5ADA47A&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

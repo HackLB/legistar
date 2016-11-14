@@ -1,5 +1,113 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=502604&GUID=1DB7CB32-0D40-4DB8-B2C3-C076A162248E",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "16-045BS Finished Agenda And Draft Minutes 08.18.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4667689&GUID=B4804628-E7EE-4E67-8AFD-A925402A6378"
+                }
+            ],
+            "file_num": "16-045BS",
+            "name": "BS-Minutes 08.18.16",
+            "title": "Recommendation to approve the minutes for the meeting held August 18, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2832015&GUID=71A0840F-40F0-4244-9823-E3CF5F759794&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "16-046BS BSPBIAAC Jul 2016 Financial Statement.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4667690&GUID=8FA197C9-3D80-4E8A-A664-720A9DE19C9F"
+                }
+            ],
+            "file_num": "16-046BS",
+            "name": "BS-Fncl Rpt July 2016",
+            "title": "Recommendation to receive and file the Financial Report for the period ending July 31, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2832016&GUID=3D5F96AD-80C0-41EE-ADE7-C900D81DE73F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "16-047BS LBT BSERP Report August 2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4667691&GUID=C3DC763D-0E97-4201-85C4-B5575C30D978"
+                }
+            ],
+            "file_num": "16-047BS",
+            "name": "BS-LBT Rpt Aug 2016",
+            "title": "Recommendation to receive and file the Long Beach Transit Employee Bus Pass Program Status Report for the period August 1, 2016 through August 31, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2832017&GUID=103A2878-B740-44CD-A4EF-90AE9D680DA0&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "16-048BS Holiday Free Parking Days.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4667692&GUID=91941B65-A7A4-4508-821A-A3BACECF01A8"
+                }
+            ],
+            "file_num": "16-048BS",
+            "name": "BS-Holiday Parking",
+            "title": "Recommendation to approve free two-hour parking on 2nd Street for a total of five weekend days in December 2016 to encourage holiday season shopping in Belmont Shore.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2832018&GUID=6D345DB9-2449-4371-92F2-CC7CEAC4F97C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "16-049BS Covina alley wall repair.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4667693&GUID=FDD0EDAB-3577-41E4-9856-FD2890317692"
+                }
+            ],
+            "file_num": "16-049BS",
+            "name": "BS-Covina wall repair",
+            "title": "Recommendation to approve expenditure not to exceed $3,000 to repair and reconstruct a wall located near the alley located on Covina Avenue, as well as install a protective bollard, and cement the area immediately adjacent to the wall.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2832019&GUID=4FB1B7F5-CE03-4809-BFD6-6C5DFE90076F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [
+                {
+                    "filename": "16-044BS Big Belly Cigarette Ashtrays.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4623331&GUID=4B39D6BF-85D6-4718-B486-BE0DBEE78C4F"
+                },
+                {
+                    "filename": "Big Belly Ashtray quote 1 unit.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4623332&GUID=75169C26-FF91-4EF7-8ABB-1821FB7608D3"
+                },
+                {
+                    "filename": "Big Belly Ashtray photo - description.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4623333&GUID=0040E0FF-34B6-4041-92A2-D95ABC022015"
+                }
+            ],
+            "file_num": "16-044BS",
+            "name": "BS-Ashtrays",
+            "title": "Recommendation to approve purchase and installation of cigarette ashtrays to be attached to existing Big Belly trash compactors at a cost of $190.75 each.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2811890&GUID=5EA03F77-FC93-4929-8B59-ADDBA79875B9&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "195 Bay Shore Ave, Long Beach, CA 90803, USA",
         "latitude": 33.7580301,

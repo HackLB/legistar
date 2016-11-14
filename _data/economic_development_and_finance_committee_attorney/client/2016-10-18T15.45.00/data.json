@@ -1,9 +1,21 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=510976&GUID=A415FEAF-1FFA-49ED-8EA8-B68DFC8F8B61",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-0956",
+            "name": "101816-ED&F; (A/C)-WC",
+            "title": "A.  Recommendation to approve Existing Litigation - [Closed\r\n      session conference with legal counsel relating to existing\r\n      litigation pursuant to Paragraph (1) of Subdivision (d) of\r\n      Section 54956.9 of the California Government Code.]\r\n\r\n\t1.\tWorkers' Compensation Claim of John Zunich\r\n\t\t(ADJ8252754).",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2857861&GUID=0A65FDD8-A7A2-41E1-973C-F596EACFECED&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-10-18T15:45:00",
     "id": "A415FEAF-1FFA-49ED-8EA8-B68DFC8F8B61-2016-10-24-23-42-11",

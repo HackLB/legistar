@@ -1,9 +1,10 @@
 {
     "agenda": null,
+    "agenda_items": [],
     "coordinates": {
-        "address": "Long Beach, CA 90802, USA",
-        "latitude": 33.7415317,
-        "longitude": -118.1941785
+        "address": "100 W Broadway #400, Long Beach, CA 90802, USA",
+        "latitude": 33.7689325,
+        "longitude": -118.1930229
     },
     "datetime": "2016-09-28T13:30:00",
     "id": "52938AAD-9F94-48FC-8FA9-B925953BF8E7-2016-09-28-16-01-45",
