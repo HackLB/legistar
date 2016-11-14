@@ -35,6 +35,15 @@ def geocode(address):
         return geocode(address)
 
 
+def download(url, path):
+    r = requests.get(url, stream=True)
+    with open(path, 'wb') as f:
+        for chunk in r.iter_content(chunk_size=1024): 
+            if chunk: # filter out keep-alive new chunks
+                f.write(chunk)
+    return True
+
+
 def get_records():
     """
     Extracts city meeting records from the Legistar calendar
@@ -136,14 +145,12 @@ def enhance_and_clean_record(record):
                 row_rec['url'] = None
                 row_rec['file_num'] = None
             
-
             # Agenda item version
             try:
                 row_rec['version'] = int(cells[1].string.replace('.','').strip())
             except:
                 row_rec['version'] = None
             
-
             # Agenda item number
             try:
                 row_rec['agenda_num'] = int(cells[2].string.replace('.','').strip())
@@ -231,15 +238,11 @@ def save_record(record):
 
     agenda_path = os.path.join(directory, 'agenda.pdf')
     if record['agenda'] and not os.path.exists(agenda_path):
-        r = requests.get(record['agenda'])
-        with open(agenda_path, 'wb') as f:
-            f.write(r.content)
+        download(record['agenda'], agenda_path)
 
     minutes_path = os.path.join(directory, 'minutes.pdf')
     if record['minutes'] and not os.path.exists(minutes_path):
-        r = requests.get(record['minutes'])
-        with open(minutes_path, 'wb') as f:
-            f.write(r.content)
+        download(record['minutes'], minutes_path)
 
     for agenda_item in record['agenda_items']:
         agenda_dir_name = '{}'.format(agenda_item['agenda_num'])
@@ -254,10 +257,8 @@ def save_record(record):
             # Only download if it doesnt already exist
             if not os.path.exists(attachment_path):
                 print('Downloading: {}'.format(attachment['url']))
-                r = requests.get(attachment['url'])
-                print('Saving to: {}'.format(attachment_path))
-                with open(attachment_path, 'wb') as f:
-                    f.write(r.content)
+                download(attachment['url'], attachment_path)
+
 
     return True
 
