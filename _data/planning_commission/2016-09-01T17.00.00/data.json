@@ -1,5 +1,149 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=501662&GUID=84D86584-8418-4EAB-84F8-777BA5064A87",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "8-18-16 PC mins.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4639680&GUID=7DC60453-C499-48F4-83CC-CB3E58016DC4"
+                }
+            ],
+            "file_num": "16-048PL",
+            "name": "PL - PC minutes 8-18-16",
+            "title": "Recommendation to receive and file the Planning Commission minutes of August 18, 2016.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819352&GUID=7FFB2DE7-8772-4A6E-B0DB-73D197629D79&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "741-745 Vernon Street staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4639681&GUID=78DF71CC-07B4-4B1B-A26C-04833473EB71"
+                },
+                {
+                    "filename": "741-745 Vernon Street exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4639682&GUID=59C82F37-9B7E-463D-A037-096E4C834348"
+                }
+            ],
+            "file_num": "16-049PL",
+            "name": "PL 741-745 E. Vernon Street",
+            "title": "Recommendation to accept Categorical Exemption CE 12-099 and approve Tentative Parcel Map No. 73317 to allow the subdivision of a 13,959-square-foot parcel into two parcels (one 7,958 square feet in size, the other 6,001 square feet in size) at 741-751 E. Vernon Street in the Two-Family Residential (R-2-N) zoning district. (District 6) (Application No. 1212-16)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819353&GUID=E6EABF63-D5D1-4A9F-8CF5-652997DFCEF2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "1950-1960 Henderson Avenue staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4639683&GUID=7E1D0858-BCBB-47ED-8CEB-97BDAFF7BB0B"
+                },
+                {
+                    "filename": "1950-1960 Henderson Avenue Exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4639684&GUID=BD2BE638-2B8D-485F-BA77-55B565D19446"
+                }
+            ],
+            "file_num": "16-050PL",
+            "name": "PL - 1950-1960 Henderson Avenue",
+            "title": "Recommendation to accept Categorical Exemption CE 16-200 and approve Tentative Parcel Map No. 74303 for a new four-unit condominium, located at 1950-1960 Henderson Avenue within the Two-Family Residential (R-2-N) zoning district. (District 6) (Application No. 1605-31)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819354&GUID=C2F26101-6694-4BEB-B75E-6F9D0EBDF621&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "4000 E. Olympic Plaza staff reports.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4639685&GUID=89A4259A-BEE1-42EF-AD5E-398D70FB1688"
+                },
+                {
+                    "filename": "4000 E. Olympic Plaza Exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4639686&GUID=0E5F3AA3-2F12-43E2-964A-8F3F7E778E31"
+                }
+            ],
+            "file_num": "16-053PL",
+            "name": "PL - 4000 E. Olympic Plaza",
+            "title": "Recommendation to certify Environmental Impact Report 01-16 and approve Site Plan Review, Conditional Use Permit, Standards Variance, and Local Coastal Development Permit entitlements in conjunction with the construction and operation of the Belmont Beach and Aquatic Center, an indoor/outdoor pool facility with an adjacent passive park and cafe and restroom buildings at 4000 E. Olympic Plaza. (District 3) (Application No. 1602-54)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819357&GUID=57AE7AE3-F067-481F-85BF-B41E7E8EDA0F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "5255 E. Paoli Way staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702294&GUID=678F5086-091F-4401-BB57-6EAFD5403794"
+                },
+                {
+                    "filename": "Exhibit B plans.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702287&GUID=9F507BDE-DE27-4B86-9751-429E8B9D73B9"
+                }
+            ],
+            "file_num": "16-051PL",
+            "name": "PL - 5255 E. Paoli Way appeal",
+            "title": "Recommendation to accept Categorical Exemption 16-156 and deny the appeal and uphold the decision of the Zoning Administrator to approve a Local Coastal Development Permit for the repair and renovation of Marine Stadium Judging Stand S3, located at 5255 East Paoli Way. (District 3) (Application No. 1605-17)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848320&GUID=09AEEF44-2BCC-420B-9102-0A7AB10C68DD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "5255 E. Paoli Way staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702294&GUID=678F5086-091F-4401-BB57-6EAFD5403794"
+                },
+                {
+                    "filename": "Exhibit B plans.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702287&GUID=9F507BDE-DE27-4B86-9751-429E8B9D73B9"
+                }
+            ],
+            "file_num": "16-051PL",
+            "name": "PL - 5255 E. Paoli Way appeal",
+            "title": "Recommendation to accept Categorical Exemption 16-156 and deny the appeal and uphold the decision of the Zoning Administrator to approve a Local Coastal Development Permit for the repair and renovation of Marine Stadium Judging Stand S3, located at 5255 East Paoli Way. (District 3) (Application No. 1605-17)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848320&GUID=09AEEF44-2BCC-420B-9102-0A7AB10C68DD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "2900 E. PCH staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4639689&GUID=31221F2F-70C3-424A-99B9-F293CA2EDF5E"
+                },
+                {
+                    "filename": "2900 E. PCH Exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4639690&GUID=0BAB2F90-E835-4C7F-80A3-19043D2A4516"
+                }
+            ],
+            "file_num": "16-052PL",
+            "name": "PL - 2900 E. Pacific Coast Highway",
+            "title": "Recommendation to accept Categorical Exemption CE 16-019 and approve a Site Plan Review and Conditional Use Permit for a 2,258-square-foot, second story expansion to allow for the addition of 7 new motel rooms at an existing 29-room motel located at 2900 E. Pacific Coast Highway in the Commercial Highway (CH) and Two-Family Residential (R-2-N) zoning districts. (District 4) (Application No. 1601-24)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2819356&GUID=1886D073-3828-4048-9EF1-8DECE2E6C56A&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

@@ -1,5 +1,17 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=508599&GUID=740ED759-18A3-488D-9F8A-1000C860A094",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-058CP",
+            "name": "101316-CPCC-CS",
+            "title": "CPCC NO.\t\tALLEGATION(S)\r\n16-150\t\t\tFailure to Care for Property.\r\n15-255\t\t\tBias Based Policing.\r\n15-258\t\t\tUse of Force and Profanity.\r\n15-262\t\t\tUnbecoming Conduct, Improper Detention and Bias\r\n\t\t\t\t\tBased Policing.\r\n16-116\t\t\tUnbecoming Conduct.\r\n15-198\t\t\tFailure To Investigate.",
+            "type": "CP-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2852425&GUID=C3469EFB-8994-484F-988C-DF0D9B5BA977&Options=&Search=",
+            "version": 1
+        }
+    ],
     "datetime": "2016-10-13T18:00:00",
     "id": "740ED759-18A3-488D-9F8A-1000C860A094-2016-10-06-23-02-04",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=508599&GUID=740ED759-18A3-488D-9F8A-1000C860A094",

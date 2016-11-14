@@ -1,5 +1,105 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=503447&GUID=2B4D46B7-D040-4A48-B6DC-11D2D84261E7",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "CHC August 8 Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4649841&GUID=57FBDDBC-97DA-44BE-B715-371B7B905FC8"
+                }
+            ],
+            "file_num": "16-033CH",
+            "name": "August 8 Meeting Minutes",
+            "title": "Recommendation to receive and file the Cultural Heritage Commission minutes of August 8, 2016.",
+            "type": "CH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2824640&GUID=C83CC5DA-787D-4ACC-933C-33B66793536D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "Item No 1 Staff Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4652834&GUID=B1F6349C-1BE2-4283-9857-A3C48F685341"
+                },
+                {
+                    "filename": "Exhibit A Map.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4652836&GUID=7E00EAA4-33EF-4073-9C71-DBD1373CB8C3"
+                },
+                {
+                    "filename": "Exhibit B Plans and Photographs.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4652837&GUID=68AC5C39-3DC1-4BE8-B376-BDA67B87BA40"
+                },
+                {
+                    "filename": "Exhibit C Original Proposal.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4652838&GUID=D4AC1017-A169-4976-B132-897B91764EA7"
+                },
+                {
+                    "filename": "Exhibit D Redesign #1.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4652839&GUID=2C154739-3BB5-4202-B0A4-6104B28CE3A2"
+                },
+                {
+                    "filename": "Exhibit E Redesign #2.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4652840&GUID=D8881A47-8242-443E-AF45-D2774BF7D3BC"
+                },
+                {
+                    "filename": "Exhibit F Findings and Conditions of Approval.pdf",
+                    "num": 7,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4652841&GUID=EDE656EC-F0F7-45D9-AB0D-A606F822568C"
+                }
+            ],
+            "file_num": "16-027CH",
+            "name": "CH-909 Temple",
+            "title": "Recommendation to approve a Certificate of Appropriateness request for construction of a 1,044-square-foot one-story addition to an existing single-family residence and construction of a new 438-square-foot garage at 909 Temple Avenue in the Rose Park Historic District. (District 9) (Application No. HP16-236)",
+            "type": "CH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2776998&GUID=BE4C86FC-AA5B-43B1-93CA-D22793DAECDC&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "Item No 2 Staff Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4649845&GUID=9A7F0426-0B00-4BC3-AD1B-230CCBB82A14"
+                },
+                {
+                    "filename": "Exhibit A Map.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4649844&GUID=5F080D21-A04E-44EF-BD7C-497F83626889"
+                },
+                {
+                    "filename": "Exhibit B Photos.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4649842&GUID=CA98B601-B09E-44DF-A1B6-EEC4055E98D8"
+                },
+                {
+                    "filename": "Exhibit B Plans.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4649843&GUID=C8CF0450-4298-4FB0-893F-334B5EC9DE58"
+                },
+                {
+                    "filename": "Exhibit C Findings and Conditions of Approval.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4649846&GUID=C3FD4A73-95C9-492B-81AB-41953B7F4028"
+                }
+            ],
+            "file_num": "16-034CH",
+            "name": " ",
+            "title": "Recommendation to approve a Certificate of Appropriateness request for construction of a 351-square-foot living area addition and a 217-square-foot open porch attached to the rear of the existing single-family residence at 3730 Gardenia Avenue. The building is a contributing structure within the California Heights Historic District. (District 7) (Application No. HP16-352)",
+            "type": "CH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2824641&GUID=AFF59A77-DBF8-443D-A2A7-067E0BD2E4F3&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

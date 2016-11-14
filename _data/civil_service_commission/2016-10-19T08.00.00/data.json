@@ -1,9 +1,163 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=511145&GUID=FD0EB96E-2656-43F3-A81B-BD5E96F288FF",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "CSC MIN 10-5-16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4729776&GUID=5CFAC43E-CE74-4990-B307-8EE12E61B030"
+                }
+            ],
+            "file_num": "16-181CS",
+            "name": "CSC Minutes 10-5-16",
+            "title": "Recommendation to approve minutes: \r\nRegular Meeting of October 5, 2016",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860226&GUID=A1BA9F94-AFA3-4515-9E22-543B030A15A4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "EXAM RESULTS.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4729785&GUID=2DA770CD-9705-400C-AC2D-96FED1FFE255"
+                }
+            ],
+            "file_num": "16-182CS",
+            "name": "Exam Results",
+            "title": "Recommendation to approve examination results:\nCivil Engineer (Established 10/14/16) - 23 Applied, 23 Qualified\nCommunication Specialist (Established 10/4/16) - 78 Applied, \n 19 Qualified\nElectrician (Established 10/5/16) - 11 Applied, 11 Qualified\nGeneral Librarian (Established 10/12/16) - 98 Applied, 67 Qualified\nPetroleum Operations Coordinator (Established 10/7/16) - \n 56 Applied, 21 Qualified\nProject Scheduler (Established 10/5/16) - 113 Applied, 11 Qualified\nPublic Health Nutritionist (Established 10/10/16) - 44 Applied,\n  6 Qualified\nSpecial Services Officer (Established 10/10/16) - 26 Applied, \n 26 Qualified\nSurvey Technician (Established 10/5/16) - 51 Applied, 11 Qualified",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860230&GUID=71FC2058-5B7B-4EA1-BEDF-7B123D408E05&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "Bulletins.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4729786&GUID=E01712DC-6322-4E94-9AB9-7BB98BF9DCAA"
+                }
+            ],
+            "file_num": "16-183CS",
+            "name": "Bulletins",
+            "title": "Recommendation to receive and file bulletins:\r\nCommunications Center Supervisor\r\nDeputy Fire Marshal\r\nPublic Safety Dispatcher\r\nSenior Survey Technician",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860231&GUID=A46E220E-3943-496B-88AA-5C0F21A97D0F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [],
+            "file_num": "16-185CS",
+            "name": "Resignations",
+            "title": "Recommendation to receive and file resignations:\nRobert McDonald/Customer Services Supervisor 1/Public Works \n (15 yrs., 5 mos.)\nOlevia Labeeb/Public Safety Dispatcher I/Disaster Preparedness & \n Emergency Communication (2 mos., 20 days)\nTheodore Clausell/Maintenance Assistant I/Airport (26 days)\nRyan Shemo/Police Recruit/Police (17 days)\nGino Jones/Customer Service Representative III/Long Beach\n Gas & Oil (1 yr., 4 mos.)\nDavid Arcila/Police Recruit/Police (17 days)\nJose Santos Rodriquez/Police Recruit (17 days)\nArlene Johnson/Permit Technician I/Development Services\n  (1 yr., 1 mo.)\nChristopher Malray/Ambulance Operator/Fire (7 mos., 20 days)\nLarry Fleet/Police Officer/Police (3 yrs., 4 mos.)\nChristopher Paolini/Airport Operations Specialist II/Airport \n (4 yrs., 11 mos.)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860262&GUID=7634DF8E-5ADD-4686-9CB2-E298E95BAFF1&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [],
+            "file_num": "16-186CS",
+            "name": "Transfers",
+            "title": "Recommendation to approve transfers:\r\nChristine Best/Administrative Analyst II/Financial Management to Administrative Analyst III/Public Works\r\nLuz Flores/Maintenance Assistant I/Public Works to Maintenance Assistant I/Airport",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860263&GUID=5BFA81E9-2C5B-4319-8C8D-6974EA843FED&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "PROV APPTS .pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4729828&GUID=192101AA-7B04-4B5C-B35D-CBEAA24D6681"
+                }
+            ],
+            "file_num": "16-187CS",
+            "name": "Provisional Appt - Mechanical Engineers",
+            "title": "RECOMMENDATION FOR PROVISIONAL APPOINTMENT - Jane Hermsen and Chuck Querido, Mechanical Engineer\r\nCommunication from Sandra Aguilar, Personnel Officer, Long Beach Gas & Oil",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860264&GUID=FA36AE9C-9873-40BE-A024-C075AF5C5321&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "SEL CERT - ADMIN AIDE.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4729830&GUID=976F3448-310D-42C6-AE1E-510E5E2FB10C"
+                }
+            ],
+            "file_num": "16-188CS",
+            "name": "Select Cert - Admin Aide",
+            "title": "RECOMMENDATION FOR SELECTIVE CERTIFICATION - Administrative Aide\r\nCommunication from Marie Knight, Director of Parks, Recreation & Marine",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860265&GUID=3F0894EA-606D-489E-BB14-E9A3A77B135B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "SEL CERT - ADMIN ANALYST.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4729831&GUID=9CAC3296-4366-490B-966E-9BF86F860AA4"
+                }
+            ],
+            "file_num": "16-189CS",
+            "name": "Selective Cert - Admin Analyst",
+            "title": "RECOMMENDATION FOR SELECTIVE CERTIFICATION - Administrative Analyst\r\nCommunication from Cynthia Stafford, Deputy Director - Human Resources",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860266&GUID=DC6041F4-3836-4FAD-9D98-2AB632D8879C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [],
+            "file_num": "16-190CS",
+            "name": "Protest of Exam - Fire Engineer",
+            "title": "RECOMMENDATION TO APPROVE PROTEST OF WRITTEN EXAMINATION ITEMS - Fire Engineer\r\nStaff Report prepared by Lourdes Ferrer, Administrative Analyst",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860272&GUID=C77A3E74-5328-432F-850B-149335A07775&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 11,
+            "attachments": [],
+            "file_num": "16-191CS",
+            "name": "Protest of Exam - Engineering Aide",
+            "title": "RECOMMENDATION TO APPROVE PROTEST OF WRITTEN EXAMINATION ITEMS - Engineering Aide\r\nStaff Report prepared by Deborah McCluster, Personnel Analyst",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860273&GUID=430523F5-3139-4F93-A0C2-1D8F88C04604&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 12,
+            "attachments": [
+                {
+                    "filename": "EXAM RESULTS - PR.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4729844&GUID=811C029B-238D-4E7F-ABD3-3CAFBDF79DEA"
+                }
+            ],
+            "file_num": "16-192CS",
+            "name": "Exam Results - Police Recruit",
+            "title": "RECOMMENDATION TO APPROVE EXAMINATION RESULTS\nPolice Recruit - NTN Examination (Established 10/5/16) - 530 Applied, 175 Qualified\nPolice Recruit - Post Waiver (Established 10/4/16) - 98 Applied, 59 Qualified",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860274&GUID=0565C6A3-6266-4B5E-80A5-C79240C19C84&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-10-19T08:00:00",
     "id": "FD0EB96E-2656-43F3-A81B-BD5E96F288FF-2016-11-03-16-02-38",

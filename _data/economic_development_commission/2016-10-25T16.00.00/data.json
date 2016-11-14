@@ -1,5 +1,73 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=509232&GUID=B3990A5C-EC33-4B57-9EA0-E5165F26E855",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "16-051ED Finished Agenda And Draft Minutes 09.27.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4735556&GUID=05E9A8CC-E9B7-41EB-82D1-07FD645ED037"
+                }
+            ],
+            "file_num": "16-051ED",
+            "name": "ED-Minutes 09.27.16",
+            "title": "Recommendation to receive and file the minutes for the meeting held September 27, 2016.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2862814&GUID=2A655447-2BF5-493D-BD87-6516263DCE4A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "16-052ED",
+            "name": "ED-Pacific Gateway",
+            "title": "Recommendation to receive and file a presentation of Pacific Gateway Workforce Investment Board programs including an overview of regional employment trends by Pacific Gateway Executive Director, Nick Schultz.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2862823&GUID=D37B6601-8924-4C10-91F6-6A59A8F5D364&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "16-050ED",
+            "name": "ED-Blueprint Topics",
+            "title": "Recommendation to receive Commissioners’ proposed topics for upcoming Economic Development Blueprint study sessions.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859774&GUID=9C86F342-ED30-4864-A169-38FF25822882&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-053ED",
+            "name": "ED-Cancel 11.29.16 Mtg",
+            "title": "Recommendation to cancel the November 29, 2016 Economic Development Commission meeting.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2862818&GUID=630EB820-9143-4E83-BFB9-0C3C20D38FA5&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-053ED",
+            "name": "ED-Cancel 11.29.16 Mtg",
+            "title": "Recommendation to cancel the November 29, 2016 Economic Development Commission meeting.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2862818&GUID=630EB820-9143-4E83-BFB9-0C3C20D38FA5&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [],
+            "file_num": "16-054ED",
+            "name": "ED-FIS Study Session",
+            "title": "Recommendation to conduct a study session to receive and file a presentation on a feasibility study for a Federal Inspection Service (FIS) facility at the Long Beach Airport.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2862820&GUID=8B595C61-695B-4360-9A36-1EBB66357D1C&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

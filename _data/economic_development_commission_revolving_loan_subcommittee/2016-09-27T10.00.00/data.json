@@ -1,9 +1,59 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=506146&GUID=E84FBCCA-615F-4DB3-B0A6-E8E7CE24A6B5",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "16-050ED EDC RLF Minutes 08.16.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4688139&GUID=CA1B9D99-1192-4FED-B54B-E511E0037998"
+                }
+            ],
+            "file_num": "16-042ED",
+            "name": "ED-Minutes 08.16.16",
+            "title": "Recommendation to approve the minutes for the meeting held August 16, 2016.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841370&GUID=3633A7C6-E45A-4DA8-8FC7-F090EF5EA158&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "McKenzie Crematory, Inc. Credit Memo.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4688141&GUID=F942EE2C-649A-421E-837F-D41C26CD1305"
+                }
+            ],
+            "file_num": "16-043ED",
+            "name": "ED-McKenzie Crematory",
+            "title": "Recommendation to approve the Revolving Loan request in the amount of $300,000 for McKenzie Crematory, 1520 Seabright Avenue, Long Beach, CA  90813.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841369&GUID=1FB4D48D-2F4C-4060-92EA-CE41B10E76BD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "Wide Eyes Open Palms Inc. Credit Memo.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4688143&GUID=E0F50945-B16E-436C-8DAF-3534207AD72A"
+                }
+            ],
+            "file_num": "16-044ED",
+            "name": "ED-Wide Eyes Open Palms",
+            "title": "Recommendation to approve the Revolving Loan request in the amount of $25,000 for Wide Eyes Open Palm, 416 Cherry Avenue, Long Beach, CA  90802.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2841371&GUID=3BD3FF4A-7708-4FEC-A88D-193EF48B9627&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-09-27T10:00:00",
     "id": "E84FBCCA-615F-4DB3-B0A6-E8E7CE24A6B5-2016-09-20-22-51-58",

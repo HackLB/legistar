@@ -1,5 +1,119 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=503950&GUID=955C1841-D684-4C3B-B96D-0A9BA3447A7E",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "090716.tut.noatt1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653948&GUID=D002C300-8D58-417C-8041-30664E334BD8"
+                }
+            ],
+            "file_num": "16-001TU",
+            "name": "TU - Introduction and Welcome by Mayor",
+            "title": "Recommendation to receive and file an Introduction and Welcome by Mayor Garcia.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826550&GUID=8843E6EC-0305-4689-99C1-FC04666CE6E0&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "090716.tut.att2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653946&GUID=B7F3C592-5BCF-4766-B5C0-B329488F0D43"
+                }
+            ],
+            "file_num": "16-002TU",
+            "name": "TU - R&F; Resolutions",
+            "title": "Recommendation to receive and file Resolution No. RES-16-0033 Creating the Citizens’ Advisory Committee, Resolution No. RES-16-0017 Placing General Tax Measure on Ballot, and Resolution No. RES-16-0018 Expressing Intent to Prioritize Spending.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826551&GUID=8AB3E65C-8AB4-453C-91D0-F5DB01A9730D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "090716.tut.noatt3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653949&GUID=538AC2AB-59F0-475E-9BF9-8ED6B09A0EC2"
+                }
+            ],
+            "file_num": "16-003TU",
+            "name": "TU - Elect Chair & Vice Chair",
+            "title": "Recommendation to elect a Chair and Vice Chair of the Measure A Citizens’ Advisory Committee.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826552&GUID=E7B9EE87-9034-4091-8E92-11D6784C85A6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "090716.tut.att4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653950&GUID=91491513-584E-44E8-88AA-3ED99F24E2A8"
+                }
+            ],
+            "file_num": "16-004TU",
+            "name": "TU - FY17 Proposed Budget presentation",
+            "title": "Recommendation to receive and file a staff presentation on the FY 17 Proposed Budget.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826553&GUID=329AA56B-6DE4-41A7-B392-7AFAADE47834&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "090716.tut.noatt5.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653951&GUID=8930B5C7-F5B6-43AF-9FDF-BA8D63D8FE9F"
+                }
+            ],
+            "file_num": "16-005TU",
+            "name": "TU - Measure A in FY 17 proposed budget presentation",
+            "title": "Recommendation to receive and file a staff presentation on the use of Measure A in the FY 17 Proposed Budget.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826554&GUID=82A6C093-D378-4098-BF67-F8977D78192B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [
+                {
+                    "filename": "090716.tut.att6.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653953&GUID=0712D637-AD94-495C-9061-ACFA0655B2AC"
+                }
+            ],
+            "file_num": "16-006TU",
+            "name": "TU - CM Proposed FY 17 budget conforming w/RES prioritizing spending",
+            "title": "Recommendation to approve City Manager’s Proposed FY 17 Budget as conforming with the intent of Resolution No. RES-16-0018 prioritizing spending and with the language contained in the ballot measure expressed in Resolution No. RES-16-0017.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826555&GUID=A3303A21-67F1-4694-8747-025E20971D4B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "090716.tut.noatt7.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4653952&GUID=A98C7207-2337-475E-B0B3-62D1262EB92A"
+                }
+            ],
+            "file_num": "16-007TU",
+            "name": "TU - Future Meeting Dates",
+            "title": "Recommendation to receive and file a discussion regarding future Committee meeting dates and topics.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2826556&GUID=D12A7C41-485B-4EBD-9EB4-0188F564E108&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

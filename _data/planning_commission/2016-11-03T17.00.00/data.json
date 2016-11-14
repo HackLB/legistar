@@ -1,12 +1,1058 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=511391&GUID=21EF5F76-9AD4-4621-A411-9C150D7780F3",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "710 W. Willow Staff Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4741730&GUID=B4364D03-26FB-4CE1-AF80-8224EAB00C28"
+                },
+                {
+                    "filename": "710 W. Willow Exhibit A.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4741731&GUID=34C3A5A3-0369-44BB-8205-12D0DA0400FC"
+                },
+                {
+                    "filename": "Exhibit E.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744934&GUID=452CF260-DF1E-47A1-9760-82C936195464"
+                },
+                {
+                    "filename": "Exhibit E pt 1.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744935&GUID=043A2544-C809-4924-B1B8-AE514B2172E3"
+                },
+                {
+                    "filename": "Exhibit E pt 2.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744936&GUID=3E319829-1422-4B38-AF25-3F5CEDDC67E3"
+                },
+                {
+                    "filename": "Exhibit E pt 3.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744937&GUID=F02FD7DB-EC97-4358-B602-CD5D85EBFD9E"
+                },
+                {
+                    "filename": "Exchibit E pt 4.pdf",
+                    "num": 7,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744938&GUID=8807520F-4F9E-43D1-A360-701529B11AC8"
+                },
+                {
+                    "filename": "Exhibit E pt 5.pdf",
+                    "num": 8,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744946&GUID=9E002F1F-3B44-41E6-85A8-99FDAAEEF8B0"
+                },
+                {
+                    "filename": "Exhibit E pt 6.pdf",
+                    "num": 9,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744948&GUID=DA532437-A55C-41D5-AE3D-EC2140C529A4"
+                },
+                {
+                    "filename": "Exhibit E pt 7.pdf",
+                    "num": 10,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744951&GUID=3463623F-FEEB-4011-9A17-416A9EFC5B79"
+                },
+                {
+                    "filename": "Exhibit E pt 8.pdf",
+                    "num": 11,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744953&GUID=82D3FC70-6D33-45D9-8310-49E1FA741A15"
+                },
+                {
+                    "filename": "Exhibit E pt 9.pdf",
+                    "num": 12,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744954&GUID=E202BF5E-FF5A-4B3D-B682-82D00C7E5ED5"
+                },
+                {
+                    "filename": "Exhibit E pt 10.pdf",
+                    "num": 13,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744955&GUID=6FB4AA71-9673-4BF0-B7C2-E3C0981A98BC"
+                },
+                {
+                    "filename": "Exhibit E pt 11.pdf",
+                    "num": 14,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744957&GUID=F651DB03-C1C0-4E1E-B52B-7A2EA3BDDE36"
+                },
+                {
+                    "filename": "Exhibit E pt 12.pdf",
+                    "num": 15,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744958&GUID=D303B0BD-E897-479D-A3EC-63D53AE3084D"
+                },
+                {
+                    "filename": "Exhibit E pt 13.pdf",
+                    "num": 16,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744959&GUID=88415949-098B-4A96-9EB9-F8B60DBD49CF"
+                },
+                {
+                    "filename": "Exhibit E pt 14.pdf",
+                    "num": 17,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744961&GUID=332B8713-A0CA-46A7-ACA0-0285D8FD349B"
+                },
+                {
+                    "filename": "Exhibit E pt 15.pdf",
+                    "num": 18,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744962&GUID=66FE6E9D-F9E0-469C-9A79-E1AF5C644AA3"
+                },
+                {
+                    "filename": "Exhibit E pt 16.pdf",
+                    "num": 19,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744964&GUID=3ACBF16D-DCF0-4959-99C9-108D95B90466"
+                },
+                {
+                    "filename": "Exhibit E pt 17.pdf",
+                    "num": 20,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744965&GUID=F1BE9327-30A9-4295-B516-B64BBCA960FC"
+                },
+                {
+                    "filename": "Exhibit E pt 18.pdf",
+                    "num": 21,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744967&GUID=8D148BF0-9216-40F3-B4D6-22AA830AE0BF"
+                },
+                {
+                    "filename": "Exhibit E pt 19.pdf",
+                    "num": 22,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744968&GUID=27F1D032-FFD9-47CB-A4FE-408D5B814C3A"
+                },
+                {
+                    "filename": "Exhibit E pt 20.pdf",
+                    "num": 23,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744969&GUID=503BED66-C92D-49B4-B7AE-6608EAA1DCB7"
+                },
+                {
+                    "filename": "Exhibit E pt 21.pdf",
+                    "num": 24,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744970&GUID=2832B11C-0764-4BBB-88ED-62DBE6D5FD80"
+                },
+                {
+                    "filename": "Exhibit E pt 22.pdf",
+                    "num": 25,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744971&GUID=7AEF8D87-F8B6-454C-BC3B-72BDA406924F"
+                },
+                {
+                    "filename": "Exhibit E pt 23.pdf",
+                    "num": 26,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744986&GUID=9F8E4A24-38F4-4C0F-AB45-BC5C2456D3AE"
+                },
+                {
+                    "filename": "Exhibit E pt 24.pdf",
+                    "num": 27,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744987&GUID=2A95CEDF-8A46-493B-942D-ABDB586EC8AF"
+                },
+                {
+                    "filename": "Exhibit E pt 25.pdf",
+                    "num": 28,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745011&GUID=55FD41A0-FDA5-4A87-8E9A-9292C4E9B10D"
+                },
+                {
+                    "filename": "Ehibit E pt 26.pdf",
+                    "num": 29,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744988&GUID=7EF51D50-2A6B-4172-84F2-00492EC4CBB0"
+                },
+                {
+                    "filename": "Exhibit E pt 27.pdf",
+                    "num": 30,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744989&GUID=6872BC32-E5B6-471F-A133-1AC4896ACCCE"
+                },
+                {
+                    "filename": "Exhibit E pt 28.pdf",
+                    "num": 31,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744990&GUID=ADACC61B-7BB1-49C0-889F-C560D5E636DF"
+                },
+                {
+                    "filename": "Exhibit E pt 29.pdf",
+                    "num": 32,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744991&GUID=60F90FA8-5958-4C5D-A843-75C40E859DBB"
+                },
+                {
+                    "filename": "Exhibit E pt 30.pdf",
+                    "num": 33,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744992&GUID=DA70F321-ED65-4E47-B21C-6191413189FF"
+                },
+                {
+                    "filename": "Exhibit E pt 31.pdf",
+                    "num": 34,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744993&GUID=814D4095-71A0-4377-AD45-AE9AD50A1DBE"
+                },
+                {
+                    "filename": "Exhibit E pt 32.pdf",
+                    "num": 35,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744994&GUID=B5784797-DC09-43E8-A0F6-475BF2FC9E86"
+                },
+                {
+                    "filename": "Exchibit E pt 33.pdf",
+                    "num": 36,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744995&GUID=CA5885E4-CA66-43E3-ACC2-89A162F0836B"
+                },
+                {
+                    "filename": "Exhibit E pt 34.pdf",
+                    "num": 37,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744996&GUID=49C3B9FC-46D5-4F24-8AB0-E8BD7A332FD3"
+                },
+                {
+                    "filename": "Exhibit E pt 35.pdf",
+                    "num": 38,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744997&GUID=9530C82F-D7CC-4696-AE59-6C8EF06C10B4"
+                },
+                {
+                    "filename": "Exhibit E pt 36.pdf",
+                    "num": 39,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744998&GUID=0F6CE339-8354-42D5-8B77-0E480010703F"
+                },
+                {
+                    "filename": "Exhibit E pt 37.pdf",
+                    "num": 40,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744999&GUID=BAFB9A39-F5FB-48B5-9614-ABD036BA3C1C"
+                },
+                {
+                    "filename": "Exhibit E pt 38.pdf",
+                    "num": 41,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745000&GUID=8A241C32-4CFF-433F-A939-AAEFAA3FA63E"
+                },
+                {
+                    "filename": "Exhibit E pt 39.pdf",
+                    "num": 42,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745001&GUID=5EDCE899-5243-48A6-8186-9321CA5D7E88"
+                },
+                {
+                    "filename": "Exhibit E pt 40.pdf",
+                    "num": 43,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745002&GUID=32C88BED-BEDA-4965-95E8-54357F39E2D8"
+                },
+                {
+                    "filename": "Exhibit E pt 41.pdf",
+                    "num": 44,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745004&GUID=443436AC-4EA4-464E-8CBF-82CC9EF87826"
+                },
+                {
+                    "filename": "Exhibit E pt 42.pdf",
+                    "num": 45,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745005&GUID=F0F704A8-C43F-4116-B3A0-34DC93C6D70F"
+                },
+                {
+                    "filename": "Exhibit E pt 43.pdf",
+                    "num": 46,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745006&GUID=274023BA-FC5F-498E-AB7D-3D63B9FFD0AA"
+                },
+                {
+                    "filename": "Exchibit E pt 44.pdf",
+                    "num": 47,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745007&GUID=AB0A4F81-FB1A-418C-A567-4B6349D2CC29"
+                },
+                {
+                    "filename": "Exhibit E pt 45.pdf",
+                    "num": 48,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745008&GUID=E7D9A509-37C4-4704-ADE3-21C990E74DE8"
+                },
+                {
+                    "filename": "Exhibit E pt 46.pdf",
+                    "num": 49,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745009&GUID=3A4BF614-D184-4F48-9277-E36ED0403D08"
+                },
+                {
+                    "filename": "Exhibit E pt 47.pdf",
+                    "num": 50,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745010&GUID=B74D29A5-3320-49EA-8C55-11231C57F153"
+                }
+            ],
+            "file_num": "16-076PL",
+            "name": "PL - 710 W. Willow Street - Miko's revocation",
+            "title": "Recommendation to receive supporting documentation into the record, conclude the public hearing and accept Categorical Exemption CE 16-247, revoke the Conditional Use Permit and Standards Variance (Case No. 9505-01) for a tavern; revoke the business licenses for the operator (Enaid's Way Inc., DBA Miko's Sports Lounge, including but not limited to BU21338610, BU21338620 and BU21338630) and; revoke the property owner's business license (Ronald L. Mackey and Peggy C. Mackey Trust, including but not limited to BU90057720) for the property located at 710 W. Willow Street in the Community Commercial Automobile-Oriented (CCA) zoning district. (District 7)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2865745&GUID=0A7AFFCE-ABD3-428B-880E-ED2A39CA18C2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "710 W. Willow Staff Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4741730&GUID=B4364D03-26FB-4CE1-AF80-8224EAB00C28"
+                },
+                {
+                    "filename": "710 W. Willow Exhibit A.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4741731&GUID=34C3A5A3-0369-44BB-8205-12D0DA0400FC"
+                },
+                {
+                    "filename": "Exhibit E.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744934&GUID=452CF260-DF1E-47A1-9760-82C936195464"
+                },
+                {
+                    "filename": "Exhibit E pt 1.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744935&GUID=043A2544-C809-4924-B1B8-AE514B2172E3"
+                },
+                {
+                    "filename": "Exhibit E pt 2.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744936&GUID=3E319829-1422-4B38-AF25-3F5CEDDC67E3"
+                },
+                {
+                    "filename": "Exhibit E pt 3.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744937&GUID=F02FD7DB-EC97-4358-B602-CD5D85EBFD9E"
+                },
+                {
+                    "filename": "Exchibit E pt 4.pdf",
+                    "num": 7,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744938&GUID=8807520F-4F9E-43D1-A360-701529B11AC8"
+                },
+                {
+                    "filename": "Exhibit E pt 5.pdf",
+                    "num": 8,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744946&GUID=9E002F1F-3B44-41E6-85A8-99FDAAEEF8B0"
+                },
+                {
+                    "filename": "Exhibit E pt 6.pdf",
+                    "num": 9,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744948&GUID=DA532437-A55C-41D5-AE3D-EC2140C529A4"
+                },
+                {
+                    "filename": "Exhibit E pt 7.pdf",
+                    "num": 10,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744951&GUID=3463623F-FEEB-4011-9A17-416A9EFC5B79"
+                },
+                {
+                    "filename": "Exhibit E pt 8.pdf",
+                    "num": 11,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744953&GUID=82D3FC70-6D33-45D9-8310-49E1FA741A15"
+                },
+                {
+                    "filename": "Exhibit E pt 9.pdf",
+                    "num": 12,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744954&GUID=E202BF5E-FF5A-4B3D-B682-82D00C7E5ED5"
+                },
+                {
+                    "filename": "Exhibit E pt 10.pdf",
+                    "num": 13,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744955&GUID=6FB4AA71-9673-4BF0-B7C2-E3C0981A98BC"
+                },
+                {
+                    "filename": "Exhibit E pt 11.pdf",
+                    "num": 14,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744957&GUID=F651DB03-C1C0-4E1E-B52B-7A2EA3BDDE36"
+                },
+                {
+                    "filename": "Exhibit E pt 12.pdf",
+                    "num": 15,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744958&GUID=D303B0BD-E897-479D-A3EC-63D53AE3084D"
+                },
+                {
+                    "filename": "Exhibit E pt 13.pdf",
+                    "num": 16,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744959&GUID=88415949-098B-4A96-9EB9-F8B60DBD49CF"
+                },
+                {
+                    "filename": "Exhibit E pt 14.pdf",
+                    "num": 17,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744961&GUID=332B8713-A0CA-46A7-ACA0-0285D8FD349B"
+                },
+                {
+                    "filename": "Exhibit E pt 15.pdf",
+                    "num": 18,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744962&GUID=66FE6E9D-F9E0-469C-9A79-E1AF5C644AA3"
+                },
+                {
+                    "filename": "Exhibit E pt 16.pdf",
+                    "num": 19,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744964&GUID=3ACBF16D-DCF0-4959-99C9-108D95B90466"
+                },
+                {
+                    "filename": "Exhibit E pt 17.pdf",
+                    "num": 20,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744965&GUID=F1BE9327-30A9-4295-B516-B64BBCA960FC"
+                },
+                {
+                    "filename": "Exhibit E pt 18.pdf",
+                    "num": 21,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744967&GUID=8D148BF0-9216-40F3-B4D6-22AA830AE0BF"
+                },
+                {
+                    "filename": "Exhibit E pt 19.pdf",
+                    "num": 22,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744968&GUID=27F1D032-FFD9-47CB-A4FE-408D5B814C3A"
+                },
+                {
+                    "filename": "Exhibit E pt 20.pdf",
+                    "num": 23,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744969&GUID=503BED66-C92D-49B4-B7AE-6608EAA1DCB7"
+                },
+                {
+                    "filename": "Exhibit E pt 21.pdf",
+                    "num": 24,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744970&GUID=2832B11C-0764-4BBB-88ED-62DBE6D5FD80"
+                },
+                {
+                    "filename": "Exhibit E pt 22.pdf",
+                    "num": 25,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744971&GUID=7AEF8D87-F8B6-454C-BC3B-72BDA406924F"
+                },
+                {
+                    "filename": "Exhibit E pt 23.pdf",
+                    "num": 26,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744986&GUID=9F8E4A24-38F4-4C0F-AB45-BC5C2456D3AE"
+                },
+                {
+                    "filename": "Exhibit E pt 24.pdf",
+                    "num": 27,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744987&GUID=2A95CEDF-8A46-493B-942D-ABDB586EC8AF"
+                },
+                {
+                    "filename": "Exhibit E pt 25.pdf",
+                    "num": 28,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745011&GUID=55FD41A0-FDA5-4A87-8E9A-9292C4E9B10D"
+                },
+                {
+                    "filename": "Ehibit E pt 26.pdf",
+                    "num": 29,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744988&GUID=7EF51D50-2A6B-4172-84F2-00492EC4CBB0"
+                },
+                {
+                    "filename": "Exhibit E pt 27.pdf",
+                    "num": 30,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744989&GUID=6872BC32-E5B6-471F-A133-1AC4896ACCCE"
+                },
+                {
+                    "filename": "Exhibit E pt 28.pdf",
+                    "num": 31,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744990&GUID=ADACC61B-7BB1-49C0-889F-C560D5E636DF"
+                },
+                {
+                    "filename": "Exhibit E pt 29.pdf",
+                    "num": 32,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744991&GUID=60F90FA8-5958-4C5D-A843-75C40E859DBB"
+                },
+                {
+                    "filename": "Exhibit E pt 30.pdf",
+                    "num": 33,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744992&GUID=DA70F321-ED65-4E47-B21C-6191413189FF"
+                },
+                {
+                    "filename": "Exhibit E pt 31.pdf",
+                    "num": 34,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744993&GUID=814D4095-71A0-4377-AD45-AE9AD50A1DBE"
+                },
+                {
+                    "filename": "Exhibit E pt 32.pdf",
+                    "num": 35,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744994&GUID=B5784797-DC09-43E8-A0F6-475BF2FC9E86"
+                },
+                {
+                    "filename": "Exchibit E pt 33.pdf",
+                    "num": 36,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744995&GUID=CA5885E4-CA66-43E3-ACC2-89A162F0836B"
+                },
+                {
+                    "filename": "Exhibit E pt 34.pdf",
+                    "num": 37,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744996&GUID=49C3B9FC-46D5-4F24-8AB0-E8BD7A332FD3"
+                },
+                {
+                    "filename": "Exhibit E pt 35.pdf",
+                    "num": 38,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744997&GUID=9530C82F-D7CC-4696-AE59-6C8EF06C10B4"
+                },
+                {
+                    "filename": "Exhibit E pt 36.pdf",
+                    "num": 39,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744998&GUID=0F6CE339-8354-42D5-8B77-0E480010703F"
+                },
+                {
+                    "filename": "Exhibit E pt 37.pdf",
+                    "num": 40,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744999&GUID=BAFB9A39-F5FB-48B5-9614-ABD036BA3C1C"
+                },
+                {
+                    "filename": "Exhibit E pt 38.pdf",
+                    "num": 41,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745000&GUID=8A241C32-4CFF-433F-A939-AAEFAA3FA63E"
+                },
+                {
+                    "filename": "Exhibit E pt 39.pdf",
+                    "num": 42,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745001&GUID=5EDCE899-5243-48A6-8186-9321CA5D7E88"
+                },
+                {
+                    "filename": "Exhibit E pt 40.pdf",
+                    "num": 43,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745002&GUID=32C88BED-BEDA-4965-95E8-54357F39E2D8"
+                },
+                {
+                    "filename": "Exhibit E pt 41.pdf",
+                    "num": 44,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745004&GUID=443436AC-4EA4-464E-8CBF-82CC9EF87826"
+                },
+                {
+                    "filename": "Exhibit E pt 42.pdf",
+                    "num": 45,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745005&GUID=F0F704A8-C43F-4116-B3A0-34DC93C6D70F"
+                },
+                {
+                    "filename": "Exhibit E pt 43.pdf",
+                    "num": 46,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745006&GUID=274023BA-FC5F-498E-AB7D-3D63B9FFD0AA"
+                },
+                {
+                    "filename": "Exchibit E pt 44.pdf",
+                    "num": 47,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745007&GUID=AB0A4F81-FB1A-418C-A567-4B6349D2CC29"
+                },
+                {
+                    "filename": "Exhibit E pt 45.pdf",
+                    "num": 48,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745008&GUID=E7D9A509-37C4-4704-ADE3-21C990E74DE8"
+                },
+                {
+                    "filename": "Exhibit E pt 46.pdf",
+                    "num": 49,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745009&GUID=3A4BF614-D184-4F48-9277-E36ED0403D08"
+                },
+                {
+                    "filename": "Exhibit E pt 47.pdf",
+                    "num": 50,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745010&GUID=B74D29A5-3320-49EA-8C55-11231C57F153"
+                }
+            ],
+            "file_num": "16-076PL",
+            "name": "PL - 710 W. Willow Street - Miko's revocation",
+            "title": "Recommendation to receive supporting documentation into the record, conclude the public hearing and accept Categorical Exemption CE 16-247, revoke the Conditional Use Permit and Standards Variance (Case No. 9505-01) for a tavern; revoke the business licenses for the operator (Enaid's Way Inc., DBA Miko's Sports Lounge, including but not limited to BU21338610, BU21338620 and BU21338630) and; revoke the property owner's business license (Ronald L. Mackey and Peggy C. Mackey Trust, including but not limited to BU90057720) for the property located at 710 W. Willow Street in the Community Commercial Automobile-Oriented (CCA) zoning district. (District 7)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2865745&GUID=0A7AFFCE-ABD3-428B-880E-ED2A39CA18C2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "710 W. Willow Staff Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4741730&GUID=B4364D03-26FB-4CE1-AF80-8224EAB00C28"
+                },
+                {
+                    "filename": "710 W. Willow Exhibit A.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4741731&GUID=34C3A5A3-0369-44BB-8205-12D0DA0400FC"
+                },
+                {
+                    "filename": "Exhibit E.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744934&GUID=452CF260-DF1E-47A1-9760-82C936195464"
+                },
+                {
+                    "filename": "Exhibit E pt 1.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744935&GUID=043A2544-C809-4924-B1B8-AE514B2172E3"
+                },
+                {
+                    "filename": "Exhibit E pt 2.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744936&GUID=3E319829-1422-4B38-AF25-3F5CEDDC67E3"
+                },
+                {
+                    "filename": "Exhibit E pt 3.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744937&GUID=F02FD7DB-EC97-4358-B602-CD5D85EBFD9E"
+                },
+                {
+                    "filename": "Exchibit E pt 4.pdf",
+                    "num": 7,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744938&GUID=8807520F-4F9E-43D1-A360-701529B11AC8"
+                },
+                {
+                    "filename": "Exhibit E pt 5.pdf",
+                    "num": 8,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744946&GUID=9E002F1F-3B44-41E6-85A8-99FDAAEEF8B0"
+                },
+                {
+                    "filename": "Exhibit E pt 6.pdf",
+                    "num": 9,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744948&GUID=DA532437-A55C-41D5-AE3D-EC2140C529A4"
+                },
+                {
+                    "filename": "Exhibit E pt 7.pdf",
+                    "num": 10,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744951&GUID=3463623F-FEEB-4011-9A17-416A9EFC5B79"
+                },
+                {
+                    "filename": "Exhibit E pt 8.pdf",
+                    "num": 11,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744953&GUID=82D3FC70-6D33-45D9-8310-49E1FA741A15"
+                },
+                {
+                    "filename": "Exhibit E pt 9.pdf",
+                    "num": 12,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744954&GUID=E202BF5E-FF5A-4B3D-B682-82D00C7E5ED5"
+                },
+                {
+                    "filename": "Exhibit E pt 10.pdf",
+                    "num": 13,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744955&GUID=6FB4AA71-9673-4BF0-B7C2-E3C0981A98BC"
+                },
+                {
+                    "filename": "Exhibit E pt 11.pdf",
+                    "num": 14,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744957&GUID=F651DB03-C1C0-4E1E-B52B-7A2EA3BDDE36"
+                },
+                {
+                    "filename": "Exhibit E pt 12.pdf",
+                    "num": 15,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744958&GUID=D303B0BD-E897-479D-A3EC-63D53AE3084D"
+                },
+                {
+                    "filename": "Exhibit E pt 13.pdf",
+                    "num": 16,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744959&GUID=88415949-098B-4A96-9EB9-F8B60DBD49CF"
+                },
+                {
+                    "filename": "Exhibit E pt 14.pdf",
+                    "num": 17,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744961&GUID=332B8713-A0CA-46A7-ACA0-0285D8FD349B"
+                },
+                {
+                    "filename": "Exhibit E pt 15.pdf",
+                    "num": 18,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744962&GUID=66FE6E9D-F9E0-469C-9A79-E1AF5C644AA3"
+                },
+                {
+                    "filename": "Exhibit E pt 16.pdf",
+                    "num": 19,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744964&GUID=3ACBF16D-DCF0-4959-99C9-108D95B90466"
+                },
+                {
+                    "filename": "Exhibit E pt 17.pdf",
+                    "num": 20,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744965&GUID=F1BE9327-30A9-4295-B516-B64BBCA960FC"
+                },
+                {
+                    "filename": "Exhibit E pt 18.pdf",
+                    "num": 21,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744967&GUID=8D148BF0-9216-40F3-B4D6-22AA830AE0BF"
+                },
+                {
+                    "filename": "Exhibit E pt 19.pdf",
+                    "num": 22,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744968&GUID=27F1D032-FFD9-47CB-A4FE-408D5B814C3A"
+                },
+                {
+                    "filename": "Exhibit E pt 20.pdf",
+                    "num": 23,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744969&GUID=503BED66-C92D-49B4-B7AE-6608EAA1DCB7"
+                },
+                {
+                    "filename": "Exhibit E pt 21.pdf",
+                    "num": 24,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744970&GUID=2832B11C-0764-4BBB-88ED-62DBE6D5FD80"
+                },
+                {
+                    "filename": "Exhibit E pt 22.pdf",
+                    "num": 25,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744971&GUID=7AEF8D87-F8B6-454C-BC3B-72BDA406924F"
+                },
+                {
+                    "filename": "Exhibit E pt 23.pdf",
+                    "num": 26,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744986&GUID=9F8E4A24-38F4-4C0F-AB45-BC5C2456D3AE"
+                },
+                {
+                    "filename": "Exhibit E pt 24.pdf",
+                    "num": 27,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744987&GUID=2A95CEDF-8A46-493B-942D-ABDB586EC8AF"
+                },
+                {
+                    "filename": "Exhibit E pt 25.pdf",
+                    "num": 28,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745011&GUID=55FD41A0-FDA5-4A87-8E9A-9292C4E9B10D"
+                },
+                {
+                    "filename": "Ehibit E pt 26.pdf",
+                    "num": 29,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744988&GUID=7EF51D50-2A6B-4172-84F2-00492EC4CBB0"
+                },
+                {
+                    "filename": "Exhibit E pt 27.pdf",
+                    "num": 30,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744989&GUID=6872BC32-E5B6-471F-A133-1AC4896ACCCE"
+                },
+                {
+                    "filename": "Exhibit E pt 28.pdf",
+                    "num": 31,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744990&GUID=ADACC61B-7BB1-49C0-889F-C560D5E636DF"
+                },
+                {
+                    "filename": "Exhibit E pt 29.pdf",
+                    "num": 32,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744991&GUID=60F90FA8-5958-4C5D-A843-75C40E859DBB"
+                },
+                {
+                    "filename": "Exhibit E pt 30.pdf",
+                    "num": 33,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744992&GUID=DA70F321-ED65-4E47-B21C-6191413189FF"
+                },
+                {
+                    "filename": "Exhibit E pt 31.pdf",
+                    "num": 34,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744993&GUID=814D4095-71A0-4377-AD45-AE9AD50A1DBE"
+                },
+                {
+                    "filename": "Exhibit E pt 32.pdf",
+                    "num": 35,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744994&GUID=B5784797-DC09-43E8-A0F6-475BF2FC9E86"
+                },
+                {
+                    "filename": "Exchibit E pt 33.pdf",
+                    "num": 36,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744995&GUID=CA5885E4-CA66-43E3-ACC2-89A162F0836B"
+                },
+                {
+                    "filename": "Exhibit E pt 34.pdf",
+                    "num": 37,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744996&GUID=49C3B9FC-46D5-4F24-8AB0-E8BD7A332FD3"
+                },
+                {
+                    "filename": "Exhibit E pt 35.pdf",
+                    "num": 38,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744997&GUID=9530C82F-D7CC-4696-AE59-6C8EF06C10B4"
+                },
+                {
+                    "filename": "Exhibit E pt 36.pdf",
+                    "num": 39,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744998&GUID=0F6CE339-8354-42D5-8B77-0E480010703F"
+                },
+                {
+                    "filename": "Exhibit E pt 37.pdf",
+                    "num": 40,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744999&GUID=BAFB9A39-F5FB-48B5-9614-ABD036BA3C1C"
+                },
+                {
+                    "filename": "Exhibit E pt 38.pdf",
+                    "num": 41,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745000&GUID=8A241C32-4CFF-433F-A939-AAEFAA3FA63E"
+                },
+                {
+                    "filename": "Exhibit E pt 39.pdf",
+                    "num": 42,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745001&GUID=5EDCE899-5243-48A6-8186-9321CA5D7E88"
+                },
+                {
+                    "filename": "Exhibit E pt 40.pdf",
+                    "num": 43,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745002&GUID=32C88BED-BEDA-4965-95E8-54357F39E2D8"
+                },
+                {
+                    "filename": "Exhibit E pt 41.pdf",
+                    "num": 44,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745004&GUID=443436AC-4EA4-464E-8CBF-82CC9EF87826"
+                },
+                {
+                    "filename": "Exhibit E pt 42.pdf",
+                    "num": 45,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745005&GUID=F0F704A8-C43F-4116-B3A0-34DC93C6D70F"
+                },
+                {
+                    "filename": "Exhibit E pt 43.pdf",
+                    "num": 46,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745006&GUID=274023BA-FC5F-498E-AB7D-3D63B9FFD0AA"
+                },
+                {
+                    "filename": "Exchibit E pt 44.pdf",
+                    "num": 47,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745007&GUID=AB0A4F81-FB1A-418C-A567-4B6349D2CC29"
+                },
+                {
+                    "filename": "Exhibit E pt 45.pdf",
+                    "num": 48,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745008&GUID=E7D9A509-37C4-4704-ADE3-21C990E74DE8"
+                },
+                {
+                    "filename": "Exhibit E pt 46.pdf",
+                    "num": 49,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745009&GUID=3A4BF614-D184-4F48-9277-E36ED0403D08"
+                },
+                {
+                    "filename": "Exhibit E pt 47.pdf",
+                    "num": 50,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745010&GUID=B74D29A5-3320-49EA-8C55-11231C57F153"
+                }
+            ],
+            "file_num": "16-076PL",
+            "name": "PL - 710 W. Willow Street - Miko's revocation",
+            "title": "Recommendation to receive supporting documentation into the record, conclude the public hearing and accept Categorical Exemption CE 16-247, revoke the Conditional Use Permit and Standards Variance (Case No. 9505-01) for a tavern; revoke the business licenses for the operator (Enaid's Way Inc., DBA Miko's Sports Lounge, including but not limited to BU21338610, BU21338620 and BU21338630) and; revoke the property owner's business license (Ronald L. Mackey and Peggy C. Mackey Trust, including but not limited to BU90057720) for the property located at 710 W. Willow Street in the Community Commercial Automobile-Oriented (CCA) zoning district. (District 7)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2865745&GUID=0A7AFFCE-ABD3-428B-880E-ED2A39CA18C2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "710 W. Willow Staff Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4741730&GUID=B4364D03-26FB-4CE1-AF80-8224EAB00C28"
+                },
+                {
+                    "filename": "710 W. Willow Exhibit A.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4741731&GUID=34C3A5A3-0369-44BB-8205-12D0DA0400FC"
+                },
+                {
+                    "filename": "Exhibit E.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744934&GUID=452CF260-DF1E-47A1-9760-82C936195464"
+                },
+                {
+                    "filename": "Exhibit E pt 1.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744935&GUID=043A2544-C809-4924-B1B8-AE514B2172E3"
+                },
+                {
+                    "filename": "Exhibit E pt 2.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744936&GUID=3E319829-1422-4B38-AF25-3F5CEDDC67E3"
+                },
+                {
+                    "filename": "Exhibit E pt 3.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744937&GUID=F02FD7DB-EC97-4358-B602-CD5D85EBFD9E"
+                },
+                {
+                    "filename": "Exchibit E pt 4.pdf",
+                    "num": 7,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744938&GUID=8807520F-4F9E-43D1-A360-701529B11AC8"
+                },
+                {
+                    "filename": "Exhibit E pt 5.pdf",
+                    "num": 8,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744946&GUID=9E002F1F-3B44-41E6-85A8-99FDAAEEF8B0"
+                },
+                {
+                    "filename": "Exhibit E pt 6.pdf",
+                    "num": 9,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744948&GUID=DA532437-A55C-41D5-AE3D-EC2140C529A4"
+                },
+                {
+                    "filename": "Exhibit E pt 7.pdf",
+                    "num": 10,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744951&GUID=3463623F-FEEB-4011-9A17-416A9EFC5B79"
+                },
+                {
+                    "filename": "Exhibit E pt 8.pdf",
+                    "num": 11,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744953&GUID=82D3FC70-6D33-45D9-8310-49E1FA741A15"
+                },
+                {
+                    "filename": "Exhibit E pt 9.pdf",
+                    "num": 12,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744954&GUID=E202BF5E-FF5A-4B3D-B682-82D00C7E5ED5"
+                },
+                {
+                    "filename": "Exhibit E pt 10.pdf",
+                    "num": 13,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744955&GUID=6FB4AA71-9673-4BF0-B7C2-E3C0981A98BC"
+                },
+                {
+                    "filename": "Exhibit E pt 11.pdf",
+                    "num": 14,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744957&GUID=F651DB03-C1C0-4E1E-B52B-7A2EA3BDDE36"
+                },
+                {
+                    "filename": "Exhibit E pt 12.pdf",
+                    "num": 15,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744958&GUID=D303B0BD-E897-479D-A3EC-63D53AE3084D"
+                },
+                {
+                    "filename": "Exhibit E pt 13.pdf",
+                    "num": 16,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744959&GUID=88415949-098B-4A96-9EB9-F8B60DBD49CF"
+                },
+                {
+                    "filename": "Exhibit E pt 14.pdf",
+                    "num": 17,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744961&GUID=332B8713-A0CA-46A7-ACA0-0285D8FD349B"
+                },
+                {
+                    "filename": "Exhibit E pt 15.pdf",
+                    "num": 18,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744962&GUID=66FE6E9D-F9E0-469C-9A79-E1AF5C644AA3"
+                },
+                {
+                    "filename": "Exhibit E pt 16.pdf",
+                    "num": 19,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744964&GUID=3ACBF16D-DCF0-4959-99C9-108D95B90466"
+                },
+                {
+                    "filename": "Exhibit E pt 17.pdf",
+                    "num": 20,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744965&GUID=F1BE9327-30A9-4295-B516-B64BBCA960FC"
+                },
+                {
+                    "filename": "Exhibit E pt 18.pdf",
+                    "num": 21,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744967&GUID=8D148BF0-9216-40F3-B4D6-22AA830AE0BF"
+                },
+                {
+                    "filename": "Exhibit E pt 19.pdf",
+                    "num": 22,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744968&GUID=27F1D032-FFD9-47CB-A4FE-408D5B814C3A"
+                },
+                {
+                    "filename": "Exhibit E pt 20.pdf",
+                    "num": 23,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744969&GUID=503BED66-C92D-49B4-B7AE-6608EAA1DCB7"
+                },
+                {
+                    "filename": "Exhibit E pt 21.pdf",
+                    "num": 24,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744970&GUID=2832B11C-0764-4BBB-88ED-62DBE6D5FD80"
+                },
+                {
+                    "filename": "Exhibit E pt 22.pdf",
+                    "num": 25,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744971&GUID=7AEF8D87-F8B6-454C-BC3B-72BDA406924F"
+                },
+                {
+                    "filename": "Exhibit E pt 23.pdf",
+                    "num": 26,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744986&GUID=9F8E4A24-38F4-4C0F-AB45-BC5C2456D3AE"
+                },
+                {
+                    "filename": "Exhibit E pt 24.pdf",
+                    "num": 27,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744987&GUID=2A95CEDF-8A46-493B-942D-ABDB586EC8AF"
+                },
+                {
+                    "filename": "Exhibit E pt 25.pdf",
+                    "num": 28,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745011&GUID=55FD41A0-FDA5-4A87-8E9A-9292C4E9B10D"
+                },
+                {
+                    "filename": "Ehibit E pt 26.pdf",
+                    "num": 29,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744988&GUID=7EF51D50-2A6B-4172-84F2-00492EC4CBB0"
+                },
+                {
+                    "filename": "Exhibit E pt 27.pdf",
+                    "num": 30,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744989&GUID=6872BC32-E5B6-471F-A133-1AC4896ACCCE"
+                },
+                {
+                    "filename": "Exhibit E pt 28.pdf",
+                    "num": 31,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744990&GUID=ADACC61B-7BB1-49C0-889F-C560D5E636DF"
+                },
+                {
+                    "filename": "Exhibit E pt 29.pdf",
+                    "num": 32,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744991&GUID=60F90FA8-5958-4C5D-A843-75C40E859DBB"
+                },
+                {
+                    "filename": "Exhibit E pt 30.pdf",
+                    "num": 33,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744992&GUID=DA70F321-ED65-4E47-B21C-6191413189FF"
+                },
+                {
+                    "filename": "Exhibit E pt 31.pdf",
+                    "num": 34,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744993&GUID=814D4095-71A0-4377-AD45-AE9AD50A1DBE"
+                },
+                {
+                    "filename": "Exhibit E pt 32.pdf",
+                    "num": 35,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744994&GUID=B5784797-DC09-43E8-A0F6-475BF2FC9E86"
+                },
+                {
+                    "filename": "Exchibit E pt 33.pdf",
+                    "num": 36,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744995&GUID=CA5885E4-CA66-43E3-ACC2-89A162F0836B"
+                },
+                {
+                    "filename": "Exhibit E pt 34.pdf",
+                    "num": 37,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744996&GUID=49C3B9FC-46D5-4F24-8AB0-E8BD7A332FD3"
+                },
+                {
+                    "filename": "Exhibit E pt 35.pdf",
+                    "num": 38,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744997&GUID=9530C82F-D7CC-4696-AE59-6C8EF06C10B4"
+                },
+                {
+                    "filename": "Exhibit E pt 36.pdf",
+                    "num": 39,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744998&GUID=0F6CE339-8354-42D5-8B77-0E480010703F"
+                },
+                {
+                    "filename": "Exhibit E pt 37.pdf",
+                    "num": 40,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4744999&GUID=BAFB9A39-F5FB-48B5-9614-ABD036BA3C1C"
+                },
+                {
+                    "filename": "Exhibit E pt 38.pdf",
+                    "num": 41,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745000&GUID=8A241C32-4CFF-433F-A939-AAEFAA3FA63E"
+                },
+                {
+                    "filename": "Exhibit E pt 39.pdf",
+                    "num": 42,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745001&GUID=5EDCE899-5243-48A6-8186-9321CA5D7E88"
+                },
+                {
+                    "filename": "Exhibit E pt 40.pdf",
+                    "num": 43,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745002&GUID=32C88BED-BEDA-4965-95E8-54357F39E2D8"
+                },
+                {
+                    "filename": "Exhibit E pt 41.pdf",
+                    "num": 44,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745004&GUID=443436AC-4EA4-464E-8CBF-82CC9EF87826"
+                },
+                {
+                    "filename": "Exhibit E pt 42.pdf",
+                    "num": 45,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745005&GUID=F0F704A8-C43F-4116-B3A0-34DC93C6D70F"
+                },
+                {
+                    "filename": "Exhibit E pt 43.pdf",
+                    "num": 46,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745006&GUID=274023BA-FC5F-498E-AB7D-3D63B9FFD0AA"
+                },
+                {
+                    "filename": "Exchibit E pt 44.pdf",
+                    "num": 47,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745007&GUID=AB0A4F81-FB1A-418C-A567-4B6349D2CC29"
+                },
+                {
+                    "filename": "Exhibit E pt 45.pdf",
+                    "num": 48,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745008&GUID=E7D9A509-37C4-4704-ADE3-21C990E74DE8"
+                },
+                {
+                    "filename": "Exhibit E pt 46.pdf",
+                    "num": 49,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745009&GUID=3A4BF614-D184-4F48-9277-E36ED0403D08"
+                },
+                {
+                    "filename": "Exhibit E pt 47.pdf",
+                    "num": 50,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4745010&GUID=B74D29A5-3320-49EA-8C55-11231C57F153"
+                }
+            ],
+            "file_num": "16-076PL",
+            "name": "PL - 710 W. Willow Street - Miko's revocation",
+            "title": "Recommendation to receive supporting documentation into the record, conclude the public hearing and accept Categorical Exemption CE 16-247, revoke the Conditional Use Permit and Standards Variance (Case No. 9505-01) for a tavern; revoke the business licenses for the operator (Enaid's Way Inc., DBA Miko's Sports Lounge, including but not limited to BU21338610, BU21338620 and BU21338630) and; revoke the property owner's business license (Ronald L. Mackey and Peggy C. Mackey Trust, including but not limited to BU90057720) for the property located at 710 W. Willow Street in the Community Commercial Automobile-Oriented (CCA) zoning district. (District 7)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2865745&GUID=0A7AFFCE-ABD3-428B-880E-ED2A39CA18C2&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,
         "longitude": -118.1958298
     },
     "datetime": "2016-11-03T17:00:00",
-    "id": "21EF5F76-9AD4-4621-A411-9C150D7780F3-2016-10-26-19-07-10",
+    "id": "21EF5F76-9AD4-4621-A411-9C150D7780F3-2016-11-07-22-26-06",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=511391&GUID=21EF5F76-9AD4-4621-A411-9C150D7780F3",
     "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
     "minutes": null,

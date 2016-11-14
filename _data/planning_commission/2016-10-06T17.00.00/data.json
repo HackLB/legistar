@@ -1,5 +1,196 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=506709&GUID=E83E2089-F252-4F37-B254-D2C78DCE4CC2",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "9-1-16 PC mins.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702292&GUID=F926121D-7A3A-46ED-8100-85B2B9169DD2"
+                }
+            ],
+            "file_num": "16-056PL",
+            "name": "PL - PC minutes 9-1-16",
+            "title": "Recommendation to receive and file the Planning Commission minutes of September 1, 2016.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848321&GUID=0AFD2B80-71FF-480D-8B04-B9B939E873A7&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "9-15-16 PC mins.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702293&GUID=162603A7-0765-4440-A9DE-6FFED7B3B047"
+                }
+            ],
+            "file_num": "16-065PL",
+            "name": "PL - PC minutes 9-15-16",
+            "title": "Recommendation to receive and file the Planning Commission minutes of September 15, 2016.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848324&GUID=740E300B-D512-4A4B-B6B8-CEAB10F8CBC1&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "5255 E. Paoli Way staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702294&GUID=678F5086-091F-4401-BB57-6EAFD5403794"
+                },
+                {
+                    "filename": "Exhibit B plans.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702287&GUID=9F507BDE-DE27-4B86-9751-429E8B9D73B9"
+                }
+            ],
+            "file_num": "16-051PL",
+            "name": "PL - 5255 E. Paoli Way appeal",
+            "title": "Recommendation to accept Categorical Exemption 16-156 and deny the appeal and uphold the decision of the Zoning Administrator to approve a Local Coastal Development Permit for the repair and renovation of Marine Stadium Judging Stand S3, located at 5255 East Paoli Way. (District 3) (Application No. 1605-17)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848320&GUID=09AEEF44-2BCC-420B-9102-0A7AB10C68DD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "LBX staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702295&GUID=88D0B85A-1DD0-4BF5-BF9C-C2A917F1EC3B"
+                },
+                {
+                    "filename": "4069 Lakewood Blvd Exhibit B plans pt 1.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702288&GUID=A397E79D-5F84-489D-A0A9-C082F357DADE"
+                },
+                {
+                    "filename": "4069 Lakewood Blvd Exhibit B plans pt 2.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702289&GUID=D3104966-7DAC-4AE6-900B-5ED7DD2FE996"
+                },
+                {
+                    "filename": "4069 Lakewood Blvd Exhibit B Signage.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702290&GUID=A231268B-5AC6-4B2E-8668-CE65F825E152"
+                },
+                {
+                    "filename": "4069 Lakewood Blvd Exhibit B Tenant Guidelines.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702291&GUID=8FB6FE17-ED8E-4A7A-9F54-93B03502B522"
+                },
+                {
+                    "filename": "LBX Exhibit E.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702296&GUID=15900E4B-5CC7-4FDF-AC8E-436C319D0E79"
+                }
+            ],
+            "file_num": "16-060PL",
+            "name": "Pl - 4069 Lakewood Boulevard",
+            "title": "Recommendation to approve a Site Plan Review, Tentative Tract Map, three Conditional Use Permits, two Standards Variances, and a Master Sign Program for the construction and operation of Long Beach Exchange, a regional shopping center containing retail and restaurant uses at 4069 Lakewood Boulevard. (District 5) (Application No. 1603-01)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848322&GUID=13E340F8-87C1-41F9-A0D8-7D15BAD09782&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "Title 21 staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702297&GUID=948F1D3A-BF5C-4543-A208-C341D778F90B"
+                }
+            ],
+            "file_num": "16-062PL",
+            "name": "PL - Triennial Title 21 Ordinance",
+            "title": "Recommendation to recommend that the City Council accept Categorical Exemption 16-211, approve Zoning Code Amendment No. 1608-24 to amend portions of Title 21 (Zoning) of the Long Beach Municipal Code on matters related to the triennial Building Code update, and to update Chapter 21.42 (Landscaping Standards) to comply with the State Model Water Efficient Landscape Ordinance. (Citywide) (Application No. 1608-24)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848323&GUID=58C793A1-2F29-4B3D-8CEC-7CEB2AF76A58&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "Title 21 staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702297&GUID=948F1D3A-BF5C-4543-A208-C341D778F90B"
+                }
+            ],
+            "file_num": "16-062PL",
+            "name": "PL - Triennial Title 21 Ordinance",
+            "title": "Recommendation to recommend that the City Council accept Categorical Exemption 16-211, approve Zoning Code Amendment No. 1608-24 to amend portions of Title 21 (Zoning) of the Long Beach Municipal Code on matters related to the triennial Building Code update, and to update Chapter 21.42 (Landscaping Standards) to comply with the State Model Water Efficient Landscape Ordinance. (Citywide) (Application No. 1608-24)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848323&GUID=58C793A1-2F29-4B3D-8CEC-7CEB2AF76A58&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "6346 E. PCH staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702300&GUID=AA7137D6-170A-4CE2-8799-216DD5DE6E90"
+                },
+                {
+                    "filename": "6346 E. PCH exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702301&GUID=FC59884F-FB27-492F-9B46-EA48D8D162BF"
+                }
+            ],
+            "file_num": "16-066PL",
+            "name": "PL - 6346 E. Pacific Coast Highway",
+            "title": "Recommendation to accept Categorical Exemption 16-213 and approve a Conditional Use Permit and Local Coastal Development Permit to allow the on-site consumption of alcoholic beverages (beer, wine, and distilled spirits) at an existing movie theater located at 6346 E. Pacific Coast Highway within the PD-1 Southeast Area Development and Improvement Plan (SEADIP). (District 3) (Application No. 1606-04)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848325&GUID=A53D5C0A-FDFE-4FB7-BB61-52B9A5ADC462&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "3310 Airport Way staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702298&GUID=304A9132-B705-4943-957F-C9EF9DECA74E"
+                },
+                {
+                    "filename": "3310 Airport Way exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702299&GUID=85EA3AE3-75F4-4A0F-B056-C6C38CD951F4"
+                }
+            ],
+            "file_num": "16-067PL",
+            "name": "PL - 3310 Airport Way MOD",
+            "title": "Recommendation to accept Categorical Exemption 15-068 and approve a Modification to an approved Conditional Use Permit (Application No. 1506-08) to allow construction of a new single-sided electronic billboard at a total height of 50 feet above the nearest freeway lane, instead of the previously-approved 40-foot height limit in effect at the time of approval of CUP No. 1506-08, located at 3310 Airport Way in the IG (General Industrial) zoning district. (District 5) (Application No. 1608-26)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848326&GUID=081931CA-22FE-48F8-82B4-0D94DFC3C65E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [
+                {
+                    "filename": "6701 Paramount Blvd staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702307&GUID=D0CD4AAB-BEA2-4CF7-86BE-4B54B28087D4"
+                },
+                {
+                    "filename": "6701 Paramount Blvd exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702310&GUID=29020012-E696-4577-A698-59B07327DEF9"
+                }
+            ],
+            "file_num": "16-068PL",
+            "name": "PL - 6701 Paramount Boulevard MOD",
+            "title": "Recommendation to accept Categorical Exemption 15-069 and approve a Modification to an Approved Permit (Conditional Use Permit (CUP) No. 1506-09), to allow construction of a new single-sided electronic billboard with a total height of 50 feet above the nearest freeway lane (the height currently allowed by code), instead of the previously-approved 40-foot height limit in effect at the time of approval of CUP No. 1506-09, located at 6701 Paramount Boulevard in the CHW (Regional Highway District) commercial zoning district. (District 9) (Application No. 1608-27)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2848327&GUID=66B90F90-0F52-4916-A6CB-68B81D16B6E7&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

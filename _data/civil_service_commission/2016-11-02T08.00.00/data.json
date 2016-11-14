@@ -1,9 +1,111 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=513246&GUID=DAB026E2-1A5E-4552-9D16-68D900F6EF72",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "CSC MIN 10-19-16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4753402&GUID=031C363C-079C-4C61-9CF2-A8D017DEA38E"
+                }
+            ],
+            "file_num": "16-193CS",
+            "name": "CSC Minutes 10-19-16",
+            "title": "Recommendation to approve minutes: \r\nRegular Meeting of October 19, 2016",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2869505&GUID=A7021915-7F4D-4B02-9990-35410064A09A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "EXAM RESULTS.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4753403&GUID=95336611-632B-4C6E-9594-4CB995D83F51"
+                }
+            ],
+            "file_num": "16-194CS",
+            "name": "Exam Results",
+            "title": "Recommendation to approve examination results:\nAirport Operations Assistant (Established 10/28/16) - 221 Applied, \n 35 Qualified\nBusiness Systems Specialist (Established 10/21/16) - 145 Applied, \n 55 Qualified\nCombination Building Inspector (Established 10/19/16) - 2 Applied, \n 2 Qualified\nDepartment Librarian (Established 10/21/16) - 12 Applied, \n 12 Qualified\nEngineering Aide (Established 10/24/16) - 149 Applied, 68 Qualified\nPublic Safety Dispatcher - Lateral (Established 10/24/16) - 2 Applied, \n 2 Qualified\nSenior Traffic Engineer (Established 10/25/16) - 18 Applied, \n 8 Qualified\nSpecial Services Officer (Established 10/25/16) - 35 Applied, \n 35 Qualified\nWater Treatment Operator (Established 10/19/16) - 71 Applied, \n 27 Qualified",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2869517&GUID=9E7878FB-5B68-4BA5-9AE8-2F9C7BA07698&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "EXAM BULLETINS.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4753404&GUID=5B7BCE2E-0490-4C46-9BD9-7699DE733CC9"
+                }
+            ],
+            "file_num": "16-195CS",
+            "name": "Bulletins",
+            "title": "Recommendation to receive and file bulletins:\r\nAssistant Buyer\r\nCivil Engineering Associate\r\nGeneral Maintenance Assistant\r\nSafety Specialist\r\nSenior Equipment Operator - Crane",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2869519&GUID=9FA53E7F-F165-4891-BE41-85B9B1CF435D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [],
+            "file_num": "16-197CS",
+            "name": "Resignations",
+            "title": "Recommendation to receive and file resignations:\nHiran C. Fernando/Airport Operations Specialist I/Airport \n (3 yrs., 7 mos.)\nAlexandra L. Vasquez/Public Safety Dispatcher I/Disaster \n Preparedness (2 mos., 2 days)\nRonda R. Rael/Clerk Typist III/Police (17 yrs., 1 mo.)\nRichard B. Luna/Mechanical Equipment Stock Clerk II/Public Works\n  (15 yrs., 6 mos.)\nSeven Bailey/Water Utility Mechanic II/Water (8 yrs., 4 mos.)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2869520&GUID=39CEFDFC-AB84-46EE-AFAE-B8BF55BC4E1B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [],
+            "file_num": "16-198CS",
+            "name": "Transfer",
+            "title": "Recommendation to approve transfer:\r\nRussell P. Catanzaro/Administrative Analyst I/Public Works to Administrative Analyst II/Fire",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2869531&GUID=89981FC1-F78E-4EF5-912E-802CC522C58B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "REASS FOR TRG - EGGLESTON.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4753405&GUID=BB573E50-9580-465D-9BE9-461BC3BB5E80"
+                }
+            ],
+            "file_num": "16-199CS",
+            "name": "Reassignment for Trg - F. Eggleston",
+            "title": "RECOMMENDATION FOR TEMPORARY REASSIGNMENT FOR TRAINING - Fernando Eggleston, Engineering Technician to Construction Inspector\r\nCommunication from Christopher J. Garner, General Manger, Water Department",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2869532&GUID=BC372F0E-5E88-42D2-B56A-B54173E8037D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "EXPIRING ELG LIST.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4753406&GUID=A9D86892-7707-45FA-A497-EE20C2CF334B"
+                }
+            ],
+            "file_num": "16-200CS",
+            "name": "Expiring Eligible Lists",
+            "title": "RECOMMENDATION TO APPROVE EXTENSION OF EXPIRING ELIGIBLE LISTS (6 months)\nStaff report prepared by Kandice Taylor-Sherwood, Executive Director\nAccountant (5/18/16)\nBusiness Systems Specialist Test 1 (5/11/16)\nPlanner Test 1 & 2 (5/12/16 & 6/1/16)\nPublic Health Nurse Test 2 (5/10/16)\nPublic Health Nutritionist Tests 1, 2 & 3 (5/10/16, 5/18/16 & 6/1/16)\nPublic Safety Dispatcher Test 2 (11/6/14)\nRegistered Nurse Tests 2 & 3 (5/12/16 & 5/25/16)\nSenior Mechanical Inspector (5/18/15)\nSenior Surveyor Test 1 (5/25/16)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2869595&GUID=98699B56-2BC8-49F8-AB82-0F4EFF8A762B&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-11-02T08:00:00",
     "id": "DAB026E2-1A5E-4552-9D16-68D900F6EF72-2016-11-03-16-12-00",

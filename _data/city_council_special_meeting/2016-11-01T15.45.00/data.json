@@ -1,9 +1,15 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=513222&GUID=A8CDC7DE-9150-4F62-BE42-19D231CA30CB",
+    "agenda_items": [],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
     "datetime": "2016-11-01T15:45:00",
-    "id": "A8CDC7DE-9150-4F62-BE42-19D231CA30CB-2016-10-29-00-01-58",
+    "id": "A8CDC7DE-9150-4F62-BE42-19D231CA30CB-2016-11-10-17-46-02",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=513222&GUID=A8CDC7DE-9150-4F62-BE42-19D231CA30CB",
-    "location": null,
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber/Lounge",
     "minutes": null,
     "name": "City Council Special Meeting",
     "summary": "",

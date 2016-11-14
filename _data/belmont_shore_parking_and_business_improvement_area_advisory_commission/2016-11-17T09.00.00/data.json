@@ -1,12 +1,178 @@
 {
-    "agenda": null,
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=512370&GUID=57EA0C1A-D525-404A-A7B0-60B2A2164228",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "16-054BS Finished Agenda And Draft Minutes 10.20.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777087&GUID=52F1C2E2-1D18-4E3B-AADC-2AC9C0154737"
+                }
+            ],
+            "file_num": "16-054BS",
+            "name": "BS-Minutes 10.20.16",
+            "title": "Recommendation to approve the minutes for the meeting held October 20, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882524&GUID=35ED997D-893C-46A3-84A4-64CD1DFB2EA4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "16-055BS BSPBIAAC Sep 2016 Financial Statement.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777090&GUID=FF323132-BA44-47D4-BCE9-D45355267B34"
+                }
+            ],
+            "file_num": "16-055BS",
+            "name": "BS-Fncl Rpt Sep 2016",
+            "title": "Recommendation to receive and file the Financial Report for the period ending September 30, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882525&GUID=7B3636E8-EC85-4890-B36F-F3588A8CC267&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "16-056BS LBT Emp Bus Pass Program Report Oct 2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777089&GUID=0B08B6CA-E0F4-45D9-9B01-01AB5744C4B0"
+                }
+            ],
+            "file_num": "16-056BS",
+            "name": "BS-LBT Rpt Oct 2016",
+            "title": "Recommendation to receive and file the Long Beach Transit Employee Bus Pass Program Status Report for the period October 1, 2016 through October 30, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882526&GUID=BA3CD887-11EF-4B7D-8DF8-50881F247776&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "16-057BS Library Meter Funds staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777088&GUID=D2B2DC8A-28C8-4290-9C06-D5263B13755B"
+                }
+            ],
+            "file_num": "16-057BS",
+            "name": "BS-Library Meter Revenue",
+            "title": "Recommendation to approve the transfer of $1,892 of collected parking meter revenue in from the Bay Shore Library Parking Meters to the Bay Shore Library.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882527&GUID=AF758241-06EA-4A3F-BE2C-68067C2B8B03&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "16-058BS Big Belly software.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777091&GUID=1FF7502A-FC13-4BA5-B203-309F4F328A35"
+                },
+                {
+                    "filename": "Waxie Big Belly Software Quotes 10.05.16.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777092&GUID=19A79532-1112-4D9C-AA90-6D779B3B2581"
+                }
+            ],
+            "file_num": "16-058BS",
+            "name": "BS-BigBelly Software",
+            "title": "Recommendation to approve purchase of Big Belly trash compactor software, choosing Option 1, 2 or 3 as described in the staff report.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882528&GUID=1340014A-F299-4B48-AE9D-454EFB318E03&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [
+                {
+                    "filename": "16-059BS Tree purchase.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777093&GUID=996495E1-A9D4-4AB9-B741-5D29BDA4F22B"
+                },
+                {
+                    "filename": "A.Y. Nursery, Inc. Quote 16 Trees.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777094&GUID=558F7316-A387-4CF2-9638-00E04B6A79EB"
+                }
+            ],
+            "file_num": "16-059BS",
+            "name": "BS-Tree purchase",
+            "title": "Recommendation to purchase 16 - 24” Pyrus Aristocrat pear trees at a cost not to exceed $2,100.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882529&GUID=A0D740B0-2CE1-4A24-8E2E-97C59276C39E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "Cover memo to BSPBIAAC Admin Adjustment 16-060BS.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777095&GUID=DD30ECC7-8A73-4FBE-9756-77EC05A4E832"
+                },
+                {
+                    "filename": "16-060BS Commission Administrative Adjustment.pdf.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777096&GUID=9238B6A1-CEA5-4778-8009-B0AF695CEE62"
+                },
+                {
+                    "filename": "BSPBIAAC Administrative Adjustment.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777110&GUID=9FCB5A57-B124-4C59-BBA5-C5019304E4A0"
+                }
+            ],
+            "file_num": "16-060BS",
+            "name": "BS-Commission Adjustment",
+            "title": "Recommendation to receive and file a memo from Councilwoman Suzie Price regarding and administrative adjustment to Ordinance No. 7814 which describes the requirements for service on the Belmont Shore Parking and Business Improvement Area Advisory Commission.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882530&GUID=473C2456-221B-4327-A98F-A0057206D1C4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "16-061BS Parking Study.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777097&GUID=F96BE977-F80F-4C87-B5F6-EDE107388BAF"
+                }
+            ],
+            "file_num": "16-061BS",
+            "name": "BS-Parking Study",
+            "title": "Recommendation to receive and file a presentation from Walker Parking Consultants regarding their findings for the 2016 Belmont Shore Parking Study.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882531&GUID=B6A92908-3585-42B8-8599-8211A9C343AB&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "16-062BS Cancel 12.15.16 Meeting.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777098&GUID=2308864A-7616-4A22-AE15-CC9288638446"
+                }
+            ],
+            "file_num": "16-062BS",
+            "name": "BS-12.15.16 Mtg Cancel",
+            "title": "Recommendation to cancel the December 15, 2016 Belmont Shore Parking and Business Improvement Area Advisory Commission meeting.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882532&GUID=3BFF6685-1792-4FD6-9788-248D85A7319B&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "195 Bay Shore Ave, Long Beach, CA 90803, USA",
         "latitude": 33.7580301,
         "longitude": -118.1305219
     },
     "datetime": "2016-11-17T09:00:00",
-    "id": "57EA0C1A-D525-404A-A7B0-60B2A2164228-2016-10-24-17-02-06",
+    "id": "57EA0C1A-D525-404A-A7B0-60B2A2164228-2016-11-11-19-02-04",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=512370&GUID=57EA0C1A-D525-404A-A7B0-60B2A2164228",
     "location": "Bay Shore Library, 195 Bay Shore Avenue, Third Thursday",
     "minutes": null,

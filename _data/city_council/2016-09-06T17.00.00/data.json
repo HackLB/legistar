@@ -1,7 +1,785 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=503371&GUID=DE7B3ED1-07A4-4659-A550-41E973F1469F",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644641&GUID=02ADF7F3-BFCD-4E04-A88D-24128587457D"
+                },
+                {
+                    "filename": "090616-BH-1 Harbor PPT.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686229&GUID=ABC2EBBB-397B-40E0-9589-D98A3875E4EB"
+                },
+                {
+                    "filename": "090616-BH-1 Water PPT.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686230&GUID=3BCDCA1D-8A0A-4358-A262-6F079FC7E2EB"
+                },
+                {
+                    "filename": "090616-BH-1 Civil Service PPT.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686227&GUID=68B2D73A-552F-4194-A0CE-6B03391AAEB6"
+                },
+                {
+                    "filename": "090616-BH-1 Civil Service Recruitment Master Plan.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686228&GUID=0E01E1A8-C658-47EC-A5F2-D48E9F41B998"
+                }
+            ],
+            "file_num": "16-0808",
+            "name": "FM-Cont. Budget Hearing",
+            "title": "Recommendation to receive and discuss an Overview of the Proposed Fiscal Year 2017 Budgets for the following Departments: Harbor, Water, and Civil Service; and",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822061&GUID=47F1A202-B2D1-4941-9E98-5805ACF56133&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644642&GUID=FB34390B-8DCD-4566-8F80-E573A045C452"
+                },
+                {
+                    "filename": "091316-CBH-1noatt.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4655291&GUID=E2FFC099-491F-453C-9E44-5C581DE5053D"
+                }
+            ],
+            "file_num": "16-0809",
+            "name": "FM-RES/Harbor Budget",
+            "title": "Recommendation to receive supporting documentation into the record, conclude the public hearing and take the actions necessary to adopt the Fiscal Year 2017 budget as listed in Attachment A.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822062&GUID=D5CA81C6-5121-45FF-9EBE-A9D13A7B206E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.1sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644643&GUID=3FEC8915-F04A-4B4E-9CB9-7DA5C7874472"
+                },
+                {
+                    "filename": "RES-16-0079.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686868&GUID=7C7507CA-7A2C-4B0C-A00E-B7CE6B3776C0"
+                }
+            ],
+            "file_num": "16-0810",
+            "name": "FM-RES/Harbor Budget",
+            "title": "Recommendation to adopt resolution approving the FY 17 budget for the Long Beach Harbor Department as adopted by the Board of Harbor Commissioners on May 23, 2016.  (A-1)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822063&GUID=BE726B0A-DED1-4594-A691-B5492D8EA2EB&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.2sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644644&GUID=9C7C3A3D-7993-4CBA-99DE-143157DEBEF3"
+                },
+                {
+                    "filename": "091316-CBH-14att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669062&GUID=C8FCD6ED-BD6C-462B-9521-5A3A77B9668F"
+                }
+            ],
+            "file_num": "16-0811",
+            "name": "FM-Emergency Exist",
+            "title": "Recommendation to declare an emergency to exist.  (A-2)",
+            "type": "Emergency Ordinance",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822064&GUID=DBBEFBFD-1C3B-4423-9D21-A911CD461529&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.3sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644645&GUID=F57CC5E0-E578-4CE1-B9B5-4942816891CB"
+                },
+                {
+                    "filename": "090616-BH-1 Corresp.Benink.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4658814&GUID=4732EA13-5DEF-429C-AE1A-B070A79FC396"
+                },
+                {
+                    "filename": "091316-CBH-15att.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669063&GUID=E7636697-A588-421F-AB1F-4F885D3E1E08"
+                },
+                {
+                    "filename": "092016-ORD-21att.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4671178&GUID=B2D9AF52-6388-4895-B96B-2E1A04D413AF"
+                },
+                {
+                    "filename": "ORD-16-0020 (EMERG).pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4710053&GUID=C1B2F27B-446A-492B-ADC7-A971874FD6ED"
+                },
+                {
+                    "filename": "ORD-16-0020 (FINAL).pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4710056&GUID=3026F3EB-542E-4EF3-B4D6-164592DB6726"
+                }
+            ],
+            "file_num": "16-0812",
+            "name": "FM-Water Rates Emerg. Ord",
+            "title": "Recommendation to declare ordinance approving Resolution No. WD-1357, a resolution of the City of Long Beach Board of Water Commissioners establishing the rates and charges to be charged for water and sewer service and declaring the urgency thereof, and providing that this ordinance shall take effect at 12:01 A.M. on October 1, 2016, read and adopted as read.",
+            "type": "Emergency Ordinance",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822065&GUID=BECD65CF-8CD4-4C34-A493-AA447CCD94F6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.4sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644646&GUID=9AAEBA04-DA02-4315-9743-85353F4D1CB6"
+                },
+                {
+                    "filename": "090616-BH-1 Corresp.Benink.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4658815&GUID=0F6CE93C-0615-4BC2-AA33-43DBDFD34F83"
+                },
+                {
+                    "filename": "091316-CBH-16att.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669092&GUID=65756FE3-3E8B-457F-9172-3AFBD913A725"
+                },
+                {
+                    "filename": "RES-16-0082.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4691504&GUID=9F980693-E5DC-4BF1-8156-F1F28D023896"
+                }
+            ],
+            "file_num": "16-0813",
+            "name": "FM-RES/Water Budget",
+            "title": "Recommendation to adopt resolution approving the FY 17 budget of the Long Beach Water Department as adopted by the Board of Water Commissioners on June 16, 2016.  (A-4)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822066&GUID=5B615ACB-B770-4123-8E59-127B3672FA48&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.5sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644662&GUID=7F59D275-A92E-459A-90B3-4658A88E9994"
+                },
+                {
+                    "filename": "091316-CBH-17att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669093&GUID=165ED58D-E0A4-45BD-9E4C-9E828645B913"
+                },
+                {
+                    "filename": "RES-16-0080.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686870&GUID=2525E90D-94C3-4115-A416-E7526814DD86"
+                }
+            ],
+            "file_num": "16-0814",
+            "name": "FM-RES/Master Fee & Charges",
+            "title": "Recommendation to consider amending the Master Fee and Charges Schedule for specified City services for Citywide fees and charges for the City of Long Beach specifically for the changes to the PRHIP fees laid over from the City Council meeting of Tuesday, September 6, 2016.  (A-5)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822067&GUID=3FA33A2F-94D9-4C9C-9B95-615F04D4E34F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.6sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644663&GUID=B4CEBA96-6184-438E-9139-3CAC441AD99F"
+                },
+                {
+                    "filename": "091316-CBH-18att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669102&GUID=B33C7076-7B83-4DAD-A51F-4F743EEB4837"
+                }
+            ],
+            "file_num": "16-0815",
+            "name": "FM-FY17 1 year CIP",
+            "title": "Recommendation to approve the FY 17 One-Year Capital Improvement Program.  (A-6)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822068&GUID=0D0D0F1C-352B-4254-AACB-F6795FF7750B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.7sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644676&GUID=DDDA07DB-4AAC-4A1D-9056-1C78A4D6C60F"
+                }
+            ],
+            "file_num": "16-0816",
+            "name": "FM-LBCIC Budget",
+            "title": "Recommendation to adopt a motion approving the FY 17 budget for the Long Beach Community Investment Company (formerly known as the Long Beach Housing Development Company) in the amount of $11,385,370.  (A-7)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822069&GUID=3622DC46-C417-43FA-A686-0383BE5C385F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.8sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644675&GUID=5C04226D-740A-40FB-86FF-8DF0703AB76B"
+                }
+            ],
+            "file_num": "16-0817",
+            "name": "FM-Fund Tidelands Operating Fund",
+            "title": "Recommendation to adopt a motion approving the estimated transfer of $17,772,000 from the Harbor Revenue Fund to the Tidelands Operating Fund.  (A-8)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822070&GUID=E909C9A1-4135-4B3F-B1AE-8D64C0C835C0&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.9sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669582&GUID=F007CF9E-4114-4FC5-BB1F-560827E33082"
+                },
+                {
+                    "filename": "RES-16-0081.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4686871&GUID=CC78F31C-3685-49DB-9A61-39FBBFFAA977"
+                }
+            ],
+            "file_num": "16-0818",
+            "name": "FM-RES/Gann Appropriations Limit",
+            "title": "Recommendation to adopt resolution establishing the \"Gann Appropriations Limit\" (Limit) for FY 17 pursuant to Article XIII (B) of the California Constitution.  (A-9)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822071&GUID=AFC3C8A1-E40A-4E86-AEAB-E597D013B9FF&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.10sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644667&GUID=8176ADA8-6E78-4829-8A10-FCD08A9BD628"
+                },
+                {
+                    "filename": "091316-CBH-19att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669103&GUID=88B19541-BFE2-4068-A020-48D16BCC1FE4"
+                }
+            ],
+            "file_num": "16-0819",
+            "name": "FM-Mayors Proposed Budget",
+            "title": "Recommendation to adopt the Mayor's proposed budget recommendations, as amended, to the FY 17 Proposed Budget.  (A-10)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822072&GUID=C40E2ED7-7DF8-4C54-959D-5F6A8E650A77&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.11sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644668&GUID=DCB41C3A-72CE-4C56-94F2-7FA67EB9A508"
+                },
+                {
+                    "filename": "091316-CBH-20att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669104&GUID=E136BF22-3108-490C-949E-530DE87D681C"
+                }
+            ],
+            "file_num": "16-0820",
+            "name": "FM-BOC proposed funding",
+            "title": "Recommendation to adopt the Budget Oversight Committee's proposed funding recommendations, as amended, to the FY 17 Proposed Budget.  (A-11)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822073&GUID=36F78A0C-9BBE-447A-B352-247B871A3996&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.12sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644669&GUID=97469745-CF87-4691-B6A7-09E76F7B6904"
+                },
+                {
+                    "filename": "091316-CBH-21att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669105&GUID=588A89D2-4A6A-4162-9605-6254D6027AF3"
+                },
+                {
+                    "filename": "092016-ORD-22att.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4671177&GUID=EB989BE3-999A-420F-8B01-0FE60053A0F8"
+                },
+                {
+                    "filename": "ORD-16-0022.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4713986&GUID=5066596E-BFA6-49D0-927A-A2C93B286DBF"
+                }
+            ],
+            "file_num": "16-0821",
+            "name": "FM-ORD/Departmental Organization",
+            "title": "Recommendation to declare ordinance relating to adopting an amendment to Ordinance No. C-6496, adopted July 5, 1988, and amended on January 24, 1989, July 11, 1989, December 5, 1989, March 20, 1990, July 3, 1990, September 18, 1990, July 2, 1991, July 7, 1992, January 26, 1993, August 24, 1993, June 28, 1994, July 18, 1995, November 28, 1995, October 1, 1996, March 25, 1997, October 7, 1997, October 27, 1998, April 20, 1999, October 19, 1999, October 17, 2000, October 30, 2001, March 19, 2002, November 26, 2002, January 6, 2004, February 8, 2005, November 1, 2005, December 5, 2006, March 20, 2007, May 22, 2007, December 18, 2007, July 15, 2008, September 21, 2010, September 13, 2011, September 11, 2012, October 3, 2013, September 9, 2014, and September 22, 2015, relating to departmental organization of the City of Long Beach, read and adopted as read.",
+            "type": "Ordinance",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822074&GUID=06DE7F3B-E340-4FF2-9164-B2042D2DCD26&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.13sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644670&GUID=ABBFAB7F-E87D-449C-A273-87262F0F6FCB"
+                },
+                {
+                    "filename": "091316-CBH-22att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669106&GUID=52A9DFC0-1646-4E05-91EA-26AE172A61CA"
+                },
+                {
+                    "filename": "RES-16-0083.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4691516&GUID=58F0268B-05D5-4683-B349-B77FA56770B3"
+                }
+            ],
+            "file_num": "16-0822",
+            "name": "FM-Salary Resolution",
+            "title": "Recommendation to adopt the amended Salary Resolution for FY 17.  (A-13)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822075&GUID=A28E5944-CC60-4FB4-A7A6-884D2F341ACE&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.14sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644671&GUID=3CE61D1C-4C75-4352-95C7-DA5C5C937931"
+                },
+                {
+                    "filename": "091316-CBH-23att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669107&GUID=CDEB435C-40A4-47F2-9689-5A3EDF357E55"
+                }
+            ],
+            "file_num": "16-0823",
+            "name": "FM-Motion to Amend FY17 Budget",
+            "title": "Recommendation to adopt a motion amending the proposed FY 17 budget.  (A-14)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822076&GUID=068F699B-5701-4B44-9170-C645395DB05C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.15sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644672&GUID=5AE1B0D0-B363-4628-88B3-A99C276574ED"
+                },
+                {
+                    "filename": "091316-CBH-24att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669124&GUID=E69C6D4A-B9DF-4378-A8D1-838E2F5E3A98"
+                }
+            ],
+            "file_num": "16-0824",
+            "name": "FM-Emerg. to exist",
+            "title": "Recommendation to declare an emergency to exist.  (A-15)",
+            "type": "Emergency Ordinance",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822077&GUID=B91AB8D7-640A-4375-8E40-4CB234FD5122&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "090616-BH-1.16sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644673&GUID=8B91DFEB-3BE7-4E34-BF80-5C809642FE86"
+                },
+                {
+                    "filename": "091316-CBH-25att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4669125&GUID=DB6E010D-DAEB-440B-8CC2-7CFB8C1521E3"
+                },
+                {
+                    "filename": "092016-ORD-23att.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4694982&GUID=B471EEE2-E02B-416B-A8BE-E1E7E522D698"
+                },
+                {
+                    "filename": "ORD-16-0021 (EMERG).pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702616&GUID=2A0B7794-5D97-4110-A395-B5CB65C8E075"
+                },
+                {
+                    "filename": "ORD-16-0021 (FINAL).pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4702617&GUID=6F79BDD4-77B1-4BFB-8DC3-164DB2CFBB9D"
+                }
+            ],
+            "file_num": "16-0825",
+            "name": "FM-Appropriations ORD",
+            "title": "Recommendation to declare ordinance approving and adopting the official budget of the City of Long Beach for the fiscal year 2016-2017, creating and establishing the funds of the municipal government of the City of Long Beach and appropriating money to and authorizing expenditures from said funds for said fiscal year; declaring the urgency thereof, and providing that this ordinance shall take effect at 12:01 a.m. on October 1, 2016, read and adopted as read.",
+            "type": "Emergency Ordinance",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822078&GUID=B55793DB-44A8-4A68-A0E6-078BA4765E73&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "090616-C-2sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644647&GUID=61837301-9985-48F5-A3A1-C55E8D5EFC4F"
+                }
+            ],
+            "file_num": "16-0838",
+            "name": "CD8-Travel Report",
+            "title": "Recommendation to receive and file a report on travel to Sacramento, CA on August 4, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822088&GUID=BA4FBBFF-D992-4EBB-BB7E-A3F9D5FFF583&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "090616-C-3sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644648&GUID=47CD42B2-5B84-481E-A721-ED2B3F824F02"
+                }
+            ],
+            "file_num": "16-0826",
+            "name": "CA-Stipulations w/request for award",
+            "title": "Recommendation to authorize City Attorney to submit two Stipulations with Request for Award for approval by the Workers' Compensation Appeals Board, and if so approved, authority to pay 1) $97,222.50 and also 2) separate authority to pay $5,220 in compliance with the Appeals Board Order for Paul Wright.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822079&GUID=E0E3B4D0-17AD-42DF-ACFB-4F86E4BBE0F3&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "090616-C-4sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644649&GUID=C1FAD3C8-F216-4711-856B-69A7054D1E1C"
+                }
+            ],
+            "file_num": "16-0827",
+            "name": "CA-Compromise and Release",
+            "title": "Recommendation to authorize City Attorney to submit Compromise and Release for approval by the Workers' Compensation Appeals Board, and if so approved, authority to pay $70,000 for the claim of Teodora Hogan; and authority to pay $125,000 for the claim of Steven Kroesen's surviving spouse, in compliance with the Appeals Board Orders.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822080&GUID=6131FCC4-8C79-4B51-B5C0-8473DD8B3435&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "090616-C-5sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644650&GUID=0BDB1002-B652-4731-AB76-E51D549ACDE0"
+                }
+            ],
+            "file_num": "16-0828",
+            "name": "CC-Damage Claims",
+            "title": "Recommendation to refer to City Attorney damage claims received between August 15, 2016 and August 29, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822081&GUID=58E5B919-6FD8-443A-A64B-536111B6E58D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [
+                {
+                    "filename": "090616-C-6sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644651&GUID=8316C3FA-C388-4977-AD22-530D5780E60E"
+                },
+                {
+                    "filename": "101116-C-9sr.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4708609&GUID=7250DA2B-AFB8-4E3E-9E65-23EA35AD1F0F"
+                }
+            ],
+            "file_num": "16-0829",
+            "name": "PRM/FM - Washer and Dryer Svcs at marinas D2,3",
+            "title": "Recommendation to adopt Specifications No. RFP PR16-122 and authorize City Manager, or designee, to execute a permit with WASH Multifamily Laundry Systems, LLC, of El Segundo, CA, for the provision, installation, maintenance and management of washer and dryer services in Long Beach marinas, for a period of five years, with the option to renew for two three-year periods, at the discretion of the City Manager.  (Districts 2,3)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822058&GUID=9BB7AEB7-4A52-4484-9342-72BAA40F32C5&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "090616-C-7sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644652&GUID=D91291F1-2055-4EF1-BFDD-36D55121CD5F"
+                }
+            ],
+            "file_num": "16-0830",
+            "name": "DS - Mills Act-historic property Art Theatre D2",
+            "title": "Recommendation to authorize City Manager to execute a Mills Act historic property contract with the owners of the Art Theatre at 2025 East 4th Street.  (District 2)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822059&GUID=D9E989E2-AF0D-4E02-9087-9E8E7BE6DEB2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "090616-C-8sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644653&GUID=2BD869EB-0642-43AD-9AF0-0C1C0EC59D84"
+                }
+            ],
+            "file_num": "16-0831",
+            "name": "PD - 2017 Selective Traffic Enforcement Prog grant",
+            "title": "Recommendation to authorize City Manager, or designee, to execute all necessary documents to receive and expend grant funding from the California Office of Traffic Safety for the 2017 Selective Traffic Enforcement Program grant; and\r\n\r\nIncrease appropriations in the General Grants Fund (SR 120) in the Police Department (PD) by $400,000.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822060&GUID=6B3F1A95-D646-4B67-80B2-3585BA70F07E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "090616-C-9sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644654&GUID=3FC2FAB7-9F9B-49CF-BBD1-B5A0A219127E"
+                }
+            ],
+            "file_num": "16-0832",
+            "name": "Various Min",
+            "title": "Recommendation to receive and file minutes for:\r\nCivil Service Commission - August 3, 2016.\r\nPlanning Commission - July 21, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822082&GUID=E9FBA495-C709-4A06-B844-864B485EEAC9&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [
+                {
+                    "filename": "082316-ORD-18sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4625644&GUID=FEBD94F8-D287-482B-A61C-ED24F0C27ACF"
+                },
+                {
+                    "filename": "082316-ORD-18 Corresp.Huxley.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4643973&GUID=A8D3BBEC-64EF-486B-A6C8-0624DD32C5BA"
+                },
+                {
+                    "filename": "090616-UB-10sr-att.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644655&GUID=C65D365C-A829-4608-BDE7-9026F741E720"
+                }
+            ],
+            "file_num": "16-0796",
+            "name": "CA - Draft Minimum Wage Ordinance",
+            "title": "Recommendation to review draft ordinance amending the Long Beach Municipal Code by adding Part IV to Title 5; and by adding Section 5.06.020.A.7, all relating to a Long Beach Minimum Wage Ordinance, and provide further direction.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2813240&GUID=2ABBCC3E-D662-4F97-97EC-6F71CB6CCDDA&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 11,
+            "attachments": [
+                {
+                    "filename": "090616-R-11sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644656&GUID=C57EACA4-41A1-4AAF-ADD5-0062570219D4"
+                },
+                {
+                    "filename": "090616-R-11sr Revised.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4659116&GUID=57D6D1CC-02A2-4A16-8372-23C06FC601DF"
+                },
+                {
+                    "filename": "091616-R-11 Revised Attachment.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4659117&GUID=37BFBCEC-34FA-48A3-8256-3A50BB9BB1B6"
+                }
+            ],
+            "file_num": "16-0833",
+            "name": "Mayor-Non-Charter & Board appointments",
+            "title": "Recommendation to receive and approve the following non-charter commission and board appointments and reappointments.",
+            "type": "Appointment",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822083&GUID=72F4FB7F-F50B-4AB7-8114-1E0D2C888AF4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 12,
+            "attachments": [
+                {
+                    "filename": "090616-R-12sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644657&GUID=70D5BAE3-68E4-4C27-8FE5-8C4380DC843A"
+                }
+            ],
+            "file_num": "16-0834",
+            "name": "CD3,4,8 - Parking in Coastal Communities",
+            "title": "WITHDRAWN\nRecommendation to request that the City Manager report back within 60 days researching how other cities with similar environments address coastal parking challenges as well as reviewed the feasibility of residential parking permit programs to address the problem of non-residents parking in residential neighborhoods near our coastline.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822084&GUID=BD71B408-A638-4DBF-A3F4-46E4607C61F4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 13,
+            "attachments": [
+                {
+                    "filename": "090616-R-13sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644658&GUID=4A9DAF08-81FC-4DEF-A631-3FBE102970F4"
+                }
+            ],
+            "file_num": "16-0835",
+            "name": "CD3,1,7,8 - Update from LB Municipal Band",
+            "title": "Recommendation to request an update from Parks, Recreation and Marine regarding the success of their 107th season and their fundraising efforts this year.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822087&GUID=996A4A36-E2CA-4A60-961E-E2CEED04AF0C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 14,
+            "attachments": [
+                {
+                    "filename": "090616-R-14sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644659&GUID=DD571A33-9CB1-4CDD-AD3B-90505EF1C4E6"
+                }
+            ],
+            "file_num": "16-0836",
+            "name": "DS - Designate Fly DC Jets sign as Historical Landmark D5",
+            "title": "Recommendation to request City Attorney to prepare an ordinance to designate the roof-mounted “Fly DC Jets” sign located at 3860 North Lakewood Boulevard as a Historical Landmark.  (District 5)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822085&GUID=3C40F23E-4F73-415F-80ED-44FC8F6832CA&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 15,
+            "attachments": [
+                {
+                    "filename": "090616-R-15sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4695300&GUID=070C1292-C943-4B27-A9A1-E43220F9AADD"
+                }
+            ],
+            "file_num": "16-0837",
+            "name": "TI - Leasing of Personal Computers",
+            "title": "Recommendation to authorize City Manager, or designee, to execute a lease-purchase agreement and related financing documents with Banc of America Public Capital Corporation, a Kansas Corporation, for the financing of personal computers, computer-related equipment, and servers in an amount not to exceed $1,340,000 including interest and fees, payable over a four-year period.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2822086&GUID=8AA94303-96E8-4ED3-8FEF-53320BD6E743&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 16,
+            "attachments": [
+                {
+                    "filename": "082316-H-1sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4625627&GUID=9204E345-99D5-40D5-A21A-C51C6A8153B1"
+                },
+                {
+                    "filename": "090616-ORD-16att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4644661&GUID=E50DBF48-92AB-45C7-98E1-4B33464F7742"
+                },
+                {
+                    "filename": "ORD-16-0018 (FINAL).pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4670495&GUID=C93207E7-395C-40A4-866A-1CCFF5448FFA"
+                },
+                {
+                    "filename": "ORD-16-0018 (EMERG).pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674240&GUID=4FBFF492-404E-4D28-BA29-B9F0B6F69637"
+                }
+            ],
+            "file_num": "16-0780",
+            "name": "DS - Extension of moratorium for R-1-L zoning district",
+            "title": "Recommendation to declare an interim ordinance amending Ordinance No. ORD-15-0024 relating to the extension of the temporary limitation (moratorium) of certain construction and development activities in the R-1-L zone in the Los Cerritos and Virginia Country Club areas of the City; declaring the urgency thereof; and declaring that this ordinance shall take effect immediately, read and adopted as read.  \n(Ordinance No. ORD-16-0018)  (District 8)",
+            "type": "Emergency Ordinance",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2813226&GUID=F407203A-363C-489D-AC60-AF0BC1524710&Options=&Search=",
+            "version": 2
+        },
+        {
+            "agenda_num": 17,
+            "attachments": [
+                {
+                    "filename": "090616-NB-17sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4659115&GUID=3C5F3568-6487-416F-A08F-9CC2DE1BD6CC"
+                }
+            ],
+            "file_num": "16-0851",
+            "name": "CD5 - LB Volunteerism Initiatives",
+            "title": "Recommendation to request City Manager to report on the City of Long Beach's efforts around civic engagement through volunteerism including the 9/11 Day of Service and Remembrance inspiring a month of community and neighborhood service projects culminating on Saturday, October 22nd Make a Difference Day.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2827301&GUID=A50C1313-A4CF-4F21-86E7-3876C51B8242&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 18,
+            "attachments": [
+                {
+                    "filename": "2016-09-06 sup memo only.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4659118&GUID=F19DCA7F-49B4-440B-840A-D42E2E2B1DE2"
+                }
+            ],
+            "file_num": "16-0856",
+            "name": "supp memo",
+            "title": "Supplemental Memorandum - Corrections and/or additions to the\r\nCity Council Agenda as of 12:00 noon, Friday, September 2, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2827299&GUID=53ADBAD8-E6C0-4C0A-9590-1B68647EE0BA&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 19,
+            "attachments": [
+                {
+                    "filename": "090616eCommentsReport-R.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4682864&GUID=17486435-A8E9-4341-9A3C-E0748FEAAC4B"
+                }
+            ],
+            "file_num": "16-0885",
+            "name": "eComments",
+            "title": "eComments received for the City Council meeting of Tuesday, September 6, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2838417&GUID=F27A6D64-5509-4147-8E21-8B19C2450765&Options=&Search=",
+            "version": 1
+        }
+    ],
     "datetime": "2016-09-06T17:00:00",
-    "id": "DE7B3ED1-07A4-4659-A550-41E973F1469F-2016-10-17-22-32-01",
+    "id": "DE7B3ED1-07A4-4659-A550-41E973F1469F-2016-11-04-18-16-18",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=503371&GUID=DE7B3ED1-07A4-4659-A550-41E973F1469F",
     "location": null,
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=503371&GUID=DE7B3ED1-07A4-4659-A550-41E973F1469F",

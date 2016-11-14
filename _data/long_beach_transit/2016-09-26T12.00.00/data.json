@@ -1,9 +1,171 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=505728&GUID=5745E390-0831-48F0-9C8B-8F78C8985E8B",
+    "agenda_items": [
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "3. Minutes 07 25 16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4688273&GUID=523CB8DE-4576-41EC-918D-98DD80C78C54"
+                }
+            ],
+            "file_num": "16-068TR",
+            "name": "Minutes",
+            "title": "Recommendation to approve the minutes of the regular session meeting held on July 25, 2016. (Maricela de Rivera)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2832588&GUID=41224231-3CFE-43A1-B8F9-6152439ECA62&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "7a. Monthly Financial Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4688286&GUID=40CE8E22-C34B-4984-85D4-F614C580FD33"
+                }
+            ],
+            "file_num": "16-069TR",
+            "name": "Monthly Financial Report",
+            "title": "Monthly Financial Report. (Lisa Patton)\r\n\r\nINFORMATION ITEM",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2832601&GUID=DF7F6F1D-08D5-4A56-A0FE-EBB5B04B3D76&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "8. Government Finance Officers Association (GFOA) Award.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4688291&GUID=BF37FCFF-6A59-4F70-B2B2-0A02892E3017"
+                }
+            ],
+            "file_num": "16-070TR",
+            "name": "GFOA Award",
+            "title": "Government Finance Officers Association (GFOA) Award. (Kenneth McDonald)\n\nINFORMATION ITEM",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2832748&GUID=3F366EB1-FF9F-42DF-BD93-36D43A98CA39&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "2a. Long Beach Transit TPR_Final Report_June 2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4729651&GUID=6069DB84-8EA8-4EA1-A41E-BD7A9B196189"
+                }
+            ],
+            "file_num": "16-071TR",
+            "name": "TDA Triennial Performance Review",
+            "title": "Final Report - Transportation Development Act (TDA) Triennial Performance Review. (Lisa Patton)\n\nINFORMATION ITEM",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860183&GUID=F8FB3631-6D03-4BF6-9DF4-6916A8882E97&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [
+                {
+                    "filename": "10. Resolution for Fiscal Year 2017 Federal Transit Administration (FTA) Grant.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4692607&GUID=4EB5A693-91EE-44D2-A8AD-FAEE79A29789"
+                }
+            ],
+            "file_num": "16-072TR",
+            "name": "Resolution for FY17 FTA Grant",
+            "title": "Recommendation to adopt a resolution authorizing the President and CEO to file an application and execute a grant agreement with the Federal Transit Administration for $17,506,605 under the Fixing America’s Surface Transportation (FAST) Act. (Lisa Patton)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2836142&GUID=D9230627-C278-43E2-9A4D-A91A19CDE7EF&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 11,
+            "attachments": [
+                {
+                    "filename": "11. LBT1 Electric Bus Charging Station and Parking Lot Improvements.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4689392&GUID=A66F0C96-C31D-4B97-83D6-854064D20534"
+                }
+            ],
+            "file_num": "16-073TR",
+            "name": "LBT1 Electric Bus Charging Station and Parking Lot Improvements",
+            "title": "Recommendation to authorize the President and CEO to enter into a contract with Eco Energy Solutions, Inc., for the construction of an Electric Bus Charging Station and Parking Lot Improvements at LBT1 to support the 10 Battery Electric Buses (BEBs) in production, for a total authorization amount not to exceed $939,333. (Rolando Cruz)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2836143&GUID=EAACACE6-B58E-4006-804A-A6A68EAC47F4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 12,
+            "attachments": [
+                {
+                    "filename": "12. Security Officer Services Contract.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4689409&GUID=B5F35F9B-66C4-4516-B81A-272ABCD33C59"
+                }
+            ],
+            "file_num": "16-074TR",
+            "name": "Security Officer Services Contract",
+            "title": "Recommendation to authorize the President and CEO to enter into a three-year contract with Universal Protection Service for the provision of security officer services at Long Beach Transit properties, at a cost of $1,195,595 with two, one-year options at $422,661 for Option Year One and $439,324 for Option Year Two, for a total authorization amount not to exceed $2,057,580. (Lee Burner)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2836144&GUID=EFE35D99-8566-4A7D-B9E8-2763E7630846&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 13,
+            "attachments": [
+                {
+                    "filename": "13. TransitMaster Software Maintenance and Support Agreement.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4689412&GUID=7807489D-D284-4C87-AE14-2CEBBCEC0E4D"
+                }
+            ],
+            "file_num": "16-075TR",
+            "name": "TransitMaster Software Maintenance and Support Agreement",
+            "title": "Recommendation to authorize the President and CEO to enter into an agreement with Trapeze Software Group for the ongoing maintenance and support of its TransitMaster brand software, which supports Long Beach Transit’s daily bus operations, for a total authorization amount not to exceed $1,150,163. (Patrick Pham)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2836188&GUID=BD4F9D70-37B4-4718-BE0F-92A63586D679&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 14,
+            "attachments": [
+                {
+                    "filename": "14. Microsoft Software Licensing Enterprise Agreement.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4689434&GUID=D0C415B3-B494-4895-A725-6355D035C1A4"
+                }
+            ],
+            "file_num": "16-076TR",
+            "name": "Microsoft Software Licensing Enterprise Agreement",
+            "title": "Recommendation to authorize the President and CEO to enter into a three-year contract with Insight Public Sector, Inc., for Microsoft Enterprise Software Licensing, which supports Long Beach Transit's daily computer operations, for a total authorization amount not to exceed $109,322 for year one of the contract. (Patrick Pham)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2836189&GUID=7987BAB5-51D1-4329-BD4E-2A077961638E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 15,
+            "attachments": [
+                {
+                    "filename": "15. LBT Board Committee Structure.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4689435&GUID=8AAB41C5-F399-4E80-9D7D-C1D159D30805"
+                }
+            ],
+            "file_num": "16-077TR",
+            "name": "LBT Board Committee Structure",
+            "title": "Recommendation to adopt staff’s recommendation to form two new advisory Board Committees: Finance and Operations; and Policy and Governance, commencing first quarter of calendar year 2017. (Debra Johnson)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2836271&GUID=EC9A3018-E3D2-4A68-B871-5E3FA648DBDF&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-09-26T12:00:00",
     "id": "5745E390-0831-48F0-9C8B-8F78C8985E8B-2016-10-14-17-56-04",

@@ -1,9 +1,147 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=508006&GUID=328757AB-F8DF-4DC3-AA1B-854D1F8F8111",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "CSC MIN 9-21-16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4706135&GUID=14B0147C-7C9B-4565-88A9-769DEEDB3E73"
+                }
+            ],
+            "file_num": "16-171CS",
+            "name": "CSC Minutes 9-21-16",
+            "title": "Recommendation to approve minutes: \r\nRegular meeting of September 21, 2016",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2849604&GUID=37D7EE45-C9A7-49AF-8E57-96E1071DEF49&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "EXAM RESULTS.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4706136&GUID=8B0FE350-DD65-4C77-9726-5561A0F698BC"
+                }
+            ],
+            "file_num": "16-172CS",
+            "name": "Exam Results",
+            "title": "Recommendation to approve examination results:\nBuilding Services Supervisor (Established 9/30/16) - 47 Applied, \n 10 Qualified\nBusiness Systems Specialist (Established 9/23/16) - 29 Applied, \n 29 Qualified\nCombination Building Inspector (Established 9/29/16) - 6 Applied, \n 6 Qualified\nGardener (Established 9/29/16) - 91 Applied, 15 Qualified\nPainter Supervisor (Established 9/20/16) - 15 Applied, 2 Qualified\nPermit Center Supervisor (Established 9/28/16) - 32 Applied, \n 9 Qualified\nPolice Officer - Lateral (Established 9/29/16) - 1 Applied, 1 Qualified\nPublic Health Nutritionist (Established 9/21/16) - 3 Applied, \n 3 Qualified\nSpecial Services Officer (Established 9/23/16) - 23 Applied, \n 23 Qualified\nSystems Support Specialist (Established 9/23/16) - 241 Applied, \n 45 Qualified\nWater Utility Mechanic (Established 9/20/16) - 113 Applied, \n 36 Qualified",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2849796&GUID=1A2B7767-0009-4A23-8C1D-BB08536EB4E4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "Bulletins.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4706137&GUID=33455F9A-7142-42CA-BE24-84AAFA76BF37"
+                }
+            ],
+            "file_num": "16-173CS",
+            "name": "Bulletins",
+            "title": "Recommendation to receive and file bulletins:\nGeologist\nPersonnel Analyst\nSupervisor - Waste Operations",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2849797&GUID=38B229AB-16A9-40F4-BB2D-62E7B9AC5EC6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-174CS",
+            "name": "Retirements",
+            "title": "Recommendation to receive and file retirements:\nParladh Grewal/Senior Mechanical Engineer/Long Beach \n Gas & Oil (29 yrs., 6 mos.)\nKay Drennan/Library Clerk II/Library (41 yrs., 7 mos.)\nStephan Ritchie/Police Officer/Police (24 yrs., 6 mos.)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2849798&GUID=FEEC5D29-1C90-4A39-BFE7-307D5F161A52&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [],
+            "file_num": "16-175CS",
+            "name": "Resignations",
+            "title": "Recommendation to receive and file resignations:\nJohnny Nazaroff/Water Utility Mechanic I/Water (10 mos., 5 days)\nEdgar Valdez/Special Services Officer III/Police (9 mos., 26 days)\nAlbert Sosa/Special Services Officer III/Police (1 yr., 29 days)\nAntoine Derby/Refuse Operator I/Public Works (2 yrs., 6 mos.)\nUduak-Joe Ntuk/Petroleum Engineering Associate II/Long Beach \n Gas & Oil (5 yrs., 4 mos.)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2849799&GUID=95A2A064-FF30-422D-A797-B309C9FECBA6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [],
+            "file_num": "16-176CS",
+            "name": "Transfer",
+            "title": "Recommendation to approve transfer:\r\nAlbert Miramontes/Construction Inspector I/Public Works to Construction Inspector II/Airport",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2849813&GUID=12EDC6A7-2F57-410D-A4DD-78B574E1DAC5&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [],
+            "file_num": "16-177CS",
+            "name": "Transfer",
+            "title": "Recommendation to schedule hearing:\r\nReduction Appeal Hearing 19-R-1516, Suggested Date December 9, 2016",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2849815&GUID=578818C2-2D5D-4DE2-8535-E11D1716F326&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "SEL CERT - CSR.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4706138&GUID=01BD580D-8136-49CE-9573-A6F785149035"
+                }
+            ],
+            "file_num": "16-178CS",
+            "name": "Selective Certification - CSR",
+            "title": "RECOMMENDATION FOR SELECTIVE CERTIFICATION - Customer Service Representative\r\nCommunication from Sandra Aguilar, Personnel Officer, Long Beach Gas & Oil",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2849896&GUID=C9D0D034-3C45-4B37-9F53-ECCEF1BA04E4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "REAPPOINTMENT H  DINH.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4706139&GUID=040E6F22-730D-477C-B294-949FBE3DCC11"
+                }
+            ],
+            "file_num": "16-179CS",
+            "name": "Reappointment - H. Dinh, Survey Tech",
+            "title": "RECOMMENDATION TO REAPPOINT RESIGNED EMPLOYEE - Hung Dinh, Survey Technician\r\nCommunication from Margaret Huebner, Director of Human Resources, Harbor",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2849955&GUID=C21AAA1B-8A25-445A-AE6E-C16F4B955712&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [
+                {
+                    "filename": "EXPIRING ELG LISTS.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4706172&GUID=A1E4E3EF-D942-46E7-ADE2-1439AEBC4D5E"
+                }
+            ],
+            "file_num": "16-180CS",
+            "name": "Expiring Eligible Lists",
+            "title": "RECOMMENDATION TO APPROVE EXTENSION OF EXPIRING ELIGIBLE LISTS (6 months)\nStaff report prepared by Kandice Taylor-Sherwood, Executive Director\nCustomer Service Representative (3/12/14) - (3 months)\nCustomer Services Supervisor (10/23/15) - (3 months)\nGas Construction Worker (4/14/15)\nGas Field Service Representative (4/23/15)\nLaboratory Analyst (4/7/15)\nNeighborhood Services Specialist (10/24/14)\nOffice Systems Analyst Test 1 (10/5/15) Test 2 (10/16/15) - \n (3 months)\nPayroll/Personnel Assistant (4/15/15) - (3 months)\nPermit Technician (10/16/15)\nPolice Recruit (NTN) Test 1 (10/6/15)\nRegistered Nurse Test 2 (10/16/15) Test 1 (10/10/16)\nSchool Guard (4/11/16)\nTraffic Signal Technician (4/24/15)",
+            "type": "CS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2850000&GUID=7F0403C7-9D82-4F21-B936-D699B78E5117&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-10-05T08:00:00",
     "id": "328757AB-F8DF-4DC3-AA1B-854D1F8F8111-2016-10-20-19-32-38",

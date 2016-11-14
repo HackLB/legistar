@@ -1,5 +1,76 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=511021&GUID=6626FD52-F8D4-4FC3-B50B-3821935A0D0F",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "101816.slc.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727935&GUID=040F55A2-637B-4274-8105-BFA4B8D3CF5F"
+                }
+            ],
+            "file_num": "16-0957",
+            "name": "10182016-SLC-Mins Apprvl for 12/1/15",
+            "title": "Recommendation to approve the minutes for the State Legislation Committee meeting held Tuesday, December 1, 2015.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859463&GUID=0558BC8C-D09C-44D9-B1A4-82A369937D53&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "101816.slc.item2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727949&GUID=2276D244-1228-4F3A-80E7-37AF25686161"
+                },
+                {
+                    "filename": "101816.slc.item2 Support and Opposition Letters.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4733193&GUID=3A5AB978-F30F-408E-BB96-68BC76FDC0C2"
+                }
+            ],
+            "file_num": "16-0958",
+            "name": "101816-SLC-R&F; 2016 Reg State Leg Sess",
+            "title": "Recommendation to receive and file a report on the 2016 Regular State Legislative Session.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859465&GUID=9FCED111-62BB-44A5-8320-CD8697EAEF8F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "101816.slc.item3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4733169&GUID=67BF6556-582A-4F75-8521-B502EC89A3DA"
+                }
+            ],
+            "file_num": "16-0959",
+            "name": "101816-SLC-Gov't Affrs by #s FY16",
+            "title": "Recommendation to receive and file a report on the City's Government Affairs by the Numbers for FY 16.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859466&GUID=DFEA2F16-9715-4B51-99F0-ACBBD286673C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "101816.slc.item4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4727952&GUID=785710BE-7B58-4A32-AFCB-F3D779930432"
+                }
+            ],
+            "file_num": "16-0960",
+            "name": "101816-SLC-R&F; FY16 State Budget",
+            "title": "Recommendation to receive and file a report on the FY 16 State Budget.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2859469&GUID=1EB85FF7-1EC0-449A-A6AD-02CD2FFB90D7&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

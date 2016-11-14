@@ -1,5 +1,55 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504541&GUID=ACF38A3B-81B7-491F-BEA2-8301EF25E2E9",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "091316.ha.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4665936&GUID=D824CDC4-2B3D-4388-984C-53282D60303C"
+                }
+            ],
+            "file_num": "16-0857",
+            "name": "091316-HA-Mins Apprvl 4 8/2/16",
+            "title": "Recommendation to approve the minutes of the Housing Authority of the City of Long Beach, California Special Meeting held Tuesday,\nAugust 2, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2828921&GUID=0A853C18-0123-43C2-B0C0-15A1E7DB2141&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "091316.ha.item2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4665937&GUID=4604E0CB-9071-46C5-99DA-E74F14873A13"
+                }
+            ],
+            "file_num": "16-0858",
+            "name": "091316-HA-R&F; F&O; Perf Rpt 4 April 2016",
+            "title": "Recommendation to receive and file the Housing Authority Financial and Operational Performance Report for June 2016.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2828922&GUID=EFE7DA3A-157F-4EC9-A544-7816B509169E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "091316.ha.item3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4665938&GUID=2DF4B6D5-FEA0-44F0-A3A1-28BFAFC5AC40"
+                }
+            ],
+            "file_num": "16-0859",
+            "name": "061316-HA-Beachwood Apts Termination",
+            "title": "Recommendation to authorize Executive Director to execute all documents necessary to terminate and release the 1982 Disposition and Development Agreement and the 1983 Grant Deed executed and recorded in conjunction with the development for Beachwood Apartments.  (District 1)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2828958&GUID=D86321B1-2362-40F3-B3D1-0F39F3616466&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

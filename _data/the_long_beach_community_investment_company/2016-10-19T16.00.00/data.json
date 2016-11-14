@@ -1,9 +1,84 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=510824&GUID=B468C628-8B49-49AD-BEA3-31D313E4645F",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "08.17.16 - Finished Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4724636&GUID=661E5A9F-1D89-4E38-87FE-3130B639E247"
+                }
+            ],
+            "file_num": "16-023CI",
+            "name": "August draft meeting minutes",
+            "title": "Recommendation to receive and file the minutes of the Regular Board Meeting held Wednesday, August 17, 2016.",
+            "type": "CI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2858194&GUID=36D4088C-37EC-4A06-9879-0768B172418D&Options=&Search=",
+            "version": 2
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "Habitat ENA Henderson Extension.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4724662&GUID=01B570EA-A2FD-4B5D-A1B8-2180189165BB"
+                },
+                {
+                    "filename": "Henderson Attachment A.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4724664&GUID=D6F3BD1F-9750-441E-BBF5-5E61B9DBFCC9"
+                },
+                {
+                    "filename": "Henderson Attachment B.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4724666&GUID=53196AC1-0695-4DE4-8E1A-2559FD6C3E01"
+                }
+            ],
+            "file_num": "16-024CI",
+            "name": "Habitat ENA Henderson Extension",
+            "title": "Recommendation to authorize the President or designee to extend the Agreement to Negotiate Exclusively with Habitat for Humanity of Greater Los Angeles for the development of 1950-1960 Henderson Avenue.",
+            "type": "CI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2858208&GUID=5967900A-2AA6-43CA-B762-7D244D619B24&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "Habitat ENA 14thPinePacific Extension.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4725404&GUID=72B48689-BB0C-49AE-89C4-D01B2EB54799"
+                },
+                {
+                    "filename": "14thPinePacific Attachment A.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4725405&GUID=C477AC38-7560-4918-9885-A2716FBFCC34"
+                }
+            ],
+            "file_num": "16-025CI",
+            "name": "Habitat ENA 14thPinePacific Extension",
+            "title": "Recommendation to authorize the President or designee to extend the Agreement to Negotiate Exclusively with Habitat for Humanity of Greater Los Angeles for the development of the properties at 116 West 14th Street, 124 West 14th Street, 1348 Pacific Avenue, 1339 Pine Avenue and 1347 Pine Avenue.",
+            "type": "CI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2858268&GUID=C7E7CCCF-4B09-4D4F-9D1D-1860A81EA183&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-026CI",
+            "name": "Presentation on Assessment of Fair Housing",
+            "title": "Presentation on Assessment of Fair Housing.",
+            "type": "CI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2858310&GUID=D2642E46-0E65-4C25-9E3D-7A1633AE3D60&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-10-19T16:00:00",
     "id": "B468C628-8B49-49AD-BEA3-31D313E4645F-2016-10-26-21-36-01",

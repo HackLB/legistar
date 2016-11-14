@@ -1,5 +1,39 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504925&GUID=4801E179-81F4-4625-9063-0621BF312E41",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "092016.sa.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674875&GUID=BD543264-A0A9-48D9-89EF-9492A20A7085"
+                }
+            ],
+            "file_num": "16-016SA",
+            "name": "092016-SA-Approve Minutes",
+            "title": "Recommendation to approve the minutes for the City of Long Beach as the Successor Agency to the Redevelopment Agency of the City of Long Beach meeting held Tuesday, July 19, 2016.",
+            "type": "SA-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2835491&GUID=783ACB9D-48D1-4FB0-99D8-3545B1285593&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "092016.sa.item2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674876&GUID=50F06D59-A2E3-4087-AB52-05DFE9354B9A"
+                }
+            ],
+            "file_num": "16-017SA",
+            "name": "092016-SA-Amended ROPS",
+            "title": "Recommendation to approve the draft Amended Recognized Obligation Payment Schedule 16-17B, for the period of January 1, 2017 through June 30, 2017.  (Citywide)",
+            "type": "SA-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2835492&GUID=72249001-3BE1-46CA-AB32-E219A0698C49&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

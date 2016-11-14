@@ -1,0 +1,38 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=516026&GUID=392C4281-3BA9-4713-B00D-71306B5CD754",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-059ED",
+            "name": "Recommendation to receive and file a panel discussion led by Economic Development Commission Vice-Chair Becky Blair regarding Business Environment and Development  issues associated with the City of Long Beach.",
+            "title": "Recommendation to receive and file a panel discussion led by Economic Development Commission Vice-Chair Becky Blair regarding Business Environment and Development  issues associated with the City of Long Beach.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882705&GUID=E8B25046-EC67-470D-9356-D01904A1E3E0&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "16-060ED",
+            "name": " ",
+            "title": "Recommendation to receive and file a Communications update regarding Beacon’s scope of work from John Keisler, Innovation Director City of Long Beach.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882706&GUID=EFD5FEA7-9F6C-4F6F-9A3E-4BEF3C47B7CE&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "4321 Atlantic Ave, Long Beach, CA 90807, USA",
+        "latitude": 33.8349428,
+        "longitude": -118.1854482
+    },
+    "datetime": "2016-11-15T16:00:00",
+    "id": "392C4281-3BA9-4713-B00D-71306B5CD754-2016-11-11-23-11-50",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=516026&GUID=392C4281-3BA9-4713-B00D-71306B5CD754",
+    "location": "EXPO ARTS CENTER\r\n4321 ATLANTIC AVENUE",
+    "minutes": null,
+    "name": "Economic Development Commission",
+    "summary": "",
+    "title": "Economic Development Commission - 11/15/2016 - 4:00 PM"
+}

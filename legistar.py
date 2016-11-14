@@ -35,6 +35,15 @@ def geocode(address):
         return geocode(address)
 
 
+def download(url, path):
+    r = requests.get(url, stream=True)
+    with open(path, 'wb') as f:
+        for chunk in r.iter_content(chunk_size=1024): 
+            if chunk: # filter out keep-alive new chunks
+                f.write(chunk)
+    return True
+
+
 def get_records():
     """
     Extracts city meeting records from the Legistar calendar
@@ -114,6 +123,78 @@ def enhance_and_clean_record(record):
             pass
     record['minutes'] = minutes
 
+
+    # Get agenda items if existing
+    record['agenda_items'] = []
+    table_body = soup.find('table', {'id': 'ctl00_ContentPlaceHolder1_gridMain_ctl00'}).find('tbody')
+    agenda_rows = table_body.find_all('tr')
+
+    # If meeting record has agenda items listed
+    if len(table_body.find_all('tr', {'class': 'rgNoRecords'})) == 0:
+        # For each agenda item noted...
+        for row in agenda_rows:
+            cells = row.find_all('td')
+
+            row_rec = {}
+
+            # Get link for agenda item
+            if len(cells[0].find_all('a')) > 0:
+                row_rec['url'] = urllib.parse.urljoin(base_url, cells[0].find('a')['href'])
+                row_rec['file_num'] = cells[0].find('a').string
+            else:
+                row_rec['url'] = None
+                row_rec['file_num'] = None
+            
+            # Agenda item version
+            try:
+                row_rec['version'] = int(cells[1].string.replace('.','').strip())
+            except:
+                row_rec['version'] = None
+            
+            # Agenda item number
+            try:
+                row_rec['agenda_num'] = int(cells[2].string.replace('.','').strip())
+            except:
+                row_rec['agenda_num'] = None
+
+
+            # Agenda item name, type, and title
+            row_rec['name'] = cells[3].string
+            row_rec['type'] = cells[4].string
+            row_rec['title'] = cells[5].string
+
+
+            # Get agenda item attachments if available
+            r_agenda_page = requests.get(row_rec['url'])
+            agenda_page = BeautifulSoup(r_agenda_page.content, 'html.parser')
+
+            # Initialize list for attachments
+            row_rec['attachments'] = []
+
+
+            # Get attachment links if they exist
+            if agenda_page.find('span', {'id': 'ctl00_ContentPlaceHolder1_lblAttachments2'}) is not None:
+                attachment_links = agenda_page.find('span', {'id': 'ctl00_ContentPlaceHolder1_lblAttachments2'}).find_all('a')
+            else:
+                attachment_links = []
+
+            # For each attachment found, create a record for it and add to agenda record
+            attachment_index = 1
+            for attachment in attachment_links:
+                attachment_rec = {}
+
+                attachment_rec['num'] = attachment_index
+                attachment_rec['url'] = urllib.parse.urljoin(base_url, attachment['href'])
+                attachment_rec['filename'] = attachment.string.strip('.&;* #@').replace('&','-')
+
+                row_rec['attachments'].append(attachment_rec)
+                attachment_index += 1
+
+            record['agenda_items'].append(row_rec)
+
+
+    # Cleanup record by deleting some unnecessary fields.
+    # Most are specific to the original ATOM feed and not relevant
     del(record['published'])
     del(record['published_parsed'])
     del(record['links'])
@@ -122,6 +203,7 @@ def enhance_and_clean_record(record):
     del(record['title_detail'])
     del(record['summary_detail'])
 
+    # Parse meeting datetime from title
     dt_string = (' ').join(record['title'].split(' - ')[1:3])
     record['datetime'] = dateparser.parse(dt_string).isoformat()
 
@@ -156,16 +238,29 @@ def save_record(record):
 
     agenda_path = os.path.join(directory, 'agenda.pdf')
     if record['agenda'] and not os.path.exists(agenda_path):
-        r = requests.get(record['agenda'])
-        with open(agenda_path, 'wb') as f:
-            f.write(r.content)
+        download(record['agenda'], agenda_path)
 
     minutes_path = os.path.join(directory, 'minutes.pdf')
     if record['minutes'] and not os.path.exists(minutes_path):
-        r = requests.get(record['minutes'])
-        with open(minutes_path, 'wb') as f:
-            f.write(r.content)
+        download(record['minutes'], minutes_path)
 
+    for agenda_item in record['agenda_items']:
+        agenda_dir_name = '{}'.format(agenda_item['agenda_num'])
+
+        agenda_dir = os.path.join(directory, agenda_dir_name)
+        os.makedirs(agenda_dir, exist_ok=True)
+
+        # Loop through each attachment and save it
+        for attachment in agenda_item['attachments']:
+            attachment_path = os.path.join(agenda_dir, attachment['filename'])
+
+            # Only download if it doesnt already exist
+            if not os.path.exists(attachment_path):
+                print('Downloading: {}'.format(attachment['url']))
+                download(attachment['url'], attachment_path)
+
+
+    return True
 
 
 if __name__ == "__main__":

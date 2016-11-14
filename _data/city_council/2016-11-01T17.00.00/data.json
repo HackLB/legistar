@@ -1,15 +1,526 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=512409&GUID=CD7BE0AE-8C3C-4E4E-B7A3-304B520F8EBC",
-    "coordinates": {
-        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.7679491,
-        "longitude": -118.1958298
-    },
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "110116-C-1sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742426&GUID=272569FA-CB91-47D0-A090-211EAA5E606D"
+                }
+            ],
+            "file_num": "16-0971",
+            "name": "CA-Compromise and Release",
+            "title": "Recommendation to authorize City Attorney to submit Compromise and Release for approval by the Workers' Compensation Appeals Board, and if so approved, authority to pay $105,000 in compliance with the Appeals Board Order for John Zunich.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866047&GUID=919D80DD-F0C5-4DF7-8F85-0A47752FB55A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "110116-C-2sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742427&GUID=83930A91-290F-4ACE-8E3D-FA43A8FEE5FE"
+                }
+            ],
+            "file_num": "16-0972",
+            "name": "CC-Minutes",
+            "title": "Recommendation to approve the minutes for the City Council meetings of Tuesday, October 11, and October 18, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866048&GUID=72D2BE3D-9D56-4D14-87F3-3E86B3C36116&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "110116-C-3sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742428&GUID=E3117F64-0D66-4DCC-8B6E-54E2C19710F8"
+                }
+            ],
+            "file_num": "16-0973",
+            "name": "CC-Damage Claims",
+            "title": "Recommendation to refer to City Attorney damage claims received between October 10, 2016 and October 24, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866049&GUID=2A41FD6E-A4CD-47F1-B21D-8D06DB936CD6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "110116-C-4sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742429&GUID=F473CD27-CFF4-4B10-B98D-DE0E9705ABFD"
+                },
+                {
+                    "filename": "RES-16-0105.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777541&GUID=2365B62C-D0BC-452B-8827-F71C327FF051"
+                }
+            ],
+            "file_num": "16-0974",
+            "name": "CC-RES/Dest of Rec. FM",
+            "title": "Recommendation to approve the destruction of records for Financial Management Department, Towing Operations and Liens Sales Division; and adopt resolution.",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866050&GUID=9CBC5E31-32F3-47C0-A7FF-59AD42C021B1&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "110116-C-5sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742430&GUID=C336390C-6A1D-43E6-8D2C-1388A10535A2"
+                }
+            ],
+            "file_num": "16-0975",
+            "name": "DS - Grant Award from DOJ",
+            "title": "Recommendation to authorize City Manager, or designee, to execute any and all necessary documents with the U.S. Department of Justice, Office of Justice Programs, Office of Juvenile Justice and Delinquency Prevention, to receive and expend  grant funding in the amount of $259,000, for a period of one year, for the FY 16 State and Community Development Award; and\n\nIncrease appropriations in the Community Development Grants Fund (SR 150) in the Development Services Department (DV) by $259,000.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866043&GUID=4ED4F993-FECE-454B-977E-BCB5730181AC&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [
+                {
+                    "filename": "110116-C-6sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742431&GUID=98B81242-3ACE-4A02-B874-5D2696A621E2"
+                }
+            ],
+            "file_num": "16-0976",
+            "name": "EPD - Loan to McKenzie Crematory D1",
+            "title": "Recommendation to authorize City Manager, or designee, to execute all necessary documents to implement a fully amortized loan in the amount of $300,000, at a fixed interest rate of 5 percent per year and a term of 15 years, to McKenzie Crematory, Inc., located at 1520 Seabright Avenue.  (District 1)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866044&GUID=1FA9A592-8584-4C95-B99C-51D595EDDB0A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "110116-C-7sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742432&GUID=B0AC3E67-2FC4-448B-91D1-4211AD8E8FA7"
+                }
+            ],
+            "file_num": "16-0977",
+            "name": "FM - Agrmnt w/LBCCD for parking processing svcs",
+            "title": "Recommendation to authorize City Manager, or designee, to execute an agreement, any subsequent amendments thereto, and any related necessary documents to provide parking processing services to Long Beach City College District, for a period of two years, with an option to extend the agreement for three additional one-year terms.  (Districts 5,6)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866045&GUID=B63BEA6A-4F52-4C78-B702-F0017D8D7F7E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "110116-C-8sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742433&GUID=D15658B4-C046-4702-B32F-0F4B9F0B94D1"
+                },
+                {
+                    "filename": "110116-C-8 ABC Letter.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4766179&GUID=64A9BBA3-6509-405F-A2A8-15A9027EEFCE"
+                }
+            ],
+            "file_num": "16-0978",
+            "name": "PD - ABC License - Pacific Union 76 D1",
+            "title": "Recommendation to determine the application serves the public convenience and necessity, and receive and file the application of American Petroleum Corporation, dba Pacific Union 76, for an original application of an Alcoholic Beverage Control License, at 1410 West Pacific Coast Highway.  (District 1)",
+            "type": "ABC License",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866046&GUID=C318CED5-BDA1-41A9-9411-C464357BF8A7&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "110116-C-9sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742434&GUID=F8275B48-3410-4CDB-8882-CEC9DD4B7488"
+                },
+                {
+                    "filename": "RES-16-0106.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777542&GUID=BC51EC8C-D6A9-44A3-A7BC-18B599C2E2AA"
+                }
+            ],
+            "file_num": "16-0979",
+            "name": "PD/DS - Grant funding through the Strengthening Law Enforcement Comm. Rel. Program",
+            "title": "Recommendation to adopt resolution authorizing City Manager, or designee, to execute any documents necessary to accept and expend grant funding from the California Board of State and Community Corrections, for the Strengthening Law Enforcement and Community Relations Grant Program, in the amount of $600,000, over a two-year period beginning July 1, 2016, and ending August 30, 2018.  (Citywide)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866052&GUID=C299C5E0-EABD-49AF-AED7-1AC5C661F21B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [
+                {
+                    "filename": "110116-C-10sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742435&GUID=49F7AF87-3798-4647-B9D3-9421B01F7D30"
+                }
+            ],
+            "file_num": "16-0980",
+            "name": "PW - Tract No. 73438 final map D2",
+            "title": "Recommendation to find that all requirements of the final subdivision map for condominium purposes have been satisfied; approve the final map for Tract No. 73438 located north of Broadway and west of Elm Avenue; and, accept Categorical Exemption 15-073.  (District 2)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866053&GUID=DF4AF3B8-2558-4585-8250-2AC6DBB6220B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 11,
+            "attachments": [
+                {
+                    "filename": "110116-C-11sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742436&GUID=4FCF93AE-D00C-4B49-9A27-3218D6747240"
+                }
+            ],
+            "file_num": "16-0981",
+            "name": "PW - FInal map for Parcel 72504-Pacific Pointe East Dev Proj D5",
+            "title": "Recommendation to authorize City Manager, or designee, to execute subdivision agreements and find that all requirements of the final subdivision map have been satisfied; approve the final map for Parcel No. 72504, located at 4350, 4600 and 4800 Conant Street; and, accept Pacific Pointe East Development Project Environmental Impact Report No. 2014011059.  (District 5)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866054&GUID=F0AB5041-08F4-4FD6-9DD3-18B6BDF956D3&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 12,
+            "attachments": [
+                {
+                    "filename": "110116-C-12sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742437&GUID=80452711-2230-4047-9A18-C96FEBB18AFF"
+                }
+            ],
+            "file_num": "16-0982",
+            "name": "TI/FM - Agrmnt w/RD Systems for access control svcs",
+            "title": "Recommendation to authorize City Manager, or designee, to increase Blanket Purchase Order Agreement No. BPTS15000028 with RD Systems, Inc., of Tustin, CA, for access control services by $92,000, for a total amount not to exceed $653,172 for the period ending May 31, 2017.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866051&GUID=B252A419-312A-40A8-B8BC-8EDCE25F04FD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 13,
+            "attachments": [
+                {
+                    "filename": "110116-C-13sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742438&GUID=C2A62343-FFF9-4159-AD34-4167C5C34699"
+                }
+            ],
+            "file_num": "16-0983",
+            "name": "Various Minutes",
+            "title": "Recommendation to receive and file minutes for:\r\nCivil Service Commission - October 5, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866055&GUID=7629EEC4-2921-4A8C-BF1C-35975BB31944&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 14,
+            "attachments": [
+                {
+                    "filename": "110116-R-14sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742439&GUID=91D5C80A-A2C8-4D8B-89B2-8265CB2EB9F1"
+                },
+                {
+                    "filename": "110116-R-14att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4753598&GUID=86F287FA-8EE6-4916-98FC-6EE6364BDC6C"
+                }
+            ],
+            "file_num": "16-0984",
+            "name": "Mayor-Commission & Board Appointments",
+            "title": "Recommendation to receive and approve the following non-charter commission and board appointments.",
+            "type": "Appointment",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866056&GUID=6FD9414D-712B-4745-8318-773F5A71DEC0&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 15,
+            "attachments": [
+                {
+                    "filename": "110116-R-15sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742440&GUID=2AE61787-4197-47CC-8B73-913C8AC2F943"
+                },
+                {
+                    "filename": "111516-R-10sr.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777229&GUID=4DCD3673-F15D-4FB0-8237-01F089221AA4"
+                }
+            ],
+            "file_num": "16-0985",
+            "name": "CD7-Support of Humanitarian Parole for Jose Luis Alvarez-Sandoval",
+            "title": "Recommendation to request City Attorney to draft resolution in support of Humanitarian Parole for Jose Luis Alvarez Sandoval, Department of Homeland Security Case No. A 92 812 968.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866057&GUID=9F65219E-20A3-4B7B-86B2-CAEA8008075B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 16,
+            "attachments": [
+                {
+                    "filename": "110116-R-16sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742448&GUID=51938385-0355-4497-A9A6-83685EF64C38"
+                }
+            ],
+            "file_num": "16-0986",
+            "name": "CM - LB Area Convention & Visitors Bureau One Year Extension",
+            "title": "Recommendation to authorize City Manager, or designee, to execute the Fourteenth Amendment to Agreement No. 28164 with the Long Beach Area Convention and Visitors Bureau, Inc., to extend for a one-year period and to provide funding in the amount of $4,608,676 for Fiscal Year 2017.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866061&GUID=EB577898-9590-425B-87A3-FBF582637DA0&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 17,
+            "attachments": [
+                {
+                    "filename": "110116-R-17sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742449&GUID=2CB71C03-E325-4B42-956E-4F8D13CF45C2"
+                }
+            ],
+            "file_num": "16-0987",
+            "name": "EPD - Supplemental Agrmnt w/SMG D2",
+            "title": "Recommendation to authorize City Manager, or designee, to execute any and all documents necessary for a Supplemental Agreement to Management Agreement No. 21667 with SMG, a Pennsylvania joint venture, for the completion of certain capital improvement projects at the Long Beach Convention and Entertainment Center located at 300 East Ocean Boulevard, in the amount of $1,235,000.  (District 2)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866059&GUID=5103805A-9DFE-4FCF-9F1B-63556E6A7C39&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 18,
+            "attachments": [
+                {
+                    "filename": "110116-R-18sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742450&GUID=8A8BCD99-19D6-4641-8B44-196F1A1EE1B3"
+                },
+                {
+                    "filename": "110116-R-18 PowerPoint.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4762825&GUID=0CF5C217-87A4-4812-82E6-FA3F468A0E9D"
+                }
+            ],
+            "file_num": "16-0988",
+            "name": "EPD - Agrmnt w/Urban Commons D2",
+            "title": "Recommendation to authorize City Manager, or designee, to execute any and all documents, including additional lease and capital funding provisions, necessary for an Amended and Restated Lease and Operations Agreement No. 22697 with Urban Commons, LLC, for the Queen Mary and adjacent properties; and\r\n\r\nAuthorize City Manager to proceed with funding up to $23 million in infrastructure repairs to the Queen Mary by using up to $5.8 million in total reserves designated for the Queen Mary and borrowing approximately $17.2 million to be repaid from Queen Mary related revenues.  (District 2)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866060&GUID=CB2A2A98-68EC-44D3-9491-885204EECEEC&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 19,
+            "attachments": [
+                {
+                    "filename": "110116-R-19sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742451&GUID=EE5575AB-A517-4735-9D76-763CE2D4E806"
+                },
+                {
+                    "filename": "RES-16-0107.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777543&GUID=700530E6-7538-4D47-B6AD-C417F5F211EA"
+                }
+            ],
+            "file_num": "16-0989",
+            "name": "FM - LA Truck Center-10 Refuse Trucks",
+            "title": "Recommendation to adopt resolution authorizing City Manager, or designee, to execute all documents necessary to amend Contract No. 34210 with Los Angeles Truck Centers, LLC, dba Los Angeles Freightliner, of Whittier, CA, for the purchase of ten additional Autocar ACX 64, CNG-fueled, refuse collection trucks, with related equipment and accessories, for an additional amount of $3,303,658, for a total contract amount not to exceed $6,607,316, inclusive of taxes and fees.  (Citywide)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866062&GUID=CD867A63-E287-47C9-91B8-2CE97BB065B2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 20,
+            "attachments": [
+                {
+                    "filename": "110116-R-20sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742456&GUID=3782886F-8FE7-4404-99AA-2348DF5810F0"
+                }
+            ],
+            "file_num": "16-0990",
+            "name": "FM - Helicopter Engine Overhaul",
+            "title": "Recommendation to adopt Specifications ITB No. FS16-172 Rebid and award a contract to Heli-One American Support, of Fort Collins, CO, for the purchase of helicopter engine overhaul services with interim rental or overhaul/exchange services for two Turbomeca Arriel 1D1 engines installed in the 2003 Eurocopter AS350 B-2 helicopters, in a total amount of $910,005, and authorize a 20 percent contingency in the amount of $182,000, for a total amount not to exceed $1,092,005, inclusive of taxes and fees.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866066&GUID=A4D59040-2DA1-4FBC-B16A-62D58ABD02DC&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 21,
+            "attachments": [
+                {
+                    "filename": "110116-R-21sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742457&GUID=7A4A82B2-464F-4C4B-B2BB-6B0F7A7E3A40"
+                }
+            ],
+            "file_num": "16-0991",
+            "name": "DHHS - HIV/AIDS Preventive Health Svcs",
+            "title": "Recommendation to authorize City Manager, or designee, to execute a first amendment to Agreement No. 33940 with the California Department of Public Health, providing an additional $602,972, for a total amount of $1,808,916, and extending the term one additional year, for the provision of HIV/AIDS Preventive Health Services, for the period of January 1, 2015 through December 31, 2017.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866071&GUID=DC02D0D3-4A7F-40E8-AD97-BA4BB06DE38C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 22,
+            "attachments": [
+                {
+                    "filename": "110116-R-22sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742458&GUID=B6A215D4-C585-441E-AC11-4661AF51E253"
+                },
+                {
+                    "filename": "RES-16-0108.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777544&GUID=DB8B7A12-5C57-4525-BCD3-77793AE01D4C"
+                }
+            ],
+            "file_num": "16-0992",
+            "name": "LBA-Contract for Airport Noise & Operations",
+            "title": "Recommendation to adopt resolution authorizing City Manager, or designee, to execute a contract with Brüel & Kjaer EMS, Inc., a Delaware corporation, including any necessary amendments thereto, for the maintenance, upgrade and support of the Long Beach Airport Noise and Operations Monitoring System (ANOMS), in the amount of $232,873, for a period of one year, with the option to renew for two additional one-year periods; authorize an annual contingency in the amount of $50,000 for additional services, plus a 3.5 percent annual CPI increase, for a total amount not to exceed $873,356 for the proposed three-year term.  (Districts 3,4,5,7,8)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866069&GUID=55DA474C-C9C3-46F9-A897-5EFBC3515189&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 23,
+            "attachments": [
+                {
+                    "filename": "110116-R-23sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742459&GUID=E5AF4486-056C-4216-8595-C9F3C69641FE"
+                }
+            ],
+            "file_num": "16-0993",
+            "name": "PRM - Rancho Los Alamitos Lease D3",
+            "title": "Recommendation to authorize City Manager, or designee, to execute the Twentieth Amendment to Historical Site Lease No. 24291 with Rancho Los Alamitos Foundation to provide for the annual management fee for lease year 2016-2017.  (District 3)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866067&GUID=20693A0C-3842-4AD3-B024-DF8FB30D2B27&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 24,
+            "attachments": [
+                {
+                    "filename": "110116-R-24sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742460&GUID=1C58C97E-0C83-4828-981B-6D3AC3BE1122"
+                },
+                {
+                    "filename": "RES-16-0109.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777545&GUID=319FFD65-0AC8-42C1-BA37-3B2E266256BD"
+                }
+            ],
+            "file_num": "16-0994",
+            "name": "PRM/PW - Accept Competitive Excess Funds",
+            "title": "Recommendation to adopt resolution authorizing City Manager, or designee, to submit grant applications to the Los Angeles County Regional Park and Open Space District (District) for the Fourth Supervisorial District Excess Funds Program (Program), upon receipt of a grant award; accept a total of $2,600,000 in Competitive Excess Funds from the District for the Program to be utilized for the development of park projects in the City of Long Beach; and, upon acceptance of the grant award,\r\n\r\nIncrease appropriations in the Capital Projects Fund (CP) in the Public Works Department (PW) by $2,600,000, offset by revenue from the grant.  (Citywide)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866068&GUID=87D7DCDC-7A61-4298-86FA-C0726487758A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 25,
+            "attachments": [
+                {
+                    "filename": "110116-R-25sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742461&GUID=561D2A50-6BED-4F9C-AA7B-FD321EFA6F4A"
+                }
+            ],
+            "file_num": "16-0995",
+            "name": "PD-Grant Funding for National Crime Statistics Exchange Program",
+            "title": "Recommendation to authorize City Manager, or designee, to execute all necessary documents to receive and expend grant funding from the Bureau of Justice Statistics Federal Fiscal Year 2016 National Crime Statistics Exchange Implementation Assistance Program, in the amount of $700,000; and\r\n\r\nIncrease appropriations in the General Grants Fund (SR 120) in the Police Department (PD) by $700,000, offset by grant revenue.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866070&GUID=8A7CE58E-78BB-4D0F-82B8-3520FCB70BF6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 26,
+            "attachments": [
+                {
+                    "filename": "110116-ORD-26sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742462&GUID=B2E366AF-11AB-49AC-8A31-0BDF437F2325"
+                },
+                {
+                    "filename": "111516-ORD-15att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767566&GUID=FD10D5CB-B77F-481E-9DD5-64DC0E80A4FC"
+                }
+            ],
+            "file_num": "16-0996",
+            "name": "CA-ORD/Time Limits on challenges to ballot materials",
+            "title": "Recommendation to declare ordinance amending the Long Beach Municipal Code by amending Subsection 1.24.150.B relating to time limits on challenges to ballot materials-primary and special elections, read and adopted as read.  (Citywide)",
+            "type": "Ordinance",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2866072&GUID=B1039465-EBD2-4FE3-A0E6-2E1880D69C84&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 27,
+            "attachments": [
+                {
+                    "filename": "110116-NB-27sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4753589&GUID=A6212B0A-9B59-4FED-A589-B5DAA1491153"
+                }
+            ],
+            "file_num": "16-0998",
+            "name": "CD 8,4,7 - Master Plan for LB Airport",
+            "title": "Recommendation to request City Manager to have the Long Beach Airport Director work with the Airport Advisory Commission, community members and airport stakeholders to develop a long-range master plan for the Long Beach Airport.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2871061&GUID=6423BED3-2060-4FCB-A253-2AC396496E06&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 29,
+            "attachments": [
+                {
+                    "filename": "2016-11-01 sup memo only.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4753687&GUID=C5DE02CE-DF42-48AE-945B-F9162321433F"
+                }
+            ],
+            "file_num": "16-0999",
+            "name": "Supp Memo",
+            "title": "Supplemental Memorandum - Corrections and/or additions to the City Council Agenda as of 12:00 noon, Friday, October 28, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2871092&GUID=6F9F04C6-10F2-4A2D-B20F-848DCCE1E626&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 30,
+            "attachments": [
+                {
+                    "filename": "110116eCommentsReport-R.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4762547&GUID=A704F263-80FB-4756-A66E-7FD0EE772A3D"
+                }
+            ],
+            "file_num": "16-1000",
+            "name": "eComments",
+            "title": "eComments received for the City Council meeting of Tuesday, November 1, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2875365&GUID=6256AE60-28F5-469B-BA34-E65AEFF69423&Options=&Search=",
+            "version": 1
+        }
+    ],
     "datetime": "2016-11-01T17:00:00",
-    "id": "CD7BE0AE-8C3C-4E4E-B7A3-304B520F8EBC-2016-11-03-20-27-03",
+    "id": "CD7BE0AE-8C3C-4E4E-B7A3-304B520F8EBC-2016-11-12-01-22-05",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=512409&GUID=CD7BE0AE-8C3C-4E4E-B7A3-304B520F8EBC",
-    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
-    "minutes": null,
+    "location": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=512409&GUID=CD7BE0AE-8C3C-4E4E-B7A3-304B520F8EBC",
     "name": "City Council",
     "summary": "",
     "title": "City Council - 11/1/2016 - 5:00 PM"

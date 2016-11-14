@@ -1,5 +1,83 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=504666&GUID=9C246144-07FE-4497-B4EA-525F92B4F733",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-021AC",
+            "name": "AAC Excuse Absent Commissioners",
+            "title": "Recommendation to excuse Commissioners that are absent from the Airport Advisory Commission meeting on September 15, 2016.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2833323&GUID=54EE210E-3FA1-459E-A35B-9C84F92154D1&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "16-022AC",
+            "name": "AAC Minutes 072116",
+            "title": "Recommendation to approve the Minutes from the Airport Advisory Commission meeting on July 21, 2016.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2833324&GUID=09EACE15-C469-4C97-9BAB-4C3E5929AE20&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "16-022AC",
+            "name": "AAC Minutes 072116",
+            "title": "Recommendation to approve the Minutes from the Airport Advisory Commission meeting on July 21, 2016.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2833324&GUID=09EACE15-C469-4C97-9BAB-4C3E5929AE20&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "AAC Monthly Budget Report - July 2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674130&GUID=C5A997D0-4366-402A-8DC4-964C25574C2F"
+                },
+                {
+                    "filename": "AAC Monthly Noise Report June 2016.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674131&GUID=3C3D7597-A294-4457-9A73-AF38FC81E3AA"
+                },
+                {
+                    "filename": "AAC Monthly Noise Report July 2016.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674132&GUID=D4EA6439-1168-49FD-9547-B2B6F9103D95"
+                },
+                {
+                    "filename": "Monthly Activity Report July 2016.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674133&GUID=7774C644-B6A0-4429-A78A-0A746A7EE87F"
+                },
+                {
+                    "filename": "Monthly Activity Report August 2016.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674134&GUID=E90AAC62-2E38-4476-BA26-50D048E00D1F"
+                },
+                {
+                    "filename": "AAC Public Affairs Report July-August 2016.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674135&GUID=23DF9DB6-DE03-4299-99AB-CAB63AE3BDD7"
+                },
+                {
+                    "filename": "Disabled Aircraft on RW 30.pdf",
+                    "num": 7,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4684055&GUID=4A19341C-658C-4FAB-9024-21B0C8AF9561"
+                }
+            ],
+            "file_num": "16-023AC",
+            "name": "AAC Monthly Staff Reports September 2016",
+            "title": "Recommendation to receive and file monthly Airport Staff Reports for September 2016.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2833332&GUID=79C90912-1A9A-45E7-8F7B-41268120F622&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "Long Beach, CA 90808, USA",
         "latitude": 33.8197825,

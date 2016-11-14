@@ -1,5 +1,65 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=512396&GUID=F69FC476-300C-4AFE-B98F-7715597F1DFF",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "SCC Minutes 8-25-16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4741966&GUID=4C0F5C35-D0FE-4516-B369-080B227BC1C3"
+                }
+            ],
+            "file_num": "16-019SC",
+            "name": "Minutes August 25",
+            "title": "Recommendation to receive and file the minutes of the Sustainable City Commission meeting of Thursday, August 25, 2016.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2865830&GUID=64F07F12-E3D6-4323-B362-50BBEC5541A7&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "Work Plan 2017 Draft 10.24.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742333&GUID=687EA7F7-F7EB-4E5A-AB96-B125C25DBE1D"
+                }
+            ],
+            "file_num": "16-022SC",
+            "name": " ",
+            "title": "Recommendation to review the 2017 Office of Sustainability Work Plan and forward to the City Council for approval.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2865988&GUID=D72123A3-C995-48EE-A2C3-9BC500DE8078&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "Summary of Public Input.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742336&GUID=3DE904BB-B290-4609-8FB6-0FE54C392C08"
+                },
+                {
+                    "filename": "Sustainable City Work Plan Goals.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742337&GUID=DFB75CBD-1F0D-49FA-AF39-08B5AE800FB9"
+                },
+                {
+                    "filename": "Draft Letter on Sustainable City Goals and Public Comment.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742338&GUID=8C53BD19-A0C8-4DF8-9578-C68D0CA6821B"
+                }
+            ],
+            "file_num": "16-023SC",
+            "name": " ",
+            "title": "Recommendation to review a draft letter on Sustainable City Commission Policy Priorities for 2017 and submit to the Mayor's Office.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2865989&GUID=896243C4-6258-44EA-B408-764237341A1A&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

@@ -1,5 +1,23 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=502147&GUID=54325CE4-EA89-420E-8A6F-96587E1E529B",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "May26Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4635274&GUID=C3832D55-EB53-4ECF-88CC-9EEEC89968BF"
+                }
+            ],
+            "file_num": "16-015SC",
+            "name": "May 26 Minutes",
+            "title": "Recommendation to receive and file minutes of the Sustainable City Commission meeting of Thursday, May 26, 2016.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2817576&GUID=58EE8323-AD5A-4AE1-989A-1F0DD1E7A286&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

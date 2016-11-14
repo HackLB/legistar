@@ -1,15 +1,16 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=503609&GUID=A29CA882-FA83-4AA7-80DA-E34FA734456F",
+    "agenda_items": [],
     "coordinates": {
         "address": "Long Beach, CA 90813, USA",
         "latitude": 33.7844997,
         "longitude": -118.1971031
     },
     "datetime": "2016-09-08T17:30:00",
-    "id": "A29CA882-FA83-4AA7-80DA-E34FA734456F-2016-09-22-20-45-58",
+    "id": "A29CA882-FA83-4AA7-80DA-E34FA734456F-2016-11-07-16-51-49",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=503609&GUID=A29CA882-FA83-4AA7-80DA-E34FA734456F",
     "location": "Multi-Service Center for the Homeless\r\n1301 W. 12th Street\r\nLong Beach, CA 90813",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=503609&GUID=A29CA882-FA83-4AA7-80DA-E34FA734456F",
     "name": "Human Relations Commission",
     "summary": "",
     "title": "Human Relations Commission - 9/8/2016 - 5:30 PM"

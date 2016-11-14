@@ -1,9 +1,21 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=505745&GUID=96A9D9D1-8268-4B26-B6C8-46EA89E05643",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-0884",
+            "name": "092016-ED&F; (A/C)-WC",
+            "title": "A.  Recommendation to approve Existing Litigation - [Closed\r\n      session conference with legal counsel relating to existing\r\n      litigation pursuant to Paragraph (1) of Subdivision (d) of\r\n      Section 54956.9 of the California Government Code.]\r\n\r\n\t1.\tWorkers' Compensation Claim of Mark Swanson\r\n\t\t(ADJ10222737);\r\n \r\n\t2.\tWorkers' Compensation Claim of Steven Bailey\r\n\t\t(ADJ8651329);\r\n\r\n\t3.\tWorkers' Compensation Claim of James Fetner\r\n\t\t(ADJ6743923; ADJ6743636); and \r\n\t\r\n\t4.\tWorkers' Compensation Claim of Ronald Knopp\r\n\t\t(ADJ9054795; ADJ9052744; ADJ8677899).",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2836381&GUID=02835B2A-9542-4C13-A9EB-38CF8BFF87AB&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
-        "address": "Long Beach, CA, USA",
-        "latitude": 33.7700504,
-        "longitude": -118.1937395
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
     },
     "datetime": "2016-09-20T15:45:00",
     "id": "96A9D9D1-8268-4B26-B6C8-46EA89E05643-2016-10-24-23-42-11",

@@ -1,5 +1,81 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=505514&GUID=96AB5162-2DEA-41A9-889E-B4EAF40E8ED2",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "092616.ob.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674860&GUID=67BE6D29-4BA3-429B-85AF-D7B426A728FA"
+                }
+            ],
+            "file_num": "16-018OB",
+            "name": "092616-OB-NOA for 8/1/16 & 9/5/16 meetings",
+            "title": "Recommendation to receive and file the Notices of Adjournment for the August 1, 2016 and September 5, 2016 Regular Meetings of the Oversight Board of the City of Long Beach, as the Successor Agency to the Redevelopment Agency of the City of Long Beach.",
+            "type": "OB-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2835480&GUID=DBF1586C-4016-46B4-A3A3-7F9FEBBA2958&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "092616.ob.item2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674861&GUID=5468C210-699D-482E-A797-4220D163E771"
+                }
+            ],
+            "file_num": "16-019OB",
+            "name": "092616-OB-Apprv. meeting minutes",
+            "title": "Recommendation to approve the minutes for the Oversight Board of the City of Long Beach, as the Successor Agency to the Redevelopment Agency of the City of Long Beach Special Meeting held Tuesday, July 11, 2016.",
+            "type": "OB-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2835481&GUID=575628F2-2F2E-4A43-802A-473FAC0CF7AD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "092616.ob.item3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674862&GUID=9256FBF7-EF48-475F-89AD-5A8C3FD8199A"
+                },
+                {
+                    "filename": "O.B. 10-2016.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4698152&GUID=9DD3D0FE-9484-4DEB-8C34-DFE849AACC55"
+                }
+            ],
+            "file_num": "16-020OB",
+            "name": "092616-OB-Amended ROPS",
+            "title": "Recommendation to adopt resolution approving the draft Amended Recognized Obligation Payment Schedule 16-17B, for the period of January 1, 2017 through June 30, 2017.",
+            "type": "OB-Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2835482&GUID=7C90A0F3-8301-49C1-A632-EC3D361D2425&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "092616.ob.item4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4674863&GUID=606864C0-E8E3-4EBF-8EBE-437D2A35A9C2"
+                },
+                {
+                    "filename": "O.B. 11-2016.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4698153&GUID=D25C643D-E8EB-4A31-8BCF-924CD6B60A5B"
+                }
+            ],
+            "file_num": "16-021OB",
+            "name": "092616-OB-2175 Atlantic Ave",
+            "title": "Recommendation to adopt resolution approving the decision of the City of Long Beach, as the Successor Agency to the Redevelopment Agency of the City of Long Beach, to approve an Amendment to the Revised Long Range Property Management Plan to change the permissible use of the property at 2175 Atlantic Avenue from Future Development to Government Use.",
+            "type": "OB-Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2835483&GUID=FC5C7468-C644-4D62-A9D6-12B6042E7862&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

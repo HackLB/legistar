@@ -1,5 +1,55 @@
 {
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=508194&GUID=FFBACCF3-FC89-47C1-A172-9A3CDCEAE428",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "101116.ha.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4708173&GUID=548D6768-92FF-4DA1-A116-E37D112D4751"
+                }
+            ],
+            "file_num": "16-0934",
+            "name": "101116-HA-Mins Apprvl 4 9/13/16",
+            "title": "Recommendation to approve the minutes of the Housing Authority of the City of Long Beach, California Regular Meeting held Tuesday, September 13, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2851107&GUID=8C82032C-BEDA-472E-AF9E-9FE72562A8A7&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "101116.ha.item2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4708183&GUID=CB155EFE-605E-410D-AD1B-9E5730846470"
+                }
+            ],
+            "file_num": "16-0935",
+            "name": "101116-HA-R&F; R&O; Perf Rpt 4 July 16'",
+            "title": "Recommendation to receive and file the Housing Authority Financial and Operational Performance Report for July 2016.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2851119&GUID=4FE6095E-59B4-4CAE-AB96-5147739E45E6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "101116.ha.item3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4708184&GUID=0320F232-0914-4741-ACCB-3BA14B2B0EBE"
+                }
+            ],
+            "file_num": "16-0936",
+            "name": "101116-HA-Rev Utility Allow Sch.",
+            "title": "Recommendation to adopted Revised Standard Utility Allowance Schedules; and\n\nAdopt Revised Energy Efficiency-Based Utility Allowance Schedules for New Construction Projects.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2851122&GUID=1706B3FF-0FD3-4E94-8DC0-4AF72EB01AC0&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,

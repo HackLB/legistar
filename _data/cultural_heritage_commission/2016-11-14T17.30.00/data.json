@@ -1,0 +1,106 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=514793&GUID=D6BA8BC3-8378-4628-ABDE-30D32BCE682F",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "October 10 Meeting Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4766981&GUID=C347E687-9152-47DA-9F4B-160DE4C3F9FF"
+                }
+            ],
+            "file_num": "16-042CH",
+            "name": " ",
+            "title": "Recommendation to receive and file the Cultural Heritage Commission minutes of October 10, 2016.",
+            "type": "CH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877508&GUID=50A26401-78C7-4161-9224-863C97397EB9&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "Staff Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4770789&GUID=153B1CF1-FE6D-4C44-96B5-1C6760AEB1F9"
+                },
+                {
+                    "filename": "Exhibit A - Location Map.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4770792&GUID=5DC6DC54-ECA6-4F3D-88F1-B3D155FC4F9F"
+                },
+                {
+                    "filename": "Exhibit B - Photos.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4770793&GUID=9466CA15-D41A-4639-9699-B0CA8E00097D"
+                },
+                {
+                    "filename": "Exhibit B - Plans.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4770795&GUID=66175504-8094-466B-A3AA-72290CB56EB7"
+                },
+                {
+                    "filename": "Exhibit C - Findings and Conditions of Approval.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4770799&GUID=D909F30C-5BEF-42BE-96B7-9E1345638017"
+                }
+            ],
+            "file_num": "16-044CH",
+            "name": "729 Daisy",
+            "title": "Approve a Certificate of Appropriateness request for construction of a new detached one-story dwelling unit with two bedrooms, two bathrooms and attached four-car garage proposed in the rear of the property with an existing single family home in the PD-10 zoning district. The property is located at 729 Daisy Avenue, in the Drake Park/Willmore City Historic District. (District 1)",
+            "type": "CH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2878088&GUID=FCEC267F-373B-43D9-8906-592A65C16E36&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "Staff Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4768133&GUID=A5F49A60-1126-46B9-AE54-B8141DFB9631"
+                },
+                {
+                    "filename": "Exhibit A - Location Map.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4768134&GUID=C058036D-E9A9-4FB6-9EF9-AF4E02DCBAC5"
+                },
+                {
+                    "filename": "Exhibit B - Photos.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4768135&GUID=DF0446FD-4F11-4D94-A8E9-1E3C7CFD9B19"
+                },
+                {
+                    "filename": "Exhibit B - Plans.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4768136&GUID=A7434C17-3F82-45A9-AEE5-62BE0DF3D4BC"
+                },
+                {
+                    "filename": "Exhibit C - Conditions of Approval, Findings and Analysis.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4768137&GUID=02A95A20-35AE-4148-ACF5-741418C5DD1C"
+                }
+            ],
+            "file_num": "16-043CH",
+            "name": "318 Carroll Park",
+            "title": "Approve a Certificate of Appropriateness for construction of facade alterations including reconstruction of the front porch, roof alterations, and other exterior alterations to the house and garage. The building is located at 318 Caroll Park West and is a non-contributing structure within the Carroll Park Historic District. (District 2)",
+            "type": "CH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877581&GUID=3C25865D-37F5-4A57-BC34-9BAE303E6279&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-11-14T17:30:00",
+    "id": "D6BA8BC3-8378-4628-ABDE-30D32BCE682F-2016-11-09-19-52-55",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=514793&GUID=D6BA8BC3-8378-4628-ABDE-30D32BCE682F",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": null,
+    "name": "Cultural Heritage Commission",
+    "summary": "",
+    "title": "Cultural Heritage Commission - 11/14/2016 - 5:30 PM"
+}
