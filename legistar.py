@@ -178,7 +178,7 @@ def enhance_and_clean_record(record):
 
                 attachment_rec['num'] = attachment_index
                 attachment_rec['url'] = urllib.parse.urljoin(base_url, attachment['href'])
-                attachment_rec['filename'] = attachment.string
+                attachment_rec['filename'] = attachment.string.strip('.&;* #@')
 
                 row_rec['attachments'].append(attachment_rec)
                 attachment_index += 1
@@ -242,17 +242,24 @@ def save_record(record):
             f.write(r.content)
 
     for agenda_item in record['agenda_items']:
-        agenda_dir_name = '{}_{}_{}'.format(agenda_item['agenda_num'], agenda_item['name'], agenda_item['file_num'])
+        agenda_dir_name = '{}'.format(agenda_item['agenda_num'])
 
         agenda_dir = os.path.join(directory, agenda_dir_name)
         os.makedirs(agenda_dir, exist_ok=True)
 
+        # Loop through each attachment and save it
         for attachment in agenda_item['attachments']:
-            r = requests.get(attachment['url'])
             attachment_path = os.path.join(agenda_dir, attachment['filename'])
-            with open(attachment_path, 'wb') as f:
-                f.write(r.content)
 
+            # Only download if it doesnt already exist
+            if not os.path.exists(attachment_path):
+                print('Downloading: {}'.format(attachment['url']))
+                r = requests.get(attachment['url'])
+                print('Saving to: {}'.format(attachment_path))
+                with open(attachment_path, 'wb') as f:
+                    f.write(r.content)
+
+    return True
 
 
 if __name__ == "__main__":
