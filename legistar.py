@@ -178,7 +178,7 @@ def enhance_and_clean_record(record):
 
                 attachment_rec['num'] = attachment_index
                 attachment_rec['url'] = urllib.parse.urljoin(base_url, attachment['href'])
-                attachment_rec['filename'] = attachment.string.strip('.&;* #@')
+                attachment_rec['filename'] = attachment.string.strip('.&;* #@').replace('&','-')
 
                 row_rec['attachments'].append(attachment_rec)
                 attachment_index += 1
