@@ -64,6 +64,22 @@
             "type": "PR-Agenda Item",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882690&GUID=5A2FB104-BA77-4B0D-9378-D12D9830BD86&Options=&Search=",
             "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "5. 16-070PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4780299&GUID=3350E67D-746A-4A6A-A8C7-3D604F82F3DB"
+                }
+            ],
+            "file_num": "16-070PR",
+            "name": "2016 Nov Correspondence",
+            "title": "Receive and File Correspondence for the November 17, 2016, Parks & Recreation Commission meeting.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2884266&GUID=DAD76D27-8E0E-4353-B98B-F66026AB4B3C&Options=&Search=",
+            "version": 1
         }
     ],
     "coordinates": {
@@ -72,7 +88,7 @@
         "longitude": -118.1937395
     },
     "datetime": "2016-11-17T09:00:00",
-    "id": "E96D3292-72C5-4B23-B668-DAD56D50921B-2016-11-12-01-35-31",
+    "id": "E96D3292-72C5-4B23-B668-DAD56D50921B-2016-11-15-19-35-51",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=514974&GUID=E96D3292-72C5-4B23-B668-DAD56D50921B",
     "location": "El Dorado Park W. Community Cntr\r\nSenior Center Library\r\n2800 N. Studebaker Road",
     "minutes": null,

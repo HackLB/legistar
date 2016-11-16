@@ -1,13 +1,108 @@
 {
-    "agenda": null,
-    "agenda_items": [],
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=514824&GUID=5359161F-25FC-4BB2-B303-C39F9473F182",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "10-20-16 PC Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778204&GUID=0DB8102A-6148-4637-80C1-6639CC286777"
+                }
+            ],
+            "file_num": "16-075PL",
+            "name": "PL - PC minutes 10-20-16",
+            "title": "Recommendation to receive and file the Planning Commission minutes of October 20, 2016.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883169&GUID=D2FCE37F-AABA-410D-B674-B54C94574041&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "4100 E. Ocean Blvd. staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778205&GUID=20A05FC4-AF6E-4CB6-B73D-9D5C5A8713F1"
+                },
+                {
+                    "filename": "4001 E. Ocean Blvd. Exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778210&GUID=F9889B60-66DD-4E6C-8960-27021E9B71FE"
+                },
+                {
+                    "filename": "4100 E. Ocean Blvd. Exhibit D.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778211&GUID=49812D37-A1B2-4893-9754-0F88A091C076"
+                },
+                {
+                    "filename": "4100 E. Ocean Blvd. Exhibit F.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778212&GUID=F90DF426-E3AF-4597-A573-392641559329"
+                }
+            ],
+            "file_num": "16-079PL",
+            "name": "PL - 4100 E. Ocean Blvd. appeal",
+            "title": "Recommendation to deny the appeals from Melinda Cotton, Aileen Colon, and Susan Miller and uphold the decision of the Zoning Administrator to accept Categorical Exemption CE 16-022 and approve a Local Coastal Development Permit in conjunction with the proposed vacation of the 131.2-foot-long, 15-foot-wide alley west of 4100 E. Ocean Boulevard. (District 3) (Application No. 1602-01)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883172&GUID=E8555E6A-700D-4F86-B877-62F2FC413519&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "2016 Mobility Element Annual Report staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778206&GUID=5F829A37-495B-4DCD-BF44-F3FEC495C705"
+                },
+                {
+                    "filename": "2016 Mobility Element Exhibit A.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778207&GUID=0CAB8B39-AD92-44A7-8BC1-BAC2D2BD6DD4"
+                }
+            ],
+            "file_num": "16-077PL",
+            "name": "PL- 2016 Mobility Element Annual Report",
+            "title": "Recommendation to receive and file the 2016 Mobility Element Annual Report and instruct the Director of Development Services to submit the Annual Report to the City Council and State Office of Planning and Research. (Citywide)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883170&GUID=B93BA2FC-94A3-4E42-AA82-2C737A9B93E4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "CX3 Ped Plan staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778209&GUID=6DB33674-F948-4DD2-8B09-2D07224BEC1B"
+                }
+            ],
+            "file_num": "16-078PL",
+            "name": "PL - CX3 adoption",
+            "title": "Recommendation to accept Categorical Exemption CE 16-268 and recommend that the City Council adopt a Resolution approving the draft Communities of Excellence in Nutrition, Physical Activity and Obesity Prevention (CX3) Pedestrian Plan as a technical appendix to the Mobility Element of the Long Beach General Plan. (Districts 1, 2, 6, and 7)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883171&GUID=0A011F1E-096F-4075-AB15-BECB7FBE40BC&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [],
+            "file_num": "16-080PL",
+            "name": "PL - Bike Master Plan Study Session",
+            "title": "Conduct a Study Session regarding the Bicycle Master Plan.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883173&GUID=238786A5-50C4-4AF0-B804-AF2CF00D6594&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.7679491,
         "longitude": -118.1958298
     },
     "datetime": "2016-11-17T17:00:00",
-    "id": "5359161F-25FC-4BB2-B303-C39F9473F182-2016-11-08-16-55-48",
+    "id": "5359161F-25FC-4BB2-B303-C39F9473F182-2016-11-14-18-32-04",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=514824&GUID=5359161F-25FC-4BB2-B303-C39F9473F182",
     "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
     "minutes": null,

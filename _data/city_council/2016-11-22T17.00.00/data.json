@@ -1,5 +1,5 @@
 {
-    "agenda": null,
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=516108&GUID=6B269361-9344-41A9-A5DD-9DA079D9B415",
     "agenda_items": [
         {
             "agenda_num": 1,
@@ -8,6 +8,11 @@
                     "filename": "101816-H-2sr-att.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4719426&GUID=054ADB21-6F4B-4F98-A30A-9A576AA4135C"
+                },
+                {
+                    "filename": "112216-CH-1sr-att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779237&GUID=367C9D6C-DD83-4226-B541-9FF157A989F6"
                 }
             ],
             "file_num": "16-0940",
@@ -18,12 +23,85 @@
             "version": 1
         },
         {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "112216-H-2sr - Exhibits A-D.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779267&GUID=FA55D1F9-F877-40BC-B9ED-47C0E723A9EE"
+                },
+                {
+                    "filename": "112216-H-2 Exhibit E.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779264&GUID=45A672DD-C450-41EB-A217-D3F98DF854EB"
+                },
+                {
+                    "filename": "112216-H-2 Exhibit F (Environmental Impact Report).pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779265&GUID=4A83C121-A373-4BB4-B6E1-EAEEC9BE84CA"
+                },
+                {
+                    "filename": "112216-H-2 Exhibit F (Supplemental Environmental Impact Report).pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779266&GUID=3655CB08-D221-4CC0-BF72-08FA63171D08"
+                },
+                {
+                    "filename": "112216-H-2 Exhibit F (Technical Appendices).pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779268&GUID=F28FBE46-AE2E-4DE5-8F9B-ED27F139D2AA"
+                }
+            ],
+            "file_num": "16-1025",
+            "name": "DS - Appeal of Shoreline/Gateway D2",
+            "title": "Recommendation to receive supporting documentation into the record, conclude the public hearing, consider the appeal by Warren Blesofsky and Long Beach Citizens for Fair Development, and uphold the Planning Commission’s decision to approve an Addendum to the Shoreline Gateway Environmental Impact Report (#18-05 and #26-07), and approve a Modification to Site Plan Review to allow a 35-story mixed-use building with 315 residential units and 6,711 square feet of retail/restaurant space, previously approved for 221 residential units and 6,367 square feet of retail/restaurant space as part of the Shoreline Gateway Master Plan (Application No. 0510-27), to be constructed on a vacant parcel located at 777 East Ocean Boulevard in the PD-30 area.  (District 2)",
+            "type": "Public Hearing",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883909&GUID=8A9AD251-91A4-4586-822F-08734ECDB200&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "112216-H-3sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779238&GUID=2F8A92A0-6508-4BC9-82D8-4F22B495C4E7"
+                }
+            ],
+            "file_num": "16-1026",
+            "name": "FM - Entertainment Permit- Barbie's Bar D9",
+            "title": "Recommendation to receive supporting documentation into the record, conclude the hearing and grant an Entertainment Permit with conditions on the application of Ramon Orozco, dba Barbie’s Bar, 1008 East Artesia Blvd., for Entertainment Without Dancing.  \r\n(District 9)",
+            "type": "Public Hearing",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883889&GUID=ABF5279D-BB18-44F4-86C7-FE0DB92EA4DC&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "112216-C-4sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779239&GUID=CEA5C752-B4DF-4767-AEED-BDA0AC9F03EC"
+                }
+            ],
+            "file_num": "16-1027",
+            "name": "CC-Damage Claims",
+            "title": "Recommendation to refer to City Attorney damage claims received between November 7, 2016 and November 14, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883890&GUID=30B8BC02-D270-4B06-8D18-9BE64B2E3699&Options=&Search=",
+            "version": 1
+        },
+        {
             "agenda_num": 5,
             "attachments": [
                 {
                     "filename": "110116-C-6sr.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4742431&GUID=98B81242-3ACE-4A02-B874-5D2696A621E2"
+                },
+                {
+                    "filename": "112216-C-5sr-att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779240&GUID=5D3B7D18-79C2-43BE-B4ED-639122B082D9"
                 }
             ],
             "file_num": "16-0976",
@@ -34,23 +112,316 @@
             "version": 2
         },
         {
+            "agenda_num": 6,
+            "attachments": [
+                {
+                    "filename": "112216-C-6sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779242&GUID=5F28E152-B10E-4E61-8ED8-18486F8EBF4A"
+                }
+            ],
+            "file_num": "16-1028",
+            "name": "EPD - Lease for Pacific Place 222 W. 6th St.",
+            "title": "Recommendation to authorize City Manager, or designee, to execute any and all documents necessary for a lease between Pacific Place Office, LLC, and the City of Long Beach for office space at 222 West 6th Street, Suite 410, San Pedro, California, and any and all documents necessary for subleases by and between the City of Long Beach and various agencies and organizations on an as-needed basis throughout the term of the lease, for the relocation and continued operations of the Harbor WorkSource Center by the Workforce Development Bureau in the Department of Economic and Property Development.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883895&GUID=2E7FB056-1A01-43B8-829E-F2BF713D2652&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "112216-C-7sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779243&GUID=2CA2A24D-8C4D-4867-94C8-1A4A158015C3"
+                }
+            ],
+            "file_num": "16-1029",
+            "name": "EPD - Patient Care Assistants",
+            "title": "Recommendation to authorize City Manager, or designee, to execute all documents, and any needed subsequent amendments, with Long Beach Memorial Medical Center to operate a customized training program for Patient Care Assistants and related fields, in the amount of $320,000, for the period November 1, 2016 through \r\nDecember 31, 2017.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883891&GUID=524FC506-05E2-44A6-845B-63828221F42D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "112216-C-8sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779244&GUID=3CC51AFA-5728-4F30-BBE8-A442DF386E12"
+                }
+            ],
+            "file_num": "16-1030",
+            "name": "FM - Investment Report-Qtr-Ending Sept. 30, 2016",
+            "title": "Recommendation to receive and file the Investment Report for Quarter Ending September 30, 2016.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883892&GUID=9AACFAE4-2525-44C9-BDA2-349C2CA7C1BE&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "112216-C-9sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779245&GUID=015EEED5-BE9E-4199-A035-17ECB7B3F68C"
+                }
+            ],
+            "file_num": "16-1031",
+            "name": "FD/FM - Contract to Advanced Problem Solving",
+            "title": "Recommendation to adopt Specifications No. RFP FD16-133 and award a contract to Advanced Problem Solving, LLC, of Claremont, CA, for video and curriculum development, in an annual amount not to exceed $600,000, for a period of one-year, with the option to renew for two additional one-year periods, at the discretion of the City Manager.  (Citywide)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883896&GUID=EA2578AE-5951-4BC8-8DC2-4F130FCB55CB&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [
+                {
+                    "filename": "112216-C-10sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779246&GUID=8B3B1637-0559-408C-9FE9-E0016B506441"
+                }
+            ],
+            "file_num": "16-1032",
+            "name": "PD - ABC License - Social List D2",
+            "title": "Recommendation to receive and file the application of Navarro Norton, Incorporated, dba The Social List, for a person-to-person and premise-to-premise transfer of an Alcoholic Beverage Control License, at 2105 East 4th Street.  (District 2)",
+            "type": "ABC License",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883893&GUID=E2311CD8-7676-40F1-A7E5-F9EF7327C87F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 11,
+            "attachments": [
+                {
+                    "filename": "112216-C-11sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779247&GUID=D09DB23C-B286-4051-B1A9-08E37FE5D926"
+                }
+            ],
+            "file_num": "16-1033",
+            "name": "PD - ABC License - Prime by Shenandoah D3",
+            "title": "Recommendation to receive and file the application of Love and Service Hospitality, LLC, dba Prime by Shanendoah, for an original application of an Alcoholic Beverage Control License, at 3701 East 4th Street.  (District 3)",
+            "type": "ABC License",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883894&GUID=CC863239-CD36-440C-B53C-9630A49819FB&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 12,
+            "attachments": [
+                {
+                    "filename": "112216-C-12sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779248&GUID=8ADA92F6-89A0-4001-9762-BE1D7BE20C15"
+                }
+            ],
+            "file_num": "16-1034",
+            "name": "Various Minutes",
+            "title": "Recommendation to receive and file minutes for:\r\nPlanning Commission - October 6, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883897&GUID=E9B2FBE8-AE8A-45CA-8BD8-A08965616D84&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 13,
+            "attachments": [
+                {
+                    "filename": "112216-R-13sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779251&GUID=4D0BFF9E-BA49-49CA-8061-4D338977A195"
+                }
+            ],
+            "file_num": "16-1035",
+            "name": "CD9 - Public Safety Restoration",
+            "title": "Recommendation to request City Manager to evaluate new and ongoing revenue sources, and make the necessary preparations to restore Paramedic Rescue 12 in January 2017, according to the Fire Chief's restoration priority list;\r\n\r\nFurther request City Manager to evaluate and report back to the City Council the feasibility of a short term and long term plan for additional public safety restorations within 90 days.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883903&GUID=B54B7EA0-1235-43C8-992B-8F29E8CDCB68&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 14,
+            "attachments": [
+                {
+                    "filename": "112216-R-14sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779252&GUID=47751B24-C4B8-418F-8A28-88EC29AE2062"
+                }
+            ],
+            "file_num": "16-1044",
+            "name": "CD3 - Reallocation of Wage Enforcement",
+            "title": "Recommendation to request City Manager to identify specific public safety priorities that can be funded using the money that was previously allocated to wage enforcement. The list of priorities should include restoration of resources, staffing, equipment or any other priority that meets the amount and use limitations associated with the money that was previously allocated to wage enforcement.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883908&GUID=E3EEDDBB-3BD9-4ACA-998C-57D7F382E601&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 15,
+            "attachments": [
+                {
+                    "filename": "112216-R-15sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779249&GUID=CA959879-9FE5-44FA-9A88-4E8816209745"
+                }
+            ],
+            "file_num": "16-1045",
+            "name": "CD3 - Belmont Shore Parking Commission",
+            "title": "Recommendation to request City Attorney to draft an amendment to Ordinance No. C-7814, which describes the requirements for service on the Belmont Shore Parking and Business Improvement Area Advisory Commission.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883899&GUID=7E6BF1E8-43D9-415E-B845-6BA991B65076&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 16,
+            "attachments": [
+                {
+                    "filename": "112216-R-16sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779250&GUID=BEDFE48D-1CC3-45E3-BF4B-A0165D75FD6F"
+                }
+            ],
+            "file_num": "16-1036",
+            "name": "EPD/PW - Magnolia Industrial Grp PBID  D1",
+            "title": "Recommendation to approve the Magnolia Industrial Group Property and Business Improvement District Annual Report and Assessment for the period of December 1, 2016 through November 30, 2017, automatically extending the current agreement with the Magnolia Industrial Group, Inc., for a one-year period; and authorize payment of $1,511 in City property assessments from the General Fund (GF) in the Public Works Department (PW).  (District 1)",
+            "type": "Contract",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883898&GUID=13A6F455-5555-4542-A166-39C14F1221E1&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 17,
+            "attachments": [
+                {
+                    "filename": "112216-R-17sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779253&GUID=88ABCAD1-9F88-4866-9E95-D33F6163D02D"
+                }
+            ],
+            "file_num": "16-1039",
+            "name": "FM - Investment Policy for 2017",
+            "title": "Recommendation to adopt the Statement on Investment Policy for Calendar Year 2017 pursuant to Section 53646(a) of the State of California Government Code.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883902&GUID=2C3569F0-4403-42D3-ADE2-E8D3765EC5F8&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 18,
+            "attachments": [
+                {
+                    "filename": "112216-R-18sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779254&GUID=C7A572CC-CF89-4BEF-BFB8-C63329B5F4C6"
+                }
+            ],
+            "file_num": "16-1037",
+            "name": "HR - Carry-Over Vacation Extension",
+            "title": "Recommendation to adopt resolution amending Section 19 of Resolution No. RES-16-0083 (Salary Resolution), authorizing City Manager, or other appropriate appointing authority, to extend the use of accumulated carried over vacation and in-lieu holiday time for a period not to exceed 180 calendar days.  (Citywide)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883900&GUID=13A141EA-9495-4071-B289-DD632C0ABB6C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 19,
+            "attachments": [
+                {
+                    "filename": "112216-R-19sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779255&GUID=F58F3E80-BA3D-4F6B-9100-2B3AFEC31428"
+                }
+            ],
+            "file_num": "16-1038",
+            "name": "HR - MOU w/Lifeguards Assoc.",
+            "title": "Recommendation to adopt resolution approving the amendments to the existing Memorandum of Understanding with the Long Beach Lifeguards Association.  (Citywide)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883901&GUID=91F342CD-841C-44B6-8464-9AD292A9B0FE&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 20,
+            "attachments": [
+                {
+                    "filename": "112216-ORD-20sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779256&GUID=4EE75AC5-FAC0-44B9-BB82-B19993B18AC0"
+                }
+            ],
+            "file_num": "16-1040",
+            "name": "CA - ORD/Amending ORD-16-0012",
+            "title": "Recommendation to declare ordinance amending Ordinance \r\nNo. ORD-16-0012 which amended the Long Beach Municipal Code by adding Section 16.52.2210 relating to the nomination of the property located at 260 East San Antonio Drive as a historic landmark read the first time and laid over to the next regular meeting of the City Council for final reading;",
+            "type": "Ordinance",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883904&GUID=A30DDE69-C85F-4E02-9C61-56A984B74AE0&Options=&Search=",
+            "version": 1
+        },
+        {
             "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "112216-ORD-20sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779257&GUID=0ACDD660-E50C-4590-A8CA-C10F5C82E64A"
+                }
+            ],
+            "file_num": "16-1041",
+            "name": "CA - RES-260 E San Antonio Dr",
+            "title": "Adopt resolution establishing a historic resources designation for the property located at 260 East San Antonio Drive, as prescribed by Chapter 2.63 of the Long Beach Municipal Code to be recorded pursuant to the authority of Government Code Section 27288.2 and Public Resources Code Section 5029;\r\n\r\n(Agenda Item No. 20 continued on Page 9.)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883905&GUID=FA7AC861-309E-4F75-9121-8ADF73D2D494&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "112216-ORD-20sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779258&GUID=BE310CE0-642E-4F06-9B4D-241F6FF6727E"
+                }
+            ],
+            "file_num": "16-1042",
+            "name": "CA - ORD/Amending ORD-16-0013",
+            "title": "Declare ordinance amending Ordinance No. ORD-16-0013 which amended the Long Beach Municipal Code by adding Section 16.52.2220 relating to the nomination of the property located at 6509 Gundry Avenue as a historic landmark read the first time and laid over to the next regular meeting of the City Council for final reading; and",
+            "type": "Ordinance",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883906&GUID=A2A774D7-4EDE-4015-982C-B5C34B8D1051&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "112216-ORD-20sr-att.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779259&GUID=67D4E534-1258-4C11-BF7C-194D12B33A04"
+                }
+            ],
+            "file_num": "16-1043",
+            "name": "CA - RES-6509 Gundry Ave",
+            "title": "Adopt resolution establishing a historic resources designation for the property located at 6509 Gundry Avenue, as prescribed by Chapter 2.63 of the Long Beach Municipal Code to be recorded pursuant to the authority of Government Code Section 27288.2 and Public Resources Code Section 5029.",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883907&GUID=DC63727D-15B5-4C2E-A616-BDF1BA8400B0&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 21,
             "attachments": [
                 {
                     "filename": "111516-H-1sr-att.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767528&GUID=8BEE87BD-AAF3-460A-B85B-5DDF69585550"
+                },
+                {
+                    "filename": "112216-ORD-21att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779260&GUID=9A877810-A656-45A6-80A8-4A1E8D44DDE1"
                 }
             ],
             "file_num": "16-1001",
             "name": "DS - Alcoholic Beverage Manufacturing zoning amendment",
-            "title": "Recommendation to receive supporting documentation into the record, conclude the public hearing, and declare ordinance amending Sections 21.41.216 (Table 41-1C) and 21.45.114 of Title 21 (Zoning) of the Long Beach Municipal Code, relating to Alcoholic Beverage Manufacturing and accessory tasting rooms, read and adopted as read.",
+            "title": "Recommendation to declare ordinance amending Table 41-1C of Chapter 21.41, and Section 21.45.114 (2), (5) and (8), all relating to alcoholic beverage manufacturing and accessory tasting rooms, read and adopted as read.  (Citywide)",
             "type": "Ordinance",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877771&GUID=1DC36B24-05E4-409C-8652-287FEAC87B2C&Options=&Search=",
-            "version": 1
+            "version": 2
         },
         {
-            "agenda_num": null,
+            "agenda_num": 22,
             "attachments": [
                 {
                     "filename": "111516-H-2sr-att;_Exhibits A - B + ORD Title 18.pdf",
@@ -76,46 +447,61 @@
                     "filename": "111516-H-2sr-att; Submit to CCC.pdf",
                     "num": 5,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767573&GUID=5831F704-A0EB-4F5C-B070-F778005D250B"
+                },
+                {
+                    "filename": "112216-ORD-22att.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779261&GUID=A12AD1F7-3396-495D-A031-D85ABA329BB6"
                 }
             ],
             "file_num": "16-1003",
             "name": "DS/FD - Triennial Code Update",
-            "title": "Recommendation to receive supporting documentation into the record, conclude the public hearing, and declare ordinance adopting and amending the 2016 Edition of the California Building Standards Code and the 1997 Edition of the Uniform Housing Code by amending and restating Title 18 of the Long Beach Municipal Code in its entirety, read and adopted as read.",
+            "title": "Recommendation to declare ordinance amending and restating Title 18 in its entirety, and adoption and local amendments to the 2016 Edition of the California Building Standards Codes and the 1997 Edition of the Uniform Housing Code known as the Long Beach Building Standards Code, read and adopted as read.  (Citywide)",
             "type": "Ordinance",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877793&GUID=DBEE9D9E-7756-4E09-868F-FD45B1313A70&Options=&Search=",
-            "version": 1
+            "version": 2
         },
         {
-            "agenda_num": null,
+            "agenda_num": 23,
             "attachments": [
                 {
                     "filename": "111516-H-2sr-att;_ORD Title 12.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767578&GUID=0FABDF8A-CBD6-47F4-90CD-B5B558689461"
+                },
+                {
+                    "filename": "112216-ORD-23att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779262&GUID=F4853FD1-E217-46F7-97F4-45C6CA1FCE13"
                 }
             ],
             "file_num": "16-1004",
             "name": "DS/FD - ORD/Amending Title 12",
-            "title": "Declare ordinance amending and restating Title 12, related to Long Beach Oil Code, of the Long Beach Municipal Code in its entirety read for the first time and laid over to the next regular meeting of the City Council for final reading;",
+            "title": "Recommendation to declare ordinance amending and restating Title 12 in its entirety, all related to the Long Beach Oil Code, read and adopted as read.  (Citywide)",
             "type": "Ordinance",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877794&GUID=66C485B6-6BD6-456D-B6B7-A84F908298E4&Options=&Search=",
-            "version": 1
+            "version": 2
         },
         {
-            "agenda_num": null,
+            "agenda_num": 24,
             "attachments": [
                 {
                     "filename": "111516-H-2sr-att;_ORD Chapter 21.42.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767579&GUID=923A38FB-8AFD-4571-A294-7525F441C014"
+                },
+                {
+                    "filename": "112216-ORD-24att.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779263&GUID=16A9C752-CD89-4602-B58D-0D65644BC6DB"
                 }
             ],
             "file_num": "16-1005",
             "name": "DS/FD - ORD/Amending Chapter 21.42",
-            "title": "Declare ordinance amending Sections 3.90.020.A, 8.76.010.N, 8.76.210.E, 10.46.100, 21.15.330, 21.15.740, 21.15.750, 21.15.2250, 21.21.406.A, 21.31.220.B.4, and amending and restating Chapter 21.42; and adding Sections 21.15.025 and 21.41.232 of the Long Beach Municipal Code read for the first time and laid over to the next regular meeting of the City Council for final reading;",
+            "title": "Recommendation to declare ordinance amending Sections 3.90.020.A, 8.76.010.N, 8.76,210.E, 10.46.100, 21.15.330, 21.15.740, 21.15.750, 21.15.2250, 21.21.406.A, 21.31.220.B.4, and amending and restating Chapter 21.42; and by adding Sections 21.15.025 and 21.41.232, read and adopted as read.  (Citywide)",
             "type": "Ordinance",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877795&GUID=22AECD97-44C0-4241-AA8B-0031562E1BDB&Options=&Search=",
-            "version": 1
+            "version": 2
         }
     ],
     "coordinates": {
@@ -124,7 +510,7 @@
         "longitude": -118.1958298
     },
     "datetime": "2016-11-22T17:00:00",
-    "id": "6B269361-9344-41A9-A5DD-9DA079D9B415-2016-11-14-17-48-37",
+    "id": "6B269361-9344-41A9-A5DD-9DA079D9B415-2016-11-15-19-45-58",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=516108&GUID=6B269361-9344-41A9-A5DD-9DA079D9B415",
     "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
     "minutes": null,

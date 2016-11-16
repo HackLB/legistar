@@ -1,6 +1,16 @@
 {
-    "agenda": null,
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=515886&GUID=D89A0879-E843-47D4-90DC-AD9E98CADCE0",
     "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-030AC",
+            "name": "AAC Excuse Absent Commissioners",
+            "title": "Recommendation to excuse Commissioners that are absent from the Airport Advisory Commission meeting on November 17, 2016.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883093&GUID=AA27A228-B0FC-4D7F-B211-4F6B83B19283&Options=&Search=",
+            "version": 1
+        },
         {
             "agenda_num": 2,
             "attachments": [],
@@ -9,6 +19,26 @@
             "title": "Recommendation to approve the Minutes from the Airport Advisory Commission meeting on September 15, 2016.",
             "type": "AC-Agenda Item",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2860725&GUID=70187ECB-88B3-42E6-96A9-EA62AA86F9F8&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "16-031AC",
+            "name": "AAC Minutes 102016",
+            "title": "Recommendation to approve the Minutes from the Airport Advisory Commission meeting on October 20, 2016.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883095&GUID=BF7D081B-8026-4199-919D-A9886122DCEB&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-033AC",
+            "name": "AAC FAA SoCal Metroplex Presentation",
+            "title": "Recommendation to receive and file presentation by the Federal Aviation Administration, Western-Pacific Region, regarding the SoCal Metroplex Project.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883098&GUID=272F1630-A197-47EE-B83B-90FAC17C63E9&Options=&Search=",
             "version": 1
         },
         {
@@ -26,6 +56,37 @@
             "type": "AC-Agenda Item",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2861294&GUID=CAF452E2-7117-4CDC-BAF2-B6184343A810&Options=&Search=",
             "version": 1
+        },
+        {
+            "agenda_num": 6,
+            "attachments": [
+                {
+                    "filename": "AAC Monthly Noise Report September 2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778080&GUID=09283350-06D3-44B5-A51E-C4185FB8A62F"
+                },
+                {
+                    "filename": "AAC Public Affairs Report October 2016.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778081&GUID=E59E5FC9-406E-4017-8143-E6BC4A0B2BC7"
+                },
+                {
+                    "filename": "AAC Monthly Budget Report September 2016.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4778180&GUID=23551EA0-EE42-488D-AD49-11C7C3BF35F5"
+                },
+                {
+                    "filename": "AAC Monthly Activity Report October 2016.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4780563&GUID=BD7DD597-002E-4114-AB90-5EBF02F4FCA5"
+                }
+            ],
+            "file_num": "16-032AC",
+            "name": "AAC Monthly Staff Reports November 2016",
+            "title": "Recommendation to receive and file monthly Airport Staff Reports for November 10, 2016.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883097&GUID=9F121F1D-5056-4BA2-91FC-2AF8E268F67C&Options=&Search=",
+            "version": 1
         }
     ],
     "coordinates": {
@@ -34,7 +95,7 @@
         "longitude": -118.1064156
     },
     "datetime": "2016-11-17T16:00:00",
-    "id": "D89A0879-E843-47D4-90DC-AD9E98CADCE0-2016-11-10-19-55-38",
+    "id": "D89A0879-E843-47D4-90DC-AD9E98CADCE0-2016-11-14-17-21-42",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=515886&GUID=D89A0879-E843-47D4-90DC-AD9E98CADCE0",
     "location": "Skylinks Municipal Golf Course\r\n4800 E. Wardlow Rd., LB 90808",
     "minutes": null,
