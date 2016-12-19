@@ -1,0 +1,50 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=519114&GUID=B0AD498A-7DD9-4F4F-8F20-7ECEEFC013BF",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "Item 1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4814500&GUID=90BA3DD4-8B3D-4D9E-9780-9EA9783B9BFF"
+                }
+            ],
+            "file_num": "16-003FA",
+            "name": "FA minutes for 6/27 & 7/11/2016",
+            "title": "Recommendation to approve the minutes for the Finance Authority of Long Beach meetings held Monday, June 27 and July 11, 2016.",
+            "type": "FA-Finance Authority",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2897282&GUID=0494359C-81F2-4622-9657-913C6B8A747A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "Item 2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4814505&GUID=FB96EE62-CF90-43AE-8799-A998893A69EB"
+                }
+            ],
+            "file_num": "16-004FA",
+            "name": "RESO - Established meeting date for 2017",
+            "title": "Recommendation to adopt resolution of the Finance Authority of Long Beach establishing a regular meeting date for 2017.",
+            "type": "FA-Finance Authority",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2897283&GUID=342A781A-E07A-449F-A13C-D26E114EC602&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-12-05T11:00:00",
+    "id": "B0AD498A-7DD9-4F4F-8F20-7ECEEFC013BF-2016-12-14-22-46-18",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=519114&GUID=B0AD498A-7DD9-4F4F-8F20-7ECEEFC013BF",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": null,
+    "name": "Finance Authority of Long Beach",
+    "summary": "",
+    "title": "Finance Authority of Long Beach - 12/5/2016 - 11:00 AM"
+}

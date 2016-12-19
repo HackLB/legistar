@@ -1,0 +1,82 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=520368&GUID=4048CA20-DE69-4B50-B0AC-234489BAF689",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "121316.ec.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4826824&GUID=0F25501D-1851-4CB9-B91B-65E7682DB28F"
+                }
+            ],
+            "file_num": "16-1123",
+            "name": "121316-EC-Mins Apprvl for 11/10/15",
+            "title": "Recommendation to approve the minutes of the Environmental Committee meeting held Tuesday, November 10, 2015.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2901141&GUID=B44CE8FF-4689-46A1-8268-8A2E67B19BAF&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "121316.ec.noatt2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4829722&GUID=828AA926-5777-45A0-9CA5-8DA98E9900C0"
+                }
+            ],
+            "file_num": "16-1124",
+            "name": "121316-EC-Stump Removal Program",
+            "title": "Recommendation to receive and file report from Public Works on potential stump removal program.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2902803&GUID=A911EB02-0103-452F-BA3E-4EC80D2D5E7A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "121316.ec.noatt3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4829859&GUID=6418CB4E-2D70-4906-849E-4A0DCB754B52"
+                }
+            ],
+            "file_num": "16-1125",
+            "name": "121316-EC-Reclaimed Water System",
+            "title": "Recommendation to receive and file report from Long Beach Water Department on possibility of expanding the reclaimed water system.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2902804&GUID=A98AE7C0-B35B-4DE7-B936-2AA82D179AEA&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "121316.ec.noatt4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4829861&GUID=C5F4299F-78D6-40EC-AE85-6C3DDBF5BF53"
+                }
+            ],
+            "file_num": "16-1126",
+            "name": "121316-EC-Extruded Polystyrene Bans",
+            "title": "Recommendation to review extruded polystyrene bans in other cities and what recyclable or compostable alternatives to extruded polystyrene are available.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2902805&GUID=DBF8411E-8E95-4B61-8C22-6983784291A4&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-12-13T15:30:00",
+    "id": "4048CA20-DE69-4B50-B0AC-234489BAF689-2016-12-14-20-06-17",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=520368&GUID=4048CA20-DE69-4B50-B0AC-234489BAF689",
+    "location": "333 W. OCEAN BOULEVARD\r\nCOUNCIL CHAMBER",
+    "minutes": null,
+    "name": "Environmental Committee",
+    "summary": "",
+    "title": "Environmental Committee - 12/13/2016 - 3:30 PM"
+}

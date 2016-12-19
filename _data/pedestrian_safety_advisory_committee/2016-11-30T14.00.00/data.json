@@ -1,0 +1,50 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=516854&GUID=81CB91A3-F551-403D-8D09-1BCA2720C7EA",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "PSAC Minutes for 5.5.16 meeting.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4799498&GUID=4FBC8314-7463-4E1D-9898-48CD98C874C5"
+                }
+            ],
+            "file_num": "16-005PE",
+            "name": " ",
+            "title": "Recommendation to receive and file the minutes of the May 5, 2016 meeting.",
+            "type": "PE-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2890611&GUID=FC5DACE8-49A5-4D42-9336-E0391C860C65&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "PSAC Staff Report 11-30-16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4799499&GUID=AE1FB944-4E4A-462D-AD27-F987C620E5CF"
+                }
+            ],
+            "file_num": "16-006PE",
+            "name": " ",
+            "title": "Recommendation to approve the following intersections to be removed \r\nfrom the list of existing crossing guard locations:\r\n\tA.\tJunipero/7th\t\t\tBurbank School\r\n\tB.\tOrange/Hill\t\t\tSignal Hill School\r\n\tC.\tAtlantic/Harding\t\tPowell Academy (Bus Stop)\r\n\tD.\tLocust/Market\t\tAdams School\r\n\tE.\tOrange/20th\t\t\tRenaissance High School \r\n\t\t\t\t\t(formerly Butler Elementary)",
+            "type": "PE-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2890610&GUID=908F5685-9845-45D3-BF63-F8E0D7DE3A16&Options=&Search=",
+            "version": 2
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-11-30T14:00:00",
+    "id": "81CB91A3-F551-403D-8D09-1BCA2720C7EA-2016-11-18-19-16-00",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=516854&GUID=81CB91A3-F551-403D-8D09-1BCA2720C7EA",
+    "location": "333 W. Ocean Boulevard\r\n9th Floor Conference Room",
+    "minutes": null,
+    "name": "Pedestrian Safety Advisory Committee",
+    "summary": "",
+    "title": "Pedestrian Safety Advisory Committee - 11/30/2016 - 2:00 PM"
+}

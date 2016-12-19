@@ -33,7 +33,13 @@
         },
         {
             "agenda_num": 4,
-            "attachments": [],
+            "attachments": [
+                {
+                    "filename": "FAA SoCal Metroplex Presentation.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4801602&GUID=B9AD243E-5EDB-425F-8415-1DBC4AB99FA8"
+                }
+            ],
             "file_num": "16-033AC",
             "name": "AAC FAA SoCal Metroplex Presentation",
             "title": "Recommendation to receive and file presentation by the Federal Aviation Administration, Western-Pacific Region, regarding the SoCal Metroplex Project.",
@@ -55,6 +61,22 @@
             "title": "Recommendation to consider the content of the Airport Advisory Commission Annual Report and take action to refer it to the City Council.",
             "type": "AC-Agenda Item",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2861294&GUID=CAF452E2-7117-4CDC-BAF2-B6184343A810&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "FAA SoCal Metroplex Presentation.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4801602&GUID=B9AD243E-5EDB-425F-8415-1DBC4AB99FA8"
+                }
+            ],
+            "file_num": "16-033AC",
+            "name": "AAC FAA SoCal Metroplex Presentation",
+            "title": "Recommendation to receive and file presentation by the Federal Aviation Administration, Western-Pacific Region, regarding the SoCal Metroplex Project.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2883098&GUID=272F1630-A197-47EE-B83B-90FAC17C63E9&Options=&Search=",
             "version": 1
         },
         {
@@ -89,16 +111,11 @@
             "version": 1
         }
     ],
-    "coordinates": {
-        "address": "Long Beach, CA 90808, USA",
-        "latitude": 33.8197825,
-        "longitude": -118.1064156
-    },
     "datetime": "2016-11-17T16:00:00",
-    "id": "D89A0879-E843-47D4-90DC-AD9E98CADCE0-2016-11-14-17-21-42",
+    "id": "D89A0879-E843-47D4-90DC-AD9E98CADCE0-2016-12-06-21-46-16",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=515886&GUID=D89A0879-E843-47D4-90DC-AD9E98CADCE0",
     "location": "Skylinks Municipal Golf Course\r\n4800 E. Wardlow Rd., LB 90808",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=515886&GUID=D89A0879-E843-47D4-90DC-AD9E98CADCE0",
     "name": "Airport Advisory Commission",
     "summary": "",
     "title": "Airport Advisory Commission - 11/17/2016 - 4:00 PM"

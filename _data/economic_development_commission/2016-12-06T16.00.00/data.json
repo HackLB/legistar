@@ -1,0 +1,69 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=519496&GUID=07441FB1-28DC-4C7F-B24C-53F8B883123F",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-067ED",
+            "name": " ",
+            "title": "Recommendation to conduct a study session on Infrastructure, with a focus on information technology, and Economic Engines, with a focus on economic strategies and entrepreneurship, Part One",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2900566&GUID=625B34AA-7E84-4FE8-BFE0-6850B1DD6A9F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "Business License v2 0.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4816800&GUID=C694A7EA-9083-414F-955F-D438DEB2CEAC"
+                },
+                {
+                    "filename": "EDC Presentation RE Permitting Process v20161129.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4816801&GUID=0C7DC16B-E99E-440F-9C43-58F6A87CEECD"
+                }
+            ],
+            "file_num": "16-063ED",
+            "name": "Recommendation to receive and file a panel discussion regarding  Land Use, Zoning & the General Plan  issues associated with the City of Long Beach.",
+            "title": "Recommendation to receive and file a continued panel discussion and recommendations regarding the General Plan Update, Land Use Element, zoning, permitting, business licensing, and building inspection processes, that impact economic development in the City of Long Beach.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2893434&GUID=1CBEA509-335C-49A8-BD7A-C07092CB2A01&Options=&Search=",
+            "version": 2
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "16-064ED",
+            "name": "Recommendation to receive and file a staff presentation on Speak Up Long Beach.",
+            "title": "Recommendation to receive and file a staff presentation on Speak Up Long Beach, an online community engagement portal.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2893460&GUID=A911D6CF-44D8-44FF-AC09-ED373B49432F&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "16-065ED",
+            "name": "Recommendation to approve Economic Development Commissioners’ proposed calendar for upcoming Economic Development Commission meetings",
+            "title": "Recommendation to approve Economic Development Commissioners’ proposed calendar for upcoming Economic Development Commission meetings",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2893461&GUID=E38E4D3B-B184-4DBC-A331-40BA6BE6061E&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-12-06T16:00:00",
+    "id": "07441FB1-28DC-4C7F-B24C-53F8B883123F-2016-12-14-22-56-16",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=519496&GUID=07441FB1-28DC-4C7F-B24C-53F8B883123F",
+    "location": "333 W. OCEAN BOULEVARD\r\n3RD FLOOR CONFERENCE RM",
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=519496&GUID=07441FB1-28DC-4C7F-B24C-53F8B883123F",
+    "name": "Economic Development Commission",
+    "summary": "",
+    "title": "Economic Development Commission - 12/6/2016 - 4:00 PM"
+}

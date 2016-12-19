@@ -1,0 +1,103 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=519087&GUID=1F454CD1-B48D-462D-AE3F-EDEFBC25C95A",
+    "agenda_items": [
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "2. Minutes 10 24 16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4820759&GUID=43FEFA6F-C914-42C6-A599-8728F98FEF2D"
+                }
+            ],
+            "file_num": "16-091TR",
+            "name": "Minutes",
+            "title": "Recommendation to approve the minutes of the regular session meeting held on October 24, 2016. (Maricela de Rivera)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2896757&GUID=ADF8F51E-E235-4B9C-A468-8BF4146E6C0B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "7a. Monthly Financial Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4820761&GUID=FCDD5BEF-7324-47DF-9C05-CD2874F85B41"
+                }
+            ],
+            "file_num": "16-092TR",
+            "name": "Monthly Financial Report",
+            "title": "Monthly Financial Report. (Lisa Patton)\r\n\r\nINFORMATION ITEM",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2896758&GUID=2B7FA464-4B62-42A8-A70F-2C4A7566379E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "8. Battery Electric Bus Program Quarterly Update.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4820752&GUID=BE863A66-9C62-4C25-8910-CF65A6A9A66B"
+                }
+            ],
+            "file_num": "16-097TR",
+            "name": "Battery Electric Bus Program Quarterly Update",
+            "title": "Battery Electric Bus Program Quarterly Update. (Kenneth McDonald)\r\n\r\nINFORMATION ITEM",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2899716&GUID=A1D6CC4C-E53F-4017-9273-E9CC14C55711&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 9,
+            "attachments": [
+                {
+                    "filename": "9. Dial-A-Lift Replacement Vehicles.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4820758&GUID=CB696A1D-3539-453C-9FE5-E70F3354BC28"
+                }
+            ],
+            "file_num": "16-093TR",
+            "name": "Dial-A-Lift Replacement Vehicles",
+            "title": "Recommendation to authorize the President and CEO to enter into a contract with Creative Bus Sales for the purchase of three MV-1 CNG vehicles, to be used for Long Beach Transit Dial-A-Lift services, for a total authorization amount not to exceed $188,073. (Debra Johnson)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2896765&GUID=AC6B673D-6C76-4A59-A353-DE69CF8174B6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [
+                {
+                    "filename": "10. Short Range Transit Plan for Fiscal Years 2017 through 2019.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4820753&GUID=C7850B12-669A-4D70-B247-011D448137CD"
+                },
+                {
+                    "filename": "10a. Short Range Transit Plan for Fiscal Years 2017 through 2019.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4820754&GUID=2EE173C6-81B8-43D6-A1E0-A3707E41BC75"
+                }
+            ],
+            "file_num": "16-096TR",
+            "name": "Short Range Transit Plan (SRTP)",
+            "title": "Recommendation to approve the Fiscal Years 2017-2019 Short Range Transit Plan (SRTP) and authorize the President and CEO to submit the SRTP to the Los Angeles County Metropolitan Transportation Authority (Metro). (Debra Johnson)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2897749&GUID=87B348FF-DECA-4047-B433-F9BB2887BA9F&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-12-12T12:00:00",
+    "id": "1F454CD1-B48D-462D-AE3F-EDEFBC25C95A-2016-12-07-01-25-22",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=519087&GUID=1F454CD1-B48D-462D-AE3F-EDEFBC25C95A",
+    "location": "333 W. OCEAN BOULEVARD\r\nCOUNCIL CHAMBER",
+    "minutes": null,
+    "name": "Long Beach Transit",
+    "summary": "",
+    "title": "Long Beach Transit - 12/12/2016 - 12:00 PM"
+}

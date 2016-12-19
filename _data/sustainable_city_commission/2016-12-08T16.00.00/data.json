@@ -1,20 +1,70 @@
 {
-    "agenda": null,
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=519904&GUID=574D38A5-44EB-40A6-A775-9BE6887BBAF4",
     "agenda_items": [
         {
-            "agenda_num": 1,
+            "agenda_num": null,
             "attachments": [
                 {
-                    "filename": "SCC Minutes Oct 27.pdf",
+                    "filename": "SCC_minutes_Oct27.pdf",
                     "num": 1,
-                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4773441&GUID=E063C113-2B1C-4A51-A423-58115FF52BE7"
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4821612&GUID=69923093-5C62-4737-9CD3-95B57824F3FB"
                 }
             ],
-            "file_num": "16-024SC",
-            "name": "Oct 27 Minutes",
-            "title": "Recommendation to receive and file minutes of the Sustainable City Commission meeting of Thursday, October 27, 2016.",
+            "file_num": "16-025SC",
+            "name": "Minutes",
+            "title": "Recommendation to receive and file the minutes of the Sustainable City Commission meeting of Thursday, October 27, 2016.",
             "type": "SC-Agenda Item",
-            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2880800&GUID=2A8CE0C8-E16E-4486-B0B8-5D6066DE704E&Options=&Search=",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2900505&GUID=6E36BF74-B61C-462E-9B32-25EAC03838F6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "16-026SC",
+            "name": "STORM",
+            "title": "Recommendation to receive a presentation by the Storm Water Management Division on the Long Beach Municipal Urban Stormwater Treatment (MUST) project.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2900687&GUID=C92CA04D-3260-41C3-893F-1F2DDA904EC1&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "16-027SC",
+            "name": "EV Charger",
+            "title": "Recommendation to receive an update on the EV Charger Give-away Program.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2900688&GUID=5327F29B-D63B-40E5-80CA-E79A40294645&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "16-027SC",
+            "name": "EV Charger",
+            "title": "Recommendation to receive an update on the EV Charger Give-away Program.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2900688&GUID=5327F29B-D63B-40E5-80CA-E79A40294645&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "16-028SC",
+            "name": "Urban Agriculture",
+            "title": "Recommendation to receive an update on the Urban Agriculture Incentive Zone Program.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2900689&GUID=80C93EC2-240E-4EF1-8F7C-0CF28CE5A8F7&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "16-028SC",
+            "name": "Urban Agriculture",
+            "title": "Recommendation to receive an update on the Urban Agriculture Incentive Zone Program.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2900689&GUID=80C93EC2-240E-4EF1-8F7C-0CF28CE5A8F7&Options=&Search=",
             "version": 1
         }
     ],
@@ -24,9 +74,9 @@
         "longitude": -118.1958298
     },
     "datetime": "2016-12-08T16:00:00",
-    "id": "547C6335-1AB4-44ED-BE31-F97C9008B9F6-2016-11-10-17-46-02",
-    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=515792&GUID=547C6335-1AB4-44ED-BE31-F97C9008B9F6",
-    "location": "City Council Chamber\r\n333 W. OCEAN BOULEVARD",
+    "id": "574D38A5-44EB-40A6-A775-9BE6887BBAF4-2016-12-14-20-06-17",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=519904&GUID=574D38A5-44EB-40A6-A775-9BE6887BBAF4",
+    "location": "City Council Chamber\r\n333 W. Ocean Boulevard",
     "minutes": null,
     "name": "Sustainable City Commission",
     "summary": "",

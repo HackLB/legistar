@@ -13,6 +13,11 @@
                     "filename": "112216-ORD-21att.pdf",
                     "num": 2,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779260&GUID=9A877810-A656-45A6-80A8-4A1E8D44DDE1"
+                },
+                {
+                    "filename": "ORD-16-0025.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4825244&GUID=AC8DDF71-1A8F-4D24-931C-173B34065586"
                 }
             ],
             "file_num": "16-1001",
@@ -29,6 +34,11 @@
                     "filename": "111516-H-1sr-att.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767540&GUID=88A8BDD6-FB51-48FF-83E1-95A256CCA91F"
+                },
+                {
+                    "filename": "RES-16-0110.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4828064&GUID=F0C0F719-15E7-4D4F-8A6C-1C885C83345B"
                 }
             ],
             "file_num": "16-1002",
@@ -69,7 +79,12 @@
                 {
                     "filename": "112216-ORD-22att.pdf",
                     "num": 6,
-                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779261&GUID=A12AD1F7-3396-495D-A031-D85ABA329BB6"
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4846870&GUID=A13C354B-3759-4594-B66A-EB7AF31635DD"
+                },
+                {
+                    "filename": "ORD-16-0026.pdf",
+                    "num": 7,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4825245&GUID=3FDD96F7-8B05-40F9-9DAF-59A602811CF8"
                 }
             ],
             "file_num": "16-1003",
@@ -90,7 +105,12 @@
                 {
                     "filename": "112216-ORD-23att.pdf",
                     "num": 2,
-                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779262&GUID=F4853FD1-E217-46F7-97F4-45C6CA1FCE13"
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4846876&GUID=EFFD3C64-C4E9-4FD2-80F7-7AC2880985EB"
+                },
+                {
+                    "filename": "ORD-16-0027.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4825246&GUID=47EFF0F5-A52D-4A6F-B28F-36148C18B928"
                 }
             ],
             "file_num": "16-1004",
@@ -112,6 +132,11 @@
                     "filename": "112216-ORD-24att.pdf",
                     "num": 2,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4779263&GUID=16A9C752-CD89-4602-B58D-0D65644BC6DB"
+                },
+                {
+                    "filename": "ORD-16-0028.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4825332&GUID=3593669F-50B9-4C25-A2FE-0F95674657CC"
                 }
             ],
             "file_num": "16-1005",
@@ -128,6 +153,11 @@
                     "filename": "111516-H-2sr-att;_RES Findings - Determinations.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767580&GUID=B0B46723-97CD-4F35-94EA-7B704AD99182"
+                },
+                {
+                    "filename": "RES-16-0111.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4804345&GUID=B8682F68-468A-46DA-B6B0-5EBAD4710353"
                 }
             ],
             "file_num": "16-1006",
@@ -144,6 +174,11 @@
                     "filename": "111516-H-2sr-att; Submit to CCC.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767581&GUID=0220139A-E4B7-42D5-AD53-2CA17886C2C7"
+                },
+                {
+                    "filename": "RES-16-0112.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4828065&GUID=0259E532-544D-4F5C-AA9F-22E33FE58FD0"
                 }
             ],
             "file_num": "16-1007",
@@ -151,6 +186,22 @@
             "title": "Adopt resolution authorizing the Director of Development Services to submit a Zoning Code Amendment and Local Coastal Program Amendment (Application 1608-24) to the California Coastal Commission for approval; and\r\n\r\nAccept Categorical Exemptions CE-16-211 and CE-16-224.  (Citywide)",
             "type": "Resolution",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877797&GUID=410774BD-48CA-4F6E-8910-17FBD6FB4C66&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "111516-PC Handout_Broussard.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4801830&GUID=0BBE7284-56EA-4DA1-9801-15DF6B57A8B0"
+                }
+            ],
+            "file_num": "16-1052",
+            "name": "Shirley Broussard Handout.",
+            "title": "Shirley Broussard spoke regarding Thanksgiving; and provided a handout.",
+            "type": "Handout",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2891627&GUID=BF9DF563-CF2A-44D4-AAE4-8B1057B70428&Options=&Search=",
             "version": 1
         },
         {
@@ -224,6 +275,11 @@
                     "filename": "111516-C-7sr-att.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767545&GUID=F1B701FB-0CD2-48B3-9881-F15FAD45B67A"
+                },
+                {
+                    "filename": "RES-16-0113.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4804344&GUID=B93F0359-2765-4560-9371-29C828A6F4FD"
                 }
             ],
             "file_num": "16-1013",
@@ -260,7 +316,7 @@
             ],
             "file_num": "16-1017",
             "name": "CD6-District Carryover Funds",
-            "title": "Recommendation to increase appropriations in the General Fund (GF) in the Legislative Department (LD) by $11,364, offset by the Sixth Council District FY 15 office budget surplus to be used for printing, mailing and outreach efforts; and \n\nApprove the transfer of the Sixth Council District's one-time infrastructure funds from the Capital Projects Fund (CP) in the Public Works Department (PW) in the amount of $140,000 to support staff and related costs dedicated to community improvement and community engagement in the Sixth Council District for a two-year period \n(FY 17 and FY 18); and increase appropriations in the Community Development Grants Fund (SR 150) in the Economic and Property Development Department (EP) by $140,000.  (District 6)",
+            "title": "Recommendation to increase appropriations in the General Fund (GF) in the Legislative Department (LD) by $11,364, offset by the Sixth Council District FY 15 office budget surplus to be used for printing, mailing and outreach efforts; and \n\nApprove the transfer of the Sixth Council District's one-time infrastructure funds from the Capital Projects Fund (CP) in the Public Works Department (PW) in the amount of $140,000 to support staff and related costs dedicated to community improvement and community engagement in the Sixth Council District for a two-year period (FY 17 and FY 18); and increase appropriations in the Community Development Grants Fund (SR 150) in the Economic and Property Development Department (EP) by $140,000.  (District 6)",
             "type": "Agenda Item",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877782&GUID=413EDA13-C300-42C7-A4F2-8A2338B0D98E&Options=&Search=",
             "version": 1
@@ -288,6 +344,22 @@
         },
         {
             "agenda_num": 11,
+            "attachments": [
+                {
+                    "filename": "111516-R-11sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767549&GUID=E964BCB9-6654-42F1-A0CC-EE23F5EC60A6"
+                }
+            ],
+            "file_num": "16-1019",
+            "name": "CD8,1,6,7-Naming of Park Del Amo/Oregon Ave",
+            "title": "Recommendation to refer to the Parks and Recreation Commission and the Housing and Neighborhoods Committee the request for a recommendation to name the park at Del Amo Boulevard and Oregon Avenue, and to request them to consider naming it after C. David Molina.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877784&GUID=20415B51-50DF-4796-ABCF-D319ECDCC4D5&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
             "attachments": [
                 {
                     "filename": "111516-R-11sr.pdf",
@@ -362,6 +434,11 @@
                     "filename": "111516-ORD-15att.pdf",
                     "num": 2,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767566&GUID=FD10D5CB-B77F-481E-9DD5-64DC0E80A4FC"
+                },
+                {
+                    "filename": "ORD-16-0024.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4804343&GUID=75468858-1386-40B0-8CEC-62B8E8D9C152"
                 }
             ],
             "file_num": "16-0996",
@@ -372,7 +449,7 @@
             "version": 1
         },
         {
-            "agenda_num": null,
+            "agenda_num": 16,
             "attachments": [
                 {
                     "filename": "2016-11-15 sup memo only.pdf",
@@ -386,13 +463,45 @@
             "type": "Agenda Item",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877783&GUID=4F4A4372-F687-472D-B83E-7E0A82ED1660&Options=&Search=",
             "version": 1
+        },
+        {
+            "agenda_num": 17,
+            "attachments": [
+                {
+                    "filename": "111516eCommentsReport-R.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4797427&GUID=D3820C25-F722-41F2-BA24-90D207020C1F"
+                }
+            ],
+            "file_num": "16-1046",
+            "name": "eComments",
+            "title": "eComments received for the City Council meeting of Tuesday, November 15, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2889659&GUID=EBDA1EBB-685E-4F66-96B8-B9C520D30E50&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "111516-PC Handout_Alvarenga.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4797718&GUID=AC9817E8-B375-4553-9ADD-D4FDBF4D31DA"
+                }
+            ],
+            "file_num": "16-1047",
+            "name": "Jessica Alvarenga Handout.",
+            "title": "Jessica Alvarenga spoke regarding the Pacific Merchant Shipping Association; and provided a handout.",
+            "type": "Handout",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2889822&GUID=70D0CB65-8861-434B-B680-361252A83F7A&Options=&Search=",
+            "version": 1
         }
     ],
     "datetime": "2016-11-15T17:00:00",
-    "id": "D6B7AB3E-7FF5-4ACB-852E-21F93E7E5D63-2016-11-15-19-45-58",
+    "id": "D6B7AB3E-7FF5-4ACB-852E-21F93E7E5D63-2016-12-10-01-46-16",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=514797&GUID=D6B7AB3E-7FF5-4ACB-852E-21F93E7E5D63",
     "location": null,
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=514797&GUID=D6B7AB3E-7FF5-4ACB-852E-21F93E7E5D63",
     "name": "City Council",
     "summary": "",
     "title": "City Council - 11/15/2016 - 5:00 PM"

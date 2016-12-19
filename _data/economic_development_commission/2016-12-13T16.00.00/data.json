@@ -1,0 +1,50 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=521516&GUID=F50D7AAA-1013-49B5-9BA9-ADE43FAFE540",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "LAEDC_LBEDC_121316.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4837812&GUID=1BB1E064-F5BB-41DE-8801-7CA95D913F10"
+                }
+            ],
+            "file_num": "16-069ED",
+            "name": "Recommendation to conduct a study session on Economic Engines,  with a focus on Creative/Innovation Economy.",
+            "title": "Recommendation to conduct a study session on Economic Engines,  with a focus on Creative/Innovation Economy.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2907225&GUID=6F3F30EB-3DC2-47F8-9485-57D6DF88CA1B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "2016 12 13_LBIndustry Clusters.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4838926&GUID=49442BD9-73FA-4475-B4FB-6E20123B524E"
+                }
+            ],
+            "file_num": "16-068ED",
+            "name": "Recommendation to conduct a study session on Economic Engines and Infrastructure with a focus on Creative/Innovation Economy.",
+            "title": "Recommendation to conduct part two of a study session regarding the Beacon Economics report analyzing local and regional economic data including an update by Robert Kleinhenz, Economist and Executive Director of Research.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2907224&GUID=6D6CCCCA-E1C9-4C0E-A1D1-D06793B0B173&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-12-13T16:00:00",
+    "id": "F50D7AAA-1013-49B5-9BA9-ADE43FAFE540-2016-12-15-21-55-35",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=521516&GUID=F50D7AAA-1013-49B5-9BA9-ADE43FAFE540",
+    "location": "333 W. OCEAN BOULEVARD\r\n3RD FLOOR CONFERENCE RM",
+    "minutes": null,
+    "name": "Economic Development Commission",
+    "summary": "",
+    "title": "Economic Development Commission - 12/13/2016 - 4:00 PM"
+}

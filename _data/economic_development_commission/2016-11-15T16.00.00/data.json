@@ -22,16 +22,11 @@
             "version": 1
         }
     ],
-    "coordinates": {
-        "address": "4321 Atlantic Ave, Long Beach, CA 90807, USA",
-        "latitude": 33.8349428,
-        "longitude": -118.1854482
-    },
     "datetime": "2016-11-15T16:00:00",
-    "id": "392C4281-3BA9-4713-B00D-71306B5CD754-2016-11-11-23-11-50",
+    "id": "392C4281-3BA9-4713-B00D-71306B5CD754-2016-12-14-22-56-14",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=516026&GUID=392C4281-3BA9-4713-B00D-71306B5CD754",
     "location": "EXPO ARTS CENTER\r\n4321 ATLANTIC AVENUE",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=516026&GUID=392C4281-3BA9-4713-B00D-71306B5CD754",
     "name": "Economic Development Commission",
     "summary": "",
     "title": "Economic Development Commission - 11/15/2016 - 4:00 PM"

@@ -21,9 +21,9 @@
             "agenda_num": 2,
             "attachments": [
                 {
-                    "filename": "111516.flc.noatt2.pdf",
+                    "filename": "111516.flc.item2.pdf",
                     "num": 1,
-                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4777118&GUID=59E54AB0-F19D-42F0-A213-0B46F49C9225"
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4795701&GUID=B0593A9A-5FBF-4E43-A64C-4A1256DA2FE5"
                 }
             ],
             "file_num": "16-1022",
@@ -44,7 +44,7 @@
             ],
             "file_num": "16-1023",
             "name": "111516-FLC-R&F; Govt Affrs 2016 Nos.",
-            "title": "Recommendation to receive and file a report on the City's Government\nAffairs by the Numbers for FY 16.",
+            "title": "Recommendation to receive and file a report on the City's Government Affairs by the Numbers for FY 16.",
             "type": "Agenda Item",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2882536&GUID=45753F8A-A663-420A-ABD4-13F29DE11174&Options=&Search=",
             "version": 1
@@ -72,10 +72,10 @@
         "longitude": -118.1958298
     },
     "datetime": "2016-11-15T16:00:00",
-    "id": "E5AE54B8-39C1-4C1E-B9C1-C3B5787C3F80-2016-11-11-21-25-42",
+    "id": "E5AE54B8-39C1-4C1E-B9C1-C3B5787C3F80-2016-12-05-17-05-51",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=516028&GUID=E5AE54B8-39C1-4C1E-B9C1-C3B5787C3F80",
     "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=516028&GUID=E5AE54B8-39C1-4C1E-B9C1-C3B5787C3F80",
     "name": "Federal Legislation Committee",
     "summary": "",
     "title": "Federal Legislation Committee - 11/15/2016 - 4:00 PM"

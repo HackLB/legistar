@@ -1,0 +1,91 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=517716&GUID=E89BB365-21F2-4138-8D0C-579A18E27606",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "Adoption of AFH.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4802956&GUID=2EA934A2-B842-46DB-B98B-C1F3285E6D67"
+                },
+                {
+                    "filename": "Assessment of Fair Housing_Draft.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4802957&GUID=389D33D8-7568-4FE2-B4C9-35D4DBCA0457"
+                },
+                {
+                    "filename": "AFH_Attachment B.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4802961&GUID=AE5CDCC8-EBB6-49D0-9CD7-EE502EAFE546"
+                }
+            ],
+            "file_num": "16-028CI",
+            "name": "Assessment of Fair Housing",
+            "title": "Accept public input and recommend that the City Council approve the City's Assessment of Fair Housing for the period of October 1, 2017 through September 30, 2022.",
+            "type": "CI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2891735&GUID=8724505A-3416-45F4-B10D-E0AC3A81AC67&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "10.19.16 - Finished Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4801506&GUID=27F4D58F-09DD-4DD2-82D4-34BAD6240C51"
+                }
+            ],
+            "file_num": "16-027CI",
+            "name": "October Meeting Minutes",
+            "title": "Recommendation to receive and file the minutes of the Regular Board Meeting held Wednesday, October 19, 2016.",
+            "type": "CI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2891521&GUID=37FB2E29-55FA-4775-8647-BB34BD78B58A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "Adoption of the HAP.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4802082&GUID=F2964001-C936-4EBD-9A7E-4253E0C94366"
+                },
+                {
+                    "filename": "HAP_Attachment A_Part 1.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4802528&GUID=B21D751F-F92F-4CD1-B552-B3DAFCAB6E4B"
+                },
+                {
+                    "filename": "HAP_Attachment A_Part 2.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4802532&GUID=4777B15A-1B9D-4CAD-905A-8F8FBB4CD6FF"
+                },
+                {
+                    "filename": "HAP_Attachment A_Part 3.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4802533&GUID=10902992-3207-43DE-9F04-5B98FCEBDF2F"
+                }
+            ],
+            "file_num": "16-029CI",
+            "name": "Housing Action Plan",
+            "title": "Recommendation to adopt the City of Long Beach Housing Action Plan (2016-2021).",
+            "type": "CI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2891734&GUID=3C54F1CE-CF80-4BF0-B4BB-A07ED056D800&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-11-30T16:00:00",
+    "id": "E89BB365-21F2-4138-8D0C-579A18E27606-2016-12-06-20-22-14",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=517716&GUID=E89BB365-21F2-4138-8D0C-579A18E27606",
+    "location": "333 W. Ocean Boulevard\r\n3rd Floor Conference Room",
+    "minutes": null,
+    "name": "The Long Beach Community Investment Company",
+    "summary": "",
+    "title": "The Long Beach Community Investment Company - 11/30/2016 - 4:00 PM"
+}

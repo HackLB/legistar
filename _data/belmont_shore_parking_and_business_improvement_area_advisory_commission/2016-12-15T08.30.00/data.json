@@ -1,0 +1,98 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=519816&GUID=35CD653E-75B8-4907-BB92-63105AB0190B",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "16-063BS Finished Agenda And Draft Minutes 11.17.16.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4831967&GUID=2AD2086B-47B3-4DE6-8531-5ECE89A84E3C"
+                }
+            ],
+            "file_num": "16-063BS",
+            "name": "BS-Minutes 11.17.16",
+            "title": "Recommendation to approve the minutes for the meeting held November 17, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2905105&GUID=D1EEA064-F796-444A-91F9-F95EB6AC4A32&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "16-064BS BSPBIAAC Oct 2016 Financial Statement.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4831968&GUID=E9747B71-DDD2-4B65-BBE1-3929D6017E6A"
+                }
+            ],
+            "file_num": "16-064BS",
+            "name": "BS-Fncl Rpt Oct 2016",
+            "title": "Recommendation to receive and file the Financial Report for the period ending October 31, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2905106&GUID=DDF92E3A-13A6-4785-A954-F2E07E41B8E8&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "16-065BS LBT Emp Bus Pass Program Report Nov 2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4831969&GUID=4895C025-8904-4DFB-A0C4-7ECBF733C091"
+                }
+            ],
+            "file_num": "16-065BS",
+            "name": "BS-LBT Status Rpt Nov 2016",
+            "title": "Recommendation to receive and file the Long Beach Transit Employee Bus Pass Program Status Report for the period November 1, 2016 through November 30, 2016.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2905107&GUID=87505819-F26C-46E4-8408-3ADAA4E715D3&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "16-066BS Median Project.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4831970&GUID=F106593D-08F8-45EA-B4F0-77C7226864C1"
+                }
+            ],
+            "file_num": "16-066BS",
+            "name": "BS-Median Project",
+            "title": "Recommendation to approve expenditure not to exceed $100,000 for Plans, Specifications and an Estimate (PS&E;) to improve the medians located on East Second Street and within the boundaries of the Belmont Shore Parking and Business Improvement Area.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2905108&GUID=73CFAD40-78D5-422A-B943-3A7174A92F69&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "16-067BS Parking Study Presentation.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4832052&GUID=E3D5C15B-65FF-4FF2-9182-9B60CDB4610E"
+                }
+            ],
+            "file_num": "16-067BS",
+            "name": "BS-Parking Study",
+            "title": "Recommendation to receive and file a follow-up presentation from Walker Parking Consultants regarding their findings for the 2016 Belmont Shore Parking Study.",
+            "type": "BS-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2905161&GUID=C119F6BD-2A1D-40B7-83DC-E3495E337373&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "195 Bay Shore Ave, Long Beach, CA 90803, USA",
+        "latitude": 33.7580301,
+        "longitude": -118.1305218
+    },
+    "datetime": "2016-12-15T08:30:00",
+    "id": "35CD653E-75B8-4907-BB92-63105AB0190B-2016-12-09-16-11-54",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=519816&GUID=35CD653E-75B8-4907-BB92-63105AB0190B",
+    "location": "Bay Shore Library, 195 Bay Shore Avenue, Third Thursday",
+    "minutes": null,
+    "name": "Belmont Shore Parking and Business Improvement Area Advisory Commission",
+    "summary": "",
+    "title": "Belmont Shore Parking and Business Improvement Area Advisory Commission - 12/15/2016 - 8:30 AM"
+}

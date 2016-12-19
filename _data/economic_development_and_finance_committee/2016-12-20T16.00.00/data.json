@@ -1,0 +1,82 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=521546&GUID=0CC22E8A-EC31-4300-9F38-1887FAA00234",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "122016.edf.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4837514&GUID=98BF74FF-8328-400C-A000-AF776B63D4EA"
+                }
+            ],
+            "file_num": "16-1134",
+            "name": "122016-ED&F-Mins; Apprvl 4 5/3/16",
+            "title": "Recommendation to approve the minutes of the Economic Development and Finance Committee meeting held Tuesday, \nMay 3, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2907228&GUID=902DCAB2-7E61-4E23-8F95-A5A34697E9A0&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "122016.edf.noatt2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4837534&GUID=3AA8BF1B-C3E3-4ED2-A736-170C5A6AFDDB"
+                }
+            ],
+            "file_num": "16-1135",
+            "name": "122016-ED&F-R;&F; Econ Dev Initiatives Rpt",
+            "title": "Recommendation to receive and file an oral report regarding the status of current economic development initiatives, strategies and/or plans including but not limited to the recent launch of BizPort, the Long Beach business portal website, and CityMart.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2907229&GUID=032EB64F-21BE-427A-8037-4775C9624F23&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "122016.edf.noatt3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4837571&GUID=B0718825-2949-48A4-9048-ED4972FC5EB3"
+                }
+            ],
+            "file_num": "16-1136",
+            "name": "122016-ED&F-R;&F; Bus & Econ Indicators",
+            "title": "Recommendation to receive and file a report on business and economic indicators for Long Beach during the past two quarters, and concur with recommendation and/or provide direction to staff.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2907238&GUID=98D7DB5D-33EE-4362-BC56-84CA309EBB28&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "050316.edf.item4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4414252&GUID=DF4EA0F2-3E14-440D-9FCF-5DAF109B73EF"
+                }
+            ],
+            "file_num": "16-0392",
+            "name": "050316-ED&F-HM; Repair Cover Plan",
+            "title": "Recommendation to request City Manager to study, as approved by the City Council on August 11, 2015, whether the City of Long Beach should offer home repair coverage plans and/or warranties to residents through preferred partnerships or programs and determine the fiscal impact of any such potential options.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2704608&GUID=5D9F4FCE-204D-4C2E-BF8A-6C04401F6B40&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-12-20T16:00:00",
+    "id": "0CC22E8A-EC31-4300-9F38-1887FAA00234-2016-12-12-22-55-38",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=521546&GUID=0CC22E8A-EC31-4300-9F38-1887FAA00234",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": null,
+    "name": "Economic Development and Finance Committee",
+    "summary": "",
+    "title": "Economic Development and Finance Committee - 12/20/2016 - 4:00 PM"
+}

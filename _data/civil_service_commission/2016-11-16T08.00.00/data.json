@@ -124,10 +124,10 @@
         "longitude": -118.1958298
     },
     "datetime": "2016-11-16T08:00:00",
-    "id": "E611AC23-6737-496B-B810-35B24E90973C-2016-11-14-22-25-59",
+    "id": "E611AC23-6737-496B-B810-35B24E90973C-2016-12-13-16-21-50",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=516023&GUID=E611AC23-6737-496B-B810-35B24E90973C",
     "location": "333 W. OCEAN BLVD., 7TH FLOOR\r\nCIVIL SERVICE BOARD ROOM",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=516023&GUID=E611AC23-6737-496B-B810-35B24E90973C",
     "name": "Civil Service Commission",
     "summary": "",
     "title": "Civil Service Commission - 11/16/2016 - 8:00 AM"

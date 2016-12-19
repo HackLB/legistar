@@ -1,0 +1,66 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=518114&GUID=3633C00E-1E5C-4411-BF36-B8DD5FE8D80A",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "120616.ps.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4805563&GUID=EF327DCF-9879-4695-BEEB-2713E1D4DD68"
+                }
+            ],
+            "file_num": "16-1053",
+            "name": "1206206-PS-Mins Apprvl 4 8/2/16",
+            "title": "Recommendation to approve the minutes for the Public Safety Committee meeting held Tuesday, August 2, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2893279&GUID=D8F7CF07-5F67-426B-9E8B-287027A2F51B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "120616.ps.noatt2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4806448&GUID=9FBB54D6-F8A0-4481-B98A-787E2831D1C5"
+                }
+            ],
+            "file_num": "16-1054",
+            "name": "120616-PS-Rpt on Homicide Stats and Trends",
+            "title": "Recommendation to receive a report on homicide stats and trends.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2893337&GUID=981125D1-7CE6-4480-BDCB-4A934BA437F2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "120616.ps.noatt3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4806460&GUID=8DCF1763-F824-4715-8482-1405DBC10ED4"
+                }
+            ],
+            "file_num": "16-1055",
+            "name": "120616-PS-Measure A Overview",
+            "title": "Recommendation to provide an overview of Measure A spending plan for public safety projects 2017-19, including public safety resources already committed using Measure A.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2893423&GUID=FD75D99D-E86B-4D45-A99E-B75FF8146429&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-12-06T15:00:00",
+    "id": "3633C00E-1E5C-4411-BF36-B8DD5FE8D80A-2016-12-08-20-41-58",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=518114&GUID=3633C00E-1E5C-4411-BF36-B8DD5FE8D80A",
+    "location": "333 W. OCEAN BOULEVARD\r\nCOUNCIL CHAMBER",
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=518114&GUID=3633C00E-1E5C-4411-BF36-B8DD5FE8D80A",
+    "name": "Public Safety Committee",
+    "summary": "",
+    "title": "Public Safety Committee - 12/6/2016 - 3:00 PM"
+}

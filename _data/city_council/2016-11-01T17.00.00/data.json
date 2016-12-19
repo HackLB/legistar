@@ -463,6 +463,11 @@
                     "filename": "111516-ORD-15att.pdf",
                     "num": 2,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767566&GUID=FD10D5CB-B77F-481E-9DD5-64DC0E80A4FC"
+                },
+                {
+                    "filename": "ORD-16-0024.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4804343&GUID=75468858-1386-40B0-8CEC-62B8E8D9C152"
                 }
             ],
             "file_num": "16-0996",
@@ -522,7 +527,7 @@
         }
     ],
     "datetime": "2016-11-01T17:00:00",
-    "id": "CD7BE0AE-8C3C-4E4E-B7A3-304B520F8EBC-2016-11-12-01-22-05",
+    "id": "CD7BE0AE-8C3C-4E4E-B7A3-304B520F8EBC-2016-12-02-23-31-36",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=512409&GUID=CD7BE0AE-8C3C-4E4E-B7A3-304B520F8EBC",
     "location": null,
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=512409&GUID=CD7BE0AE-8C3C-4E4E-B7A3-304B520F8EBC",

@@ -1,0 +1,50 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=518026&GUID=6446EA87-EE12-4D36-9E00-C7D8A0220034",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "EDC REVOLVING LOAN SUBCOMMITTEE AGENDA  Sept 27 2016 summarized.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4805980&GUID=C76C6AE7-079F-42B2-AD46-6A15C930B1EF"
+                }
+            ],
+            "file_num": "16-062ED",
+            "name": "Recommendation to approve the minutes for the meeting held August 16, 2016.",
+            "title": "Recommendation to approve the minutes for the meeting held September 27, 2016.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2893407&GUID=9CC7E569-1003-4F1F-BD80-BA414D8D6768&Options=&Search=",
+            "version": 3
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "Lasher Credit Memo.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4806447&GUID=4D4E096B-9FB7-4896-AFDB-4A359E668494"
+                }
+            ],
+            "file_num": "16-061ED",
+            "name": "Recommendation to approve the Revolving Loan request in the amount of $95,000 for Lasher Hospitality Group, LLC, dba Lashers Kitchen 5295 East 2nd Street Long Beach, CA 90803.",
+            "title": "Recommendation to approve the Loan application in the amount of $95,000 for Lasher Hospitality Group, LLC, dba Lasher’s Kitchen 5295 East 2nd Street, Long Beach, CA 90803.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2893406&GUID=1A997D68-657F-47B3-99C2-4F396EF1EBA3&Options=&Search=",
+            "version": 5
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-11-29T15:00:00",
+    "id": "6446EA87-EE12-4D36-9E00-C7D8A0220034-2016-11-23-22-11-48",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=518026&GUID=6446EA87-EE12-4D36-9E00-C7D8A0220034",
+    "location": "333 W. OCEAN BOULEVARD\r\n3RD FLOOR CONFERENCE RM",
+    "minutes": null,
+    "name": "Economic Development Commission Revolving Loan Subcommittee",
+    "summary": "",
+    "title": "Economic Development Commission Revolving Loan Subcommittee - 11/29/2016 - 3:00 PM"
+}

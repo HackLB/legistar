@@ -1,0 +1,82 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=521087&GUID=8C4C85B8-372D-48CA-A699-CC3C671A5CA4",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "121416.tut.att1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4829939&GUID=B21ED4EF-F9C8-4C5D-8D85-A51A99841726"
+                }
+            ],
+            "file_num": "16-008TU",
+            "name": "121416-TUT-Mins Apprvl 4 9/7/16",
+            "title": "Recommendation to approve the minutes for the Transactions and Use Tax Citizens' Advisory Committee meeting held Wednesday, September 7, 2016.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2904264&GUID=1EF29F16-D615-4F29-B2D9-30689CAEF10D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "121416.tut.att2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4841653&GUID=E19AB4BF-5107-478D-9225-76CB9969B4F2"
+                }
+            ],
+            "file_num": "16-009TU",
+            "name": "TU - R&F; Training on Brown Act",
+            "title": "Recommendation to receive and file training on the Brown Act.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2904289&GUID=51E2903F-8994-4A36-BCF9-E23CFB74A666&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "121416.tut.att3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4830093&GUID=5A65712F-57F5-4ED4-98F2-57A33D399CA1"
+                }
+            ],
+            "file_num": "16-010TU",
+            "name": "TU - Review proposed By-Laws & request CA to draft Reso adopting procedures.",
+            "title": "Recommendation to review proposed Transactions and Use Tax Citizens' Advisory Committee By-Laws and request City Attorney to draft a resolution adopting the rules and procedures for the Committee.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2904307&GUID=9401657E-ACEA-4D64-8F4A-B56A2F58BDC6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "121416.tut.att4.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4841652&GUID=9A6728D1-0C81-4746-B4F9-CAE5AF2892F6"
+                }
+            ],
+            "file_num": "16-011TU",
+            "name": "TU - R&F; Future meeting dates & topics",
+            "title": "Recommendation to receive and file a discussion regarding next Committee meeting date and topics.",
+            "type": "TU-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2904318&GUID=F8F071E6-110B-4FA5-B12C-6BC25961A9A3&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2016-12-14T16:00:00",
+    "id": "8C4C85B8-372D-48CA-A699-CC3C671A5CA4-2016-12-16-17-21-44",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=521087&GUID=8C4C85B8-372D-48CA-A699-CC3C671A5CA4",
+    "location": "333 W. Ocean Boulevard \r\nCouncil Chamber",
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=521087&GUID=8C4C85B8-372D-48CA-A699-CC3C671A5CA4",
+    "name": "Transactions and Use Tax Citizens' Advisory Committee",
+    "summary": "",
+    "title": "Transactions and Use Tax Citizens' Advisory Committee - 12/14/2016 - 4:00 PM"
+}
