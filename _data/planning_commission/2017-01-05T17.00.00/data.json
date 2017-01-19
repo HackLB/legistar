@@ -1,0 +1,92 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=523861&GUID=E8D373B4-736F-42FA-BBAF-FE4794630F10",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "12-15-16 PC minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4881198&GUID=6B9FCD2E-E4A3-425A-B899-1F4C82194C0C"
+                }
+            ],
+            "file_num": "16-096PL",
+            "name": "PL - 12-15-16 PC minutes",
+            "title": "Recommendation to receive and file the Planning Commission minutes of December 15, 2016.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2913797&GUID=1A7E44BB-7FC8-4887-A970-E2C49D6CD3D5&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "520 W. Willow staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4881197&GUID=146D55FB-78AB-4680-8B21-7EAD300524D2"
+                }
+            ],
+            "file_num": "16-098PL",
+            "name": "PL - 520 W. Willow Findings",
+            "title": "Find that the proposed vacation of 117.62 feet of the east/west alley located east of Daisy Avenue and south of Willow Street, at 520 W. Willow Street, is not in conformance with the adopted goals and policies of the City's General Plan. (District 7) (Application No. 1401-22)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2913799&GUID=4F016C98-0524-4E4B-94B8-7DED6C9897DE&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "3655 Norwalk staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4881199&GUID=216FEA29-1EE4-456B-A7D2-5EBB635A12EC"
+                },
+                {
+                    "filename": "3655 Norwalk Exhibit D.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4881193&GUID=9723BC0C-10DD-4F0B-B53E-8189337C9B44"
+                }
+            ],
+            "file_num": "16-097PL",
+            "name": "PL - 3655 N. Norwalk Boulevard",
+            "title": "Recommendation to recommend that the City Council adopt the Findings and Statement of Overriding Consideration, certify the Environmental Impact Report (EIR 04-16), and approve a General Plan Amendment from Land Use Designation No. 10 (Institutional and School) to Land Use Designation No. 1 (Single-Family district); a Zone Change from Institutional (I) to Single-Family Residential (R-1-M); a Vesting Tentative Tract Map for a subdivision of 5.766 acres into 40 residential lots; and a Site Plan Review for 40 new detached single-family homes, located at 3655 N. Norwalk Boulevard. (District 5) (Application No. 1510-19)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2913798&GUID=8501E8FE-7D43-4C7C-AF43-709579DA3F02&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "bicycle master plan staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4881196&GUID=03C549F7-8C46-417E-A471-77F12E3FFD2B"
+                },
+                {
+                    "filename": "Bicycle master plan exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4881194&GUID=8A4C4BDB-AA44-4791-BE90-86C29C949B7D"
+                }
+            ],
+            "file_num": "16-095PL",
+            "name": "PL - Bicycle Master Plan",
+            "title": "Recommendation to accept Negative Declaration ND 04-16 and recommend that the City Council adopt a Resolution approving the draft Bicycle Master Plan as a technical appendix to the Mobility Element of the Long Beach General Plan. (Citywide)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2913796&GUID=01FE34C0-51CE-49FF-8C67-2FCD09B61E05&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.767949,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-01-05T17:00:00",
+    "id": "E8D373B4-736F-42FA-BBAF-FE4794630F10-2017-01-11-22-11-52",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=523861&GUID=E8D373B4-736F-42FA-BBAF-FE4794630F10",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": null,
+    "name": "Planning Commission",
+    "summary": "",
+    "title": "Planning Commission - 1/5/2017 - 5:00 PM"
+}

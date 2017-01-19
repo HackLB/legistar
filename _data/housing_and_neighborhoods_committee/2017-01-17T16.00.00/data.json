@@ -1,0 +1,55 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=528594&GUID=853C046F-96CB-49A3-8BCF-D1F3BE23AEBB",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "011717.h-n.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4921282&GUID=3FB0DDEE-4974-433F-AE71-3E5391DC1E9B"
+                }
+            ],
+            "file_num": "17-0042",
+            "name": "011717-H&N-Mins; Apprvl 4 1/26/16",
+            "title": "Recommendation to approve the minutes of the Housing and Neighborhoods Committee meeting held Tuesday, January 26, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2938677&GUID=3248FDAA-C819-443C-8D1B-655545AE9EE5&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "111516-R-11sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767549&GUID=E964BCB9-6654-42F1-A0CC-EE23F5EC60A6"
+                },
+                {
+                    "filename": "011717.h-n.item2.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4921244&GUID=3E3914C1-0373-4983-9F69-2CFC4DF14784"
+                }
+            ],
+            "file_num": "16-1019",
+            "name": "CD8,1,6,7-Naming of Park Del Amo/Oregon Ave",
+            "title": "Recommendation to consider naming the park site located at Del Amo Boulevard and Oregon Avenue as \"C. David Molina Park,\" and forward this item to the City Council for approval.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877784&GUID=20415B51-50DF-4796-ABCF-D319ECDCC4D5&Options=&Search=",
+            "version": 2
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.767949,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-01-17T16:00:00",
+    "id": "853C046F-96CB-49A3-8BCF-D1F3BE23AEBB-2017-01-14-00-16-21",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=528594&GUID=853C046F-96CB-49A3-8BCF-D1F3BE23AEBB",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": null,
+    "name": "Housing and Neighborhoods Committee",
+    "summary": "",
+    "title": "Housing and Neighborhoods Committee - 1/17/2017 - 4:00 PM"
+}

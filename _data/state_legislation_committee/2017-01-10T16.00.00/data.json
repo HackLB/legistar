@@ -1,0 +1,50 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=526132&GUID=54F39223-0814-4A55-963E-6C4963A29DA6",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "011017.slc.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4887914&GUID=257FD461-B69D-4EA5-90CD-6C9756713762"
+                }
+            ],
+            "file_num": "17-0013",
+            "name": "011017-SLC-Mins Apprvl for 10/18/16",
+            "title": "Recommendation to approve the minutes for the State Legislation Committee meeting held Tuesday, October 18, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2917225&GUID=631E48CC-957F-408E-9A0B-31F64D250449&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "011017.slc.item2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4888006&GUID=89E6F832-42F0-4AB8-9301-16CC060547F3"
+                }
+            ],
+            "file_num": "17-0014",
+            "name": "011017 - Staff Recommendations for 2017 State Legislative Agenda",
+            "title": "Recommendation to receive and file staff’s recommendations for the City’s 2017 State Legislative Agenda, and forward the State Legislation Committee’s recommendations to the City Council for adoption.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2917229&GUID=0F61C7A4-05F5-4F6B-845E-D6694012E23E&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.767949,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-01-10T16:00:00",
+    "id": "54F39223-0814-4A55-963E-6C4963A29DA6-2017-01-18-19-42-02",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=526132&GUID=54F39223-0814-4A55-963E-6C4963A29DA6",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=526132&GUID=54F39223-0814-4A55-963E-6C4963A29DA6",
+    "name": "State Legislation Committee",
+    "summary": "",
+    "title": "State Legislation Committee - 1/10/2017 - 4:00 PM"
+}

@@ -1,0 +1,66 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=527998&GUID=879C68BE-E20D-4319-896E-CABD0BBCA3DE",
+    "agenda_items": [
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "2. 17-002PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4918908&GUID=25811074-0126-4316-8DF8-28BF64B09346"
+                }
+            ],
+            "file_num": "17-002PR",
+            "name": "2017 Jan PSA",
+            "title": "Authorize the Director, or his or her management designee, to execute the Personal Services and Instruction Agreements and amend Attachment \"A\" of the agreements as needed.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2937268&GUID=90377183-E33D-44FA-92DC-A53412729723&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "3. 17-004PR",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4918911&GUID=8EE4671A-5C7A-407C-8360-D2718F0BFFE0"
+                }
+            ],
+            "file_num": "17-004PR",
+            "name": "2017 Jan Fee Waivers",
+            "title": "Recommendation to approve the fee waiver requests outlined in Attachment \"A\", in accordance with the Fee Waiver policy.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2937271&GUID=B64B0885-B4E5-4B9A-AE9D-16A8D8B94D0E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "1.19.17 WCC Jan 2017",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4917679&GUID=DFC39DCB-DD50-4049-8F36-706E0CBE74CD"
+                }
+            ],
+            "file_num": "17-003PR",
+            "name": "2017 Jan WCC",
+            "title": "Recommendation to receive and file the Director's monthly highlights report, \"We Create Community\",  for January, 2017.",
+            "type": "PR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2933664&GUID=CBAB7BF1-7A3C-4BC2-BDF5-F75A53E5FFFA&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "2800 N Studebaker Rd, Long Beach, CA 90815, USA",
+        "latitude": 33.8073937,
+        "longitude": -118.098279
+    },
+    "datetime": "2017-01-19T09:00:00",
+    "id": "879C68BE-E20D-4319-896E-CABD0BBCA3DE-2017-01-13-01-51-40",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=527998&GUID=879C68BE-E20D-4319-896E-CABD0BBCA3DE",
+    "location": "El Dorado Park W. Community Cntr\r\nSenior Center Library\r\n2800 N. Studebaker Road",
+    "minutes": null,
+    "name": "Parks and Recreation Commission",
+    "summary": "",
+    "title": "Parks and Recreation Commission - 1/19/2017 - 9:00 AM"
+}

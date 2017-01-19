@@ -1,0 +1,96 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=526013&GUID=03565D8C-3795-407A-9DF6-8013ACA2B3B0",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "1-5-17 PC Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4914204&GUID=503FF7A3-3E88-43A3-B99F-4F54CF446AEE"
+                }
+            ],
+            "file_num": "17-001PL",
+            "name": "PL - PC minutes 1-5-17",
+            "title": "Recommendation to receive and file the Planning Commission minutes of January 5, 2017.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2932412&GUID=BE77210E-EA04-45F2-B759-952E3690C02E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "3768 Long Beach Blvd staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4914210&GUID=B8DBA0C2-6E95-4C11-8B20-F161A2D821BF"
+                },
+                {
+                    "filename": "3768 Long Beach Blvd exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4914208&GUID=EBD2768D-1599-4786-9A73-535352AF5C36"
+                },
+                {
+                    "filename": "3768 Long Beach Blvd exhibit B2.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4914209&GUID=CA937D60-DB32-4641-B2B2-80028298C1F9"
+                },
+                {
+                    "filename": "3768 Long Beach Blvd exhibit C.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4925947&GUID=8416D6F6-4788-40AD-8023-92819BB2D8E3"
+                }
+            ],
+            "file_num": "17-003PL",
+            "name": "PL - 3768 Long Beach Boulevard",
+            "title": "Recommendation to accept Categorical Exemption CE 16-274 and approve a Conditional Use Permit request to allow the sale of beer for off-site consumption at a brewery satellite tasting room located at 3768 Long Beach Boulevard, Unit 110, within the Commercial Automobile-Oriented (CCA) zone. (District 7) (Application No. 1611-19)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2932414&GUID=CED39307-1277-4C71-995E-B99EBA1A415D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "2640 N. Lakewood Blvd staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4914211&GUID=D1AFC8CE-590E-40A7-A633-29D9324B37F4"
+                },
+                {
+                    "filename": "Staybridge LB exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4914205&GUID=95AA3314-3F5A-4889-B479-40036F990D95"
+                },
+                {
+                    "filename": "2640 Exhibit C.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4914206&GUID=D86260CD-2EB1-4195-AD24-D013A6EA34D9"
+                },
+                {
+                    "filename": "2640 N. Lakewood Blvd Exhibit D.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4914207&GUID=57CF2DF7-802D-4F17-97EE-2598CC442CFA"
+                }
+            ],
+            "file_num": "17-002PL",
+            "name": "PL - 2640 N. Lakewood Boulevard",
+            "title": "Recommendation to recommend that the City Council adopt Mitigated Negative Declaration 16-16 and approve a Zone Change for three parcels located at 2640 N. Lakewood Boulevard, 2610 N. Lakewood Boulevard and 4141-4217 Willow Street from Regional Highway District (CHW) zone to Willow Street Center Planned Development District (PD-27), a Conditional Use Permit, and Site Plan Review for the construction of a new six-story hotel (Staybridge Suites) located at 2640 N. Lakewood Boulevard. (District 5) (Application No. 1505-20)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2932413&GUID=DC2080E5-0020-418E-9375-62F79FF2E099&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.767949,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-01-19T17:00:00",
+    "id": "03565D8C-3795-407A-9DF6-8013ACA2B3B0-2017-01-19-00-36-19",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=526013&GUID=03565D8C-3795-407A-9DF6-8013ACA2B3B0",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": null,
+    "name": "Planning Commission",
+    "summary": "",
+    "title": "Planning Commission - 1/19/2017 - 5:00 PM"
+}

@@ -1,0 +1,50 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=528381&GUID=33E8806F-9D96-4916-92BB-7DE1A3327899",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "EDC REVOLVING LOAN SUBCOMMITTEE MINUTES November 29 2016 .pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4918510&GUID=48BBAA59-A074-441D-A3CF-1FEFF39B4966"
+                }
+            ],
+            "file_num": "17-008ED",
+            "name": "Recommendation to approve the minutes for the meeting held November 29, 2016.",
+            "title": "Recommendation to approve the minutes for the meeting held November 29, 2016.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2933605&GUID=66119CC0-3996-49DE-A5CF-5EC41BDD711B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "Credit Memorandum - Sullivan",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4917342&GUID=0AB27747-CC59-44FB-916D-B030157BBE35"
+                }
+            ],
+            "file_num": "17-007ED",
+            "name": "Recommendation to approve the revolving loan application in the amount of $60,000 for Sullivan International, Incorporated located at 180 E. Ocean Boulevard, Suite 650, Long Beach, CA  90802",
+            "title": "Recommendation to approve the revolving loan application in the amount of $60,000 for Sullivan International, Incorporated located at 180 E. Ocean Boulevard, Suite 650, Long Beach, CA  90802",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2933577&GUID=A79C88B4-FDDB-4B45-9A52-DAA19BE625AE&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.767949,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-01-17T15:00:00",
+    "id": "33E8806F-9D96-4916-92BB-7DE1A3327899-2017-01-13-23-51-33",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=528381&GUID=33E8806F-9D96-4916-92BB-7DE1A3327899",
+    "location": "333 W. OCEAN BOULEVARD\r\n3RD FLOOR CONFERENCE RM",
+    "minutes": null,
+    "name": "Economic Development Commission Revolving Loan Subcommittee",
+    "summary": "",
+    "title": "Economic Development Commission Revolving Loan Subcommittee - 1/17/2017 - 3:00 PM"
+}

@@ -1,0 +1,79 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=527548&GUID=AF41D823-5E45-4241-B8E6-DD248B0AEF20",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "17-001AC",
+            "name": "AAC - Excuse Absent Commissioners",
+            "title": "Recommendation to excuse Commissioners that are absent from the Airport Advisory Commission meeting on January 19, 2017.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2937912&GUID=A7EC1369-EC12-4CAC-85DE-71829BE98D79&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "17-002AC",
+            "name": "AAC - Minutes 11-17-16",
+            "title": "Recommendation to approve the Minutes from the Airport Advisory Commission meeting on November 17, 2016.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2937926&GUID=88BEB7BB-4033-4F92-B08F-10835307B872&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "AAC Monthly Noise Report October 2016.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4919797&GUID=CE9F4AB0-88DB-4FA3-A68F-5AFA782CE914"
+                },
+                {
+                    "filename": "AAC Monthly Activity Report November 2016.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4922504&GUID=FE6F963D-4A77-4E1E-B1BC-C9C49F9E711E"
+                },
+                {
+                    "filename": "AAC Monthly Activity Report December 2016.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4922582&GUID=BE85A63D-D201-4392-A9B2-2F2DFBE460F6"
+                },
+                {
+                    "filename": "AAC Monthly Public Affairs Report January 2017.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4923209&GUID=B00A6B23-AA61-4CE9-BB3F-0232CDB1BCE8"
+                },
+                {
+                    "filename": "AAC Monthly Noise Report November 2016.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4924132&GUID=EEB748DF-6869-4320-B604-81C85081A02E"
+                },
+                {
+                    "filename": "AAC Monthly Budget Report December 2016.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4925340&GUID=5ED03666-A636-446E-945B-4CB675976920"
+                }
+            ],
+            "file_num": "17-003AC",
+            "name": "AAC - January 2017 Staff Reports",
+            "title": "Recommendation to receive and file monthly Airport Staff Reports for January 2017.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2937913&GUID=744643CF-ED4D-41FC-83D5-1018E047D5A0&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "4800 E Wardlow Rd, Long Beach, CA 90808, USA",
+        "latitude": 33.8186149,
+        "longitude": -118.1371377
+    },
+    "datetime": "2017-01-19T16:00:00",
+    "id": "AF41D823-5E45-4241-B8E6-DD248B0AEF20-2017-01-13-17-16-26",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=527548&GUID=AF41D823-5E45-4241-B8E6-DD248B0AEF20",
+    "location": "Skylinks Municipal Golf Course\r\n4800 E. Wardlow Rd., LB 90808",
+    "minutes": null,
+    "name": "Airport Advisory Commission",
+    "summary": "",
+    "title": "Airport Advisory Commission - 1/19/2017 - 4:00 PM"
+}

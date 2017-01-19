@@ -1,0 +1,66 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=526731&GUID=10825715-7C12-4C9D-BF5F-304997627351",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "011717.ha.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4901557&GUID=6EDD91C1-BB13-4290-BDB3-E40842844EDE"
+                }
+            ],
+            "file_num": "17-0016",
+            "name": "011717-HA-Mins Apprvl 4 12/13/16",
+            "title": "Recommendation to approve the minutes of the Housing Authority of the City of Long Beach, California Regular Meeting held Tuesday, December 13, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2919750&GUID=EA34018B-FB72-459D-B745-3B756F320A4D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "011717.ha.item2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4901556&GUID=8192E111-9DC2-4516-9776-6832B1215D27"
+                }
+            ],
+            "file_num": "17-0017",
+            "name": "011717-HA-R&F; R&O; Perf Rpt 4 October 16'",
+            "title": "Recommendation to receive and file the Housing Authority Financial and Operational Performance Report for October 2016.  (Citywide)",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2919737&GUID=2ACCA825-131A-47B2-96D4-A90866AE57D4&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "121316.ha.item6.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4822131&GUID=2AC50D84-4A08-4A92-938E-C714C65254F5"
+                },
+                {
+                    "filename": "011717.ha.item3.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4901555&GUID=8F172E23-E826-4E77-A240-1BCD337046F9"
+                }
+            ],
+            "file_num": "16-1122",
+            "name": "121316-HA-RES Housing Choice Voucher Program",
+            "title": "Recommendation to adopt resolution of the Housing Authority of the City of Long Beach, approving a revised voucher Payment Standard Schedule for the Section 8 Housing Choice Voucher Program, effective January 18, 2017, for all zip code areas in Long Beach.  (Citywide)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2900737&GUID=7725C71E-6D72-44DE-93C7-4887788D3928&Options=&Search=",
+            "version": 2
+        }
+    ],
+    "datetime": "2017-01-17T16:30:00",
+    "id": "10825715-7C12-4C9D-BF5F-304997627351-2017-01-07-00-21-52",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=526731&GUID=10825715-7C12-4C9D-BF5F-304997627351",
+    "location": null,
+    "minutes": null,
+    "name": "Housing Authority of the City of Long Beach, California",
+    "summary": "",
+    "title": "Housing Authority of the City of Long Beach, California - 1/17/2017 - 4:30 PM"
+}

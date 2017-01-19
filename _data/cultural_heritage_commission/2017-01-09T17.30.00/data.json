@@ -1,0 +1,70 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=519905&GUID=AC1C5F8E-47AE-4714-9F92-31C9C7D1AF45",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "December Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4880496&GUID=81F13A26-F998-4C03-84D3-C89D47C69AF0"
+                }
+            ],
+            "file_num": "17-002CH",
+            "name": "December minutes",
+            "title": "Recommendation to receive and file the Cultural Heritage Commission minutes of December 12, 2016.",
+            "type": "CH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2913510&GUID=3FF13701-2858-4F12-AE75-DAB0E3445F3E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "Staff Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4885818&GUID=FEDD2480-C012-48FF-B3BB-FAA168645F14"
+                },
+                {
+                    "filename": "Exhibit A - Location Map.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4885792&GUID=722B0155-5562-433D-BEF8-E6B1EE64CE23"
+                },
+                {
+                    "filename": "Exhibit B - Photos.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4885793&GUID=EBA94996-BAE6-45F6-82A5-E64B966F948A"
+                },
+                {
+                    "filename": "Exhibit B - Plans.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4885794&GUID=79E361CC-0873-48CD-9C4A-D20FBE19E48B"
+                },
+                {
+                    "filename": "Exhibit C - Findings - Conditions.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4885819&GUID=0878CC3A-C833-43C6-943A-4C813D44A956"
+                }
+            ],
+            "file_num": "17-001CH",
+            "name": "2435 E 1st Street",
+            "title": "Recommendation to approve a Certificate of Appropriateness request for the construction of a 318-square-foot addition to the rear of a one-story traditional style residence located at 2435 1st Street. The property is a contributing structure within the Bluff Heights Historic District. (District 3)",
+            "type": "CH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2913472&GUID=82068C91-CEA4-48BE-9DDC-0AB357A51ECB&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.767949,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-01-09T17:30:00",
+    "id": "AC1C5F8E-47AE-4714-9F92-31C9C7D1AF45-2017-01-12-20-26-33",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=519905&GUID=AC1C5F8E-47AE-4714-9F92-31C9C7D1AF45",
+    "location": "333 W. Ocean Blvd\r\nCouncil Chamber",
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=519905&GUID=AC1C5F8E-47AE-4714-9F92-31C9C7D1AF45",
+    "name": "Cultural Heritage Commission",
+    "summary": "",
+    "title": "Cultural Heritage Commission - 1/9/2017 - 5:30 PM"
+}

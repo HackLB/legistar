@@ -1,0 +1,45 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=524279&GUID=06FA4E44-9C6A-4A22-ADD8-7B95848011CC",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "12-09-16 BOH Meeting Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4875025&GUID=060CC91A-3D56-46D8-B985-0915615EE957"
+                }
+            ],
+            "file_num": "17-001BH",
+            "name": "12-09-16 BOH Meeting Minutes",
+            "title": "Recommendation to approve the minutes of the Board of Health and Human Services meeting held Friday, December 9, 2016.",
+            "type": "BH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2912203&GUID=3FBD43A1-E961-4708-8A01-132E4778303E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "Mayors Study Session - FINAL.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4875332&GUID=C68E2ECA-28B2-414E-83F6-857117772CAD"
+                }
+            ],
+            "file_num": "17-002BH",
+            "name": "Mayor's Study Session on Homelessness 10-04-16",
+            "title": "Recommendation to receive and file a copy of the October 4, 2016 Mayor's Study Session presentation on homelessness.",
+            "type": "BH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2912206&GUID=ACCB733C-F39B-46BD-B0BF-4635CA42A5DD&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "datetime": "2017-01-13T07:45:00",
+    "id": "06FA4E44-9C6A-4A22-ADD8-7B95848011CC-2017-01-13-21-31-53",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=524279&GUID=06FA4E44-9C6A-4A22-ADD8-7B95848011CC",
+    "location": "Health and Human Services\r\n2525 Grand Avenue, Room 204",
+    "minutes": null,
+    "name": "Board of Health and Human Services",
+    "summary": "",
+    "title": "Board of Health and Human Services - 1/13/2017 - 7:45 AM"
+}
