@@ -1,0 +1,34 @@
+{
+    "agenda": null,
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "SCC Minutes Oct 27.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4773441&GUID=E063C113-2B1C-4A51-A423-58115FF52BE7"
+                }
+            ],
+            "file_num": "16-024SC",
+            "name": "Oct 27 Minutes",
+            "title": "Recommendation to receive and file minutes of the Sustainable City Commission meeting of Thursday, October 27, 2016.",
+            "type": "SC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2880800&GUID=2A8CE0C8-E16E-4486-B0B8-5D6066DE704E&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.767949,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-01-26T16:00:00",
+    "id": "547C6335-1AB4-44ED-BE31-F97C9008B9F6-2016-12-05-19-41-45",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=515792&GUID=547C6335-1AB4-44ED-BE31-F97C9008B9F6",
+    "location": "City Council Chamber\r\n333 W. OCEAN BOULEVARD",
+    "minutes": null,
+    "name": "Sustainable City Commission",
+    "summary": "",
+    "title": "Sustainable City Commission - 1/26/2017 - 4:00 PM"
+}
