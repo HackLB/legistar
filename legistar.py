@@ -43,10 +43,9 @@ def download(url, path):
             if chunk: # filter out keep-alive new chunks
                 f.write(chunk)
 
-    if os.path.getsize(path) > 1024 * 90:
+    if os.path.getsize(path) > 1024 * 1024 * 90:  # If files are bigger than 90MB, split em up!
         split("-b", "10m", path, '{}_'.format(path))
-
-    os.remove(path)
+        os.remove(path)
 
     return True
 
