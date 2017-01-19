@@ -68,14 +68,14 @@
     ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.7679491,
+        "latitude": 33.767949,
         "longitude": -118.1958298
     },
     "datetime": "2016-12-13T15:30:00",
-    "id": "4048CA20-DE69-4B50-B0AC-234489BAF689-2016-12-14-20-06-17",
+    "id": "4048CA20-DE69-4B50-B0AC-234489BAF689-2016-12-20-18-41-47",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=520368&GUID=4048CA20-DE69-4B50-B0AC-234489BAF689",
     "location": "333 W. OCEAN BOULEVARD\r\nCOUNCIL CHAMBER",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=520368&GUID=4048CA20-DE69-4B50-B0AC-234489BAF689",
     "name": "Environmental Committee",
     "summary": "",
     "title": "Environmental Committee - 12/13/2016 - 3:30 PM"

@@ -24,6 +24,11 @@
                     "filename": "122016.edf.noatt2.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4837534&GUID=3AA8BF1B-C3E3-4ED2-A736-170C5A6AFDDB"
+                },
+                {
+                    "filename": "122016.edf.item2.ppt.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4879726&GUID=32EA5B8D-F66B-4236-AA90-D9E998773CA5"
                 }
             ],
             "file_num": "16-1135",
@@ -68,14 +73,14 @@
     ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.7679491,
+        "latitude": 33.767949,
         "longitude": -118.1958298
     },
     "datetime": "2016-12-20T16:00:00",
-    "id": "0CC22E8A-EC31-4300-9F38-1887FAA00234-2016-12-12-22-55-38",
+    "id": "0CC22E8A-EC31-4300-9F38-1887FAA00234-2016-12-27-19-36-12",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=521546&GUID=0CC22E8A-EC31-4300-9F38-1887FAA00234",
     "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=521546&GUID=0CC22E8A-EC31-4300-9F38-1887FAA00234",
     "name": "Economic Development and Finance Committee",
     "summary": "",
     "title": "Economic Development and Finance Committee - 12/20/2016 - 4:00 PM"

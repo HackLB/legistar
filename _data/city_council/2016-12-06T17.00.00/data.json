@@ -18,6 +18,11 @@
                     "filename": "121316-ORD-26att.pdf",
                     "num": 3,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4822121&GUID=A5F4E59C-62AD-49E4-B931-E25E52166C68"
+                },
+                {
+                    "filename": "ORD-16-0031.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4848121&GUID=0997462B-ED74-4256-A25E-A7ACE9187A2E"
                 }
             ],
             "file_num": "16-1058",
@@ -34,6 +39,11 @@
                     "filename": "120616-H-1sr-att.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4812748&GUID=AD9AEBCA-28A7-4169-AF8A-EE801B2EC3E5"
+                },
+                {
+                    "filename": "RES-16-0120.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4889541&GUID=8F4151AB-455C-4ECB-B47C-9DEFBAA3C921"
                 }
             ],
             "file_num": "16-1059",
@@ -573,7 +583,7 @@
                 {
                     "filename": "RES-16-0121.pdf",
                     "num": 2,
-                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4837552&GUID=C6D4BF95-0442-4B34-995F-F8ED3CEF9D61"
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4920453&GUID=62BE76E3-59CB-4F4D-A182-CC1A41D7F410"
                 }
             ],
             "file_num": "16-1089",
@@ -632,15 +642,10 @@
             "version": 1
         }
     ],
-    "coordinates": {
-        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.7679491,
-        "longitude": -118.1958298
-    },
     "datetime": "2016-12-06T17:00:00",
-    "id": "148A9C6F-1639-4E42-9604-E60BD0A70FE7-2016-12-19-22-11-42",
+    "id": "148A9C6F-1639-4E42-9604-E60BD0A70FE7-2016-12-21-19-11-44",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=518420&GUID=148A9C6F-1639-4E42-9604-E60BD0A70FE7",
-    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "location": null,
     "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=518420&GUID=148A9C6F-1639-4E42-9604-E60BD0A70FE7",
     "name": "City Council",
     "summary": "",

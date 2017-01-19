@@ -2,7 +2,7 @@
     "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=521011&GUID=FBAD72FB-BCC1-49A7-BF90-7A556A82A9E4",
     "agenda_items": [
         {
-            "agenda_num": null,
+            "agenda_num": 1,
             "attachments": [],
             "file_num": "16-029TI",
             "name": " ",
@@ -14,14 +14,14 @@
     ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.7679491,
+        "latitude": 33.767949,
         "longitude": -118.1958298
     },
     "datetime": "2016-12-19T15:30:00",
-    "id": "FBAD72FB-BCC1-49A7-BF90-7A556A82A9E4-2016-12-16-23-51-41",
+    "id": "FBAD72FB-BCC1-49A7-BF90-7A556A82A9E4-2016-12-28-23-16-50",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=521011&GUID=FBAD72FB-BCC1-49A7-BF90-7A556A82A9E4",
     "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=521011&GUID=FBAD72FB-BCC1-49A7-BF90-7A556A82A9E4",
     "name": "Technology and Innovation Commission",
     "summary": "",
     "title": "Technology and Innovation Commission - 12/19/2016 - 3:30 PM"

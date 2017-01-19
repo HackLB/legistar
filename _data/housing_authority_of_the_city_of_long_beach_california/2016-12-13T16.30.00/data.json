@@ -88,11 +88,16 @@
                     "filename": "121316.ha.item6.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4822131&GUID=2AC50D84-4A08-4A92-938E-C714C65254F5"
+                },
+                {
+                    "filename": "011717.ha.item3.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4901555&GUID=8F172E23-E826-4E77-A240-1BCD337046F9"
                 }
             ],
             "file_num": "16-1122",
             "name": "121316-HA-RES Housing Choice Voucher Program",
-            "title": "WITHDRAWN\nRecommendation to adopt resolution of the Housing Authority of the City of Long Beach, California, approving a revised voucher Payment Standard Schedule for the Section 8 Housing Choice Voucher Program, effective December 14, 2016, for all zip code areas in Long Beach.  (Citywide)",
+            "title": "Recommendation to adopt resolution of the Housing Authority of the City of Long Beach, approving a revised voucher Payment Standard Schedule for the Section 8 Housing Choice Voucher Program, effective January 18, 2017, for all zip code areas in Long Beach.  (Citywide)",
             "type": "Resolution",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2900737&GUID=7725C71E-6D72-44DE-93C7-4887788D3928&Options=&Search=",
             "version": 1
@@ -100,7 +105,7 @@
     ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.7679491,
+        "latitude": 33.767949,
         "longitude": -118.1958298
     },
     "datetime": "2016-12-13T16:30:00",

@@ -1,13 +1,30 @@
 {
     "agenda": null,
-    "agenda_items": [],
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "12-21-16 Notice of Adjournment.doc",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4846436&GUID=F4E5B1F6-1952-4EEA-9516-FC8B9F3F6ECD"
+                }
+            ],
+            "file_num": "16-030CI",
+            "name": "Meeting Adjournment",
+            "title": "CITY OF LONG BEACH\r\n\tDEPARTMENT OF DEVELOPMENT SERVICES\r\n\t\t                     333 West Ocean Boulevard · Long Beach, California 90802 · (562) 570-6949 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNOTICE OF ADJOURNMENT \r\nOF THE REGULAR MEETING OF THE\r\nLONG BEACH COMMUNITY INVESTMENT COMPANY\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNOTICE IS HEREBY GIVEN that the regular meeting of the Long Beach Community Investment Company of the City of Long Beach to be held at 4:00 P.M. on Wednesday, December 21, 2016, will be canceled due to a lack of Agenda items. The undersigned Vice President of the Company declared said meeting adjourned.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n   ______________________________ \r\n     PATRICK URE, VICE PRESIDENT\r\n     THE LONG BEACH COMMUNITY INVESTMENT COMPANY\r\n\r\n\r\n\r\n\r\nPrepared by:\r\nKate Brewer\r\nSecretary\r\n\r\n\r\nDecember 16, 2016\t\t\r\n\t\t\t\t\t\t\r\n\r\n",
+            "type": "CI-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2911141&GUID=255415CB-27E2-4764-93FA-0DD1FA145630&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.7679491,
+        "latitude": 33.767949,
         "longitude": -118.1958298
     },
     "datetime": "2016-12-21T16:00:00",
-    "id": "D4301C78-08E1-4748-B639-9FBB0D0697EF-2016-12-19-17-33-03",
+    "id": "D4301C78-08E1-4748-B639-9FBB0D0697EF-2017-01-09-18-56-03",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=523311&GUID=D4301C78-08E1-4748-B639-9FBB0D0697EF",
     "location": "333 W. Ocean Boulevard\r\n3rd Floor Conference Room",
     "minutes": null,

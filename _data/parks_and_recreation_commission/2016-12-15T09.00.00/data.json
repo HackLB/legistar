@@ -99,12 +99,12 @@
         }
     ],
     "coordinates": {
-        "address": "El Dorado Park West, 2800 N Studebaker Rd, Long Beach, CA 90815, USA",
-        "latitude": 33.8030335,
-        "longitude": -118.0961737
+        "address": "2800 N Studebaker Rd, Long Beach, CA 90815, USA",
+        "latitude": 33.8073937,
+        "longitude": -118.098279
     },
     "datetime": "2016-12-15T09:00:00",
-    "id": "3CD2914F-2EE2-45B4-8C7A-CE19FA1AA6A9-2016-12-14-17-36-22",
+    "id": "3CD2914F-2EE2-45B4-8C7A-CE19FA1AA6A9-2017-01-17-22-55-38",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=520716&GUID=3CD2914F-2EE2-45B4-8C7A-CE19FA1AA6A9",
     "location": "El Dorado Park W. Community Cntr\r\nSenior Center Library\r\n2800 N. Studebaker Road",
     "minutes": null,

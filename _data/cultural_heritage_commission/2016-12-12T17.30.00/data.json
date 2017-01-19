@@ -134,14 +134,14 @@
     ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.7679491,
+        "latitude": 33.767949,
         "longitude": -118.1958298
     },
     "datetime": "2016-12-12T17:30:00",
-    "id": "F9B4ABA3-0EC9-470B-AFB1-E7A3F6FDF848-2016-12-14-20-02-01",
+    "id": "F9B4ABA3-0EC9-470B-AFB1-E7A3F6FDF848-2016-12-20-16-51-55",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=517581&GUID=F9B4ABA3-0EC9-470B-AFB1-E7A3F6FDF848",
     "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=517581&GUID=F9B4ABA3-0EC9-470B-AFB1-E7A3F6FDF848",
     "name": "Cultural Heritage Commission",
     "summary": "",
     "title": "Cultural Heritage Commission - 12/12/2016 - 5:30 PM"

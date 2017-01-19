@@ -186,14 +186,14 @@
     ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.7679491,
+        "latitude": 33.767949,
         "longitude": -118.1958298
     },
     "datetime": "2016-12-07T08:00:00",
-    "id": "F11C5929-7EC6-42ED-B888-C9A6533ECAEB-2016-12-16-21-46-13",
+    "id": "F11C5929-7EC6-42ED-B888-C9A6533ECAEB-2016-12-29-17-56-11",
     "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=519615&GUID=F11C5929-7EC6-42ED-B888-C9A6533ECAEB",
     "location": "333 W. OCEAN BLVD, 7th Floor \r\nCIVIL SERVICE BOARD ROOM",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=519615&GUID=F11C5929-7EC6-42ED-B888-C9A6533ECAEB",
     "name": "Civil Service Commission",
     "summary": "",
     "title": "Civil Service Commission - 12/7/2016 - 8:00 AM"
