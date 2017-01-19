@@ -1,6 +1,27 @@
 {
     "agenda": null,
-    "agenda_items": [],
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "17-005ED",
+            "name": "Recommendation to conduct a study session regarding recommendations for the City of Long Beach Economic Development Blueprint",
+            "title": "Recommendation to conduct a study session regarding recommendations for the City of Long Beach Economic Development Blueprint",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2933183&GUID=B3EB8FBB-A2D4-427C-9BA1-1345B46532E2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "17-006ED",
+            "name": "Recommendation to approve Economic Development Commissioners’ proposed calendar for upcoming Economic Development Commission meetings",
+            "title": "Recommendation to approve Economic Development Commissioners’ proposed calendar for upcoming Economic Development Commission meetings",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2933184&GUID=F475A29A-2093-4C8C-A450-7CFF97B7ADEF&Options=&Search=",
+            "version": 1
+        }
+    ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
         "latitude": 33.767949,
