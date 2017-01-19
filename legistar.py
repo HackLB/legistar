@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import feedparser
 import urllib.parse
 import dateparser
-
+from sh import split
 from geopy.geocoders import Nominatim, GoogleV3
 from geopy.exc import GeocoderTimedOut
 
@@ -15,7 +15,8 @@ from geopy.exc import GeocoderTimedOut
 with open('../secrets.json') as f:    
     secrets = json.load(f)
 
-geolocator = GoogleV3(api_key=secrets['google_api_key'])
+geolocator = GoogleV3(api_key=s
+    ecrets['google_api_key'])
 
 base_url = 'http://longbeach.legistar.com/'
 rss = 'http://longbeach.legistar.com/Feed.ashx?M=Calendar&ID=3443504&GUID=0fe979a8-f2da-4787-a541-6ccef967561e&Mode=This%20Year&Title=City+of+Long+Beach+-+Calendar+(This+Year)'
@@ -41,6 +42,12 @@ def download(url, path):
         for chunk in r.iter_content(chunk_size=1024): 
             if chunk: # filter out keep-alive new chunks
                 f.write(chunk)
+
+    if os.path.getsize(path) > 1024 * 90:
+        split("-b", "10m", path, '{}_'.format(path))
+
+    os.remove(path)
+
     return True
 
 
