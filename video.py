@@ -16,24 +16,28 @@ from geopy.exc import GeocoderTimedOut
 https://medium.com/@hoppy/how-to-test-or-scrape-javascript-rendered-websites-with-python-selenium-a-beginner-step-by-c137892216aa#.2ugnsncv4
 """
 
-
+chunk_size = 4 * 1024 * 1024
 base_url = 'http://longbeach.legistar.com/'
 rss = 'http://longbeach.legistar.com/Feed.ashx?M=Calendar&ID=3683065&GUID=726ec273-3eb0-48f3-94f8-d2948459d6dc&Mode=Last%20Month&Title=City+of+Long+Beach+-+Calendar+(This+Year)'
 
 
 
 def download(url, path, use_temp=False):
-
+    print('Beginning download of {} to {}'.format(url, path))
     if use_temp:
         to_path = '{}.tmp'.format(path)
+        print('Saving to temp file {}'.format(to_path))
     else:
         to_path = path
 
     r = requests.get(url, stream=True)
+    chunk_num = 1
     with open(to_path, 'wb') as f:
-        for chunk in r.iter_content(chunk_size=4096): 
+        for chunk in r.iter_content(chunk_size=chunk_size):
             if chunk: # filter out keep-alive new chunks
                 f.write(chunk)
+                print('{} mb downloaded'.format(chunk_size/1024/1024 * chunk_num))
+            chunk_num += 1
 
     if use_temp:
         os.rename(to_path, path)
