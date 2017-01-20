@@ -22,16 +22,24 @@ rss = 'http://longbeach.legistar.com/Feed.ashx?M=Calendar&ID=3683065&GUID=726ec2
 
 
 
-def download(url, path):
+def download(url, path, use_temp=False):
+
+    if use_temp:
+        to_path = '{}.tmp'.format(path)
+    else:
+        to_path = path
+
     r = requests.get(url, stream=True)
-    with open(path, 'wb') as f:
-        for chunk in r.iter_content(chunk_size=1024): 
+    with open(to_path, 'wb') as f:
+        for chunk in r.iter_content(chunk_size=4096): 
             if chunk: # filter out keep-alive new chunks
                 f.write(chunk)
 
+    if use_temp:
+        os.rename(to_path, path)
+
     if os.path.getsize(path) > 1024 * 1024 * 40:  # If files are bigger than 40MB, split em up!
         split("-b", "10m", path, '{}_'.format(path))
-        # os.remove(path)
         with open(path, 'w'):
             pass # Delete contents of path, but leave empty file as a marker.
 
@@ -126,8 +134,6 @@ def enhance_and_clean_record(record):
 
 def save_record(record):
     record = enhance_and_clean_record(record)
-
-    # directory = get_subdirectory(record)
     directory = video_path
 
     video_page_url = get_video_page_from(record['link'])
@@ -137,11 +143,20 @@ def save_record(record):
             record['video_url'] = video_url
             record['video_name'] = os.path.basename(urlparse(record['video_url']).path)
 
+            try:
+                record['video_size'] = int(requests.head(record['video_url']).headers['Content-Length'])
+            except:
+                pass
+
             print('Saving record of *{}*\nlocated at: {}'.format(record['title'], record['location']))
 
-            path = os.path.join(directory, '{}.json'.format(record['video_name']))
-            with open(path, 'w') as f:
+            data_path = os.path.join(directory, '{}.json'.format(record['video_name']))
+            with open(data_path, 'w') as f:
                 json.dump(record, f, indent=4, ensure_ascii=False, sort_keys=True)
+
+            video_local_path = os.path.join(directory, record['video_name'])
+            if not os.path.exists(video_local_path):
+                download(record['video_url'], video_local_path, use_temp=True)
 
             return True
     return False
