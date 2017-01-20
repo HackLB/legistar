@@ -18,7 +18,7 @@ https://medium.com/@hoppy/how-to-test-or-scrape-javascript-rendered-websites-wit
 
 chunk_size = 4 * 1024 * 1024
 base_url = 'http://longbeach.legistar.com/'
-rss = 'http://longbeach.legistar.com/Feed.ashx?M=Calendar&ID=3683065&GUID=726ec273-3eb0-48f3-94f8-d2948459d6dc&Mode=Last%20Month&Title=City+of+Long+Beach+-+Calendar+(This+Year)'
+rss = 'http://longbeach.legistar.com/Feed.ashx?M=Calendar&ID=3683065&GUID=726ec273-3eb0-48f3-94f8-d2948459d6dc&Mode=Last%20Month&Title=City+of+Long+Beach+-+Calendar+(Last+Year)'
 
 
 
