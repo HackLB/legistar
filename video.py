@@ -22,7 +22,7 @@ rss = 'http://longbeach.legistar.com/Feed.ashx?M=Calendar&ID=3683065&GUID=726ec2
 
 
 
-def download(url, path, use_temp=False):
+def download(url, path, use_temp=False, split=False):
     print('Beginning download of {} to {}'.format(url, path))
     if use_temp:
         to_path = '{}.tmp'.format(path)
@@ -42,10 +42,11 @@ def download(url, path, use_temp=False):
     if use_temp:
         os.rename(to_path, path)
 
-    if os.path.getsize(path) > 1024 * 1024 * 40:  # If files are bigger than 40MB, split em up!
-        split("-b", "10m", path, '{}_'.format(path))
-        with open(path, 'w'):
-            pass # Delete contents of path, but leave empty file as a marker.
+    if split:
+        if os.path.getsize(path) > 1024 * 1024 * 40:  # If files are bigger than 40MB, split em up!
+            split("-b", "10m", path, '{}_'.format(path))
+            with open(path, 'w'):
+                pass # Delete contents of path, but leave empty file as a marker.
 
     return True
 
@@ -160,7 +161,7 @@ def save_record(record):
 
             video_local_path = os.path.join(directory, record['video_name'])
             if not os.path.exists(video_local_path):
-                download(record['video_url'], video_local_path, use_temp=True)
+                download(record['video_url'], video_local_path, use_temp=True, split=False)
 
             return True
     return False
