@@ -5,5 +5,3 @@ requests
 simplejson
 geopy
 sh
-google-api-python-client
-dryscrape
