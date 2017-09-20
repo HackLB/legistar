@@ -93,6 +93,11 @@
                     "filename": "011717-C-6sr.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4911277&GUID=6886E6CC-A994-45A6-B8E0-C652BE543221"
+                },
+                {
+                    "filename": "020717-UB-14sr.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4942575&GUID=5C9888BA-B4CA-467C-A3ED-1E661321E3CB"
                 }
             ],
             "file_num": "17-0023",
@@ -225,6 +230,22 @@
             "version": 1
         },
         {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "RES-17-0004.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4928925&GUID=E185282D-EE16-45B1-9871-7034326736E6"
+                }
+            ],
+            "file_num": "17-0043",
+            "name": "PRM - RES2/Artificial Turf field conversions D1,8",
+            "title": "Adopt resolution authorizing City Manager, or designee, to submit grant application to the California Youth Soccer and Recreation Development Grant Program, offered by the State of California Department of Parks and Recreation, Office of Grants and Local Services, for Phase 2 of the Ed “Pops” Davenport Park Sports Field and Recreation Project (Davenport Park Project); accept, if awarded, California Youth Soccer and Recreation Development Grant Program grant funds for up to $1,000,000 for the Davenport Park Project; and, execute all documents necessary to accept the funds and implement the projects.  (Districts 1,8)",
+            "type": "Resolution",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2942077&GUID=ADB975EE-44FD-4B8A-ACD6-7A00BF4F2F67&Options=&Search=",
+            "version": 1
+        },
+        {
             "agenda_num": 14,
             "attachments": [
                 {
@@ -275,14 +296,14 @@
     ],
     "coordinates": {
         "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.767949,
+        "latitude": 33.7679491,
         "longitude": -118.1958298
     },
     "datetime": "2017-01-17T17:00:00",
-    "id": "4E3AD90C-A724-4772-A911-C6E90A3361C6-2017-01-18-21-11-54",
-    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=526953&GUID=4E3AD90C-A724-4772-A911-C6E90A3361C6",
+    "id": "4E3AD90C-A724-4772-A911-C6E90A3361C6-2017-02-10-22-36-30",
+    "link": "https://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=526953&GUID=4E3AD90C-A724-4772-A911-C6E90A3361C6",
     "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
-    "minutes": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=526953&GUID=4E3AD90C-A724-4772-A911-C6E90A3361C6",
     "name": "City Council",
     "summary": "",
     "title": "City Council - 1/17/2017 - 5:00 PM"

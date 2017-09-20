@@ -1,0 +1,66 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=564365&GUID=E803DD56-FAF6-4420-9DBC-2EA787AB11AF",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "092017.flc.item1.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5429665&GUID=04B8190B-C18D-4A55-B080-0C009E3757FA"
+                }
+            ],
+            "file_num": "17-0834",
+            "name": "FLC - minutes for 11/15/2016",
+            "title": "Recommendation to approve the minutes for the Federal Legislation Committee meeting held Tuesday, November 15, 2016.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3156530&GUID=4D3CD738-C1ED-47A0-BFBB-927226D569F8&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [
+                {
+                    "filename": "092017.flc.item2.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5431271&GUID=A2D91803-8EB3-4893-BFCA-4E18D62409BB"
+                }
+            ],
+            "file_num": "17-0835",
+            "name": "FLC - FY 18 Federal Budget",
+            "title": "Recommendation to receive and file a report on the FY 18 Federal Budget.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3156531&GUID=43BE543A-E0E1-4F3E-88C6-3142BE20ADDB&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "092017.flc.noatt3.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5429667&GUID=2AC80E3A-F29B-43F7-9C37-1206C224727F"
+                }
+            ],
+            "file_num": "17-0836",
+            "name": "FLC - Diaster Preparedness & homeland security",
+            "title": "Recommendation to receive and file a report on disaster preparedness and homeland security as related to the City of Long Beach.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3156532&GUID=61555811-6B6C-4ED0-BD65-2837AF164F41&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-09-20T17:30:00",
+    "id": "E803DD56-FAF6-4420-9DBC-2EA787AB11AF-2017-09-15-19-10-37",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=564365&GUID=E803DD56-FAF6-4420-9DBC-2EA787AB11AF",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": null,
+    "name": "Federal Legislation Committee",
+    "summary": "",
+    "title": "Federal Legislation Committee - 9/20/2017 - 5:30 PM"
+}

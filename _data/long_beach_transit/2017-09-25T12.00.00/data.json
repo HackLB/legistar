@@ -1,0 +1,66 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=563988&GUID=BB04DE5B-E898-482F-B658-B46BCF63CE47",
+    "agenda_items": [
+        {
+            "agenda_num": 3,
+            "attachments": [
+                {
+                    "filename": "2. Minutes 08 28 17.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5436495&GUID=58F4CC16-58F2-4C0D-9ACF-DA10DB487234"
+                }
+            ],
+            "file_num": "17-046TR",
+            "name": "Approval of Minutes",
+            "title": "Recommendation to approve the minutes of the regular session meeting held on August 28, 2017. (Maricela de Rivera)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3151712&GUID=D5766C21-23C4-4EB4-B98D-0E04C659A42B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 7,
+            "attachments": [
+                {
+                    "filename": "7. Monthly Financial Report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5436448&GUID=F201BCD7-EF1D-4200-907C-E69AB71AF7D7"
+                }
+            ],
+            "file_num": "17-047TR",
+            "name": "Monthly Financial Report",
+            "title": "Monthly Financial Report. (Lisa Patton)\r\n\r\nINFORMATION ITEM",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3151720&GUID=EC92E2F0-7888-4B06-B78D-45D2F64FAE75&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "8. FY18 FTA Grant.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5436494&GUID=558F4FB2-9379-46EA-8166-0D9527B800F7"
+                }
+            ],
+            "file_num": "17-048TR",
+            "name": "Resolution for FY 2018 FTA Grant",
+            "title": "Recommendation to adopt a resolution authorizing the President and CEO to file an application and execute a grant agreement with the Federal Transit Administration for $14,238,186 under the Fixing America's Surface Transportation Act. (Lisa Patton)",
+            "type": "TR-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3151721&GUID=9134A9DB-6034-4141-B3F9-87728E2B1321&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-09-25T12:00:00",
+    "id": "BB04DE5B-E898-482F-B658-B46BCF63CE47-2017-09-20-17-40-13",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=563988&GUID=BB04DE5B-E898-482F-B658-B46BCF63CE47",
+    "location": "333 W. OCEAN BOULEVARD\r\nCOUNCIL CHAMBER",
+    "minutes": null,
+    "name": "Long Beach Transit",
+    "summary": "",
+    "title": "Long Beach Transit - 9/25/2017 - 12:00 PM"
+}

@@ -1,0 +1,98 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=564216&GUID=5BF98F66-F9DF-42B8-8C4E-8C40456DF1B8",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "DRAFT 09-08-17 BOH Meeting Minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5417971&GUID=BC171463-2F57-4647-974F-EF150AAC8FCF"
+                }
+            ],
+            "file_num": "17-049BH",
+            "name": "Approval of September 8, 2017 Meeting Minutes",
+            "title": "Recommendation to approve the minutes of the Board of Health and Human Services meeting held Friday, September 8, 2017.",
+            "type": "BH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3152694&GUID=E022A7EF-4749-4D45-8454-B92B8FA951B5&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "17-050BH - BOH - City Relationship Building.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5417982&GUID=8A3225EB-AA82-49C0-8CDC-1D16B3E5AA57"
+                }
+            ],
+            "file_num": "17-050BH",
+            "name": "Board/City Leadership Relationship Building",
+            "title": "Recommendation to discuss Board of Health/City Leadership Relationship Building.",
+            "type": "BH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3152695&GUID=6D7B05F4-596C-4254-8D39-6953BC45FB6E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "17-051BH - No-Doc - Marijuana.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5417983&GUID=237C8C75-F42A-477E-AF80-6E4FBC770E04"
+                }
+            ],
+            "file_num": "17-051BH",
+            "name": "Marijuana Legalization Update",
+            "title": "Recommendation to receive and file a report on the status of the City's implementation of the legalization of marijuana.",
+            "type": "BH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3152696&GUID=15291FB1-1992-45A6-B6FA-72BC23C0CB4A&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "17-052BH - NO DOC - HIV-STD.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5417992&GUID=7E7FF2D0-96E0-41F6-8560-2F22D6FC40B2"
+                }
+            ],
+            "file_num": "17-052BH",
+            "name": "HIV/STD Reduction Efforts",
+            "title": "Recommendation to receive and file a report on the status of the City's efforts to reduce the rates of HIV and STD's.",
+            "type": "BH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3152697&GUID=A759667E-AC19-4F49-A3F3-9EE4A96EF7FD&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "17-053BH - NO DOC - Port Rail Yard.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5417993&GUID=B75D8467-AF8A-465F-9164-0453797F34FE"
+                }
+            ],
+            "file_num": "17-053BH",
+            "name": "Port On-Dock Rail Support Yard Project Update",
+            "title": "Recommendation to receive and file a report on the status of the Port of Long Beach On-Dock Rail Support Yard Project, as it relates to the Department's Multi-Service Center for the Homeless.",
+            "type": "BH-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3152705&GUID=48668E54-3CE3-4C85-9580-4B5FFBB09A94&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "2525 Grand Ave, Long Beach, CA 90815, USA",
+        "latitude": 33.8026403,
+        "longitude": -118.1490483
+    },
+    "datetime": "2017-10-13T07:45:00",
+    "id": "5BF98F66-F9DF-42B8-8C4E-8C40456DF1B8-2017-09-14-21-00-16",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=564216&GUID=5BF98F66-F9DF-42B8-8C4E-8C40456DF1B8",
+    "location": "Health and Human Services\r\n2525 Grand Avenue, Room 201",
+    "minutes": null,
+    "name": "Board of Health and Human Services",
+    "summary": "",
+    "title": "Board of Health and Human Services - 10/13/2017 - 7:45 AM"
+}

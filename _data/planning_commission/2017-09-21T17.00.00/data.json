@@ -1,0 +1,106 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=563495&GUID=1C96F29A-C0AB-4C7F-B121-87A155B2ED5E",
+    "agenda_items": [
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "8-17-17 PC minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5423228&GUID=56E7DE7D-AE8D-40DD-8B39-4CAD287DD5B5"
+                }
+            ],
+            "file_num": "17-061PL",
+            "name": "PL - PC minutes 8-17-17",
+            "title": "Recommendation to receive and file the Planning Commission minutes of August 17, 2017.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3153849&GUID=D0D70822-06EA-4A3B-B325-CA5761E0CD9D&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": null,
+            "attachments": [
+                {
+                    "filename": "9-7-17 PC minutes.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5423229&GUID=52DC6417-79CB-4EAC-AE49-125EDEA7EF35"
+                }
+            ],
+            "file_num": "17-067PL",
+            "name": "PL - PC minutes 9-7-17",
+            "title": "Recommendation to receive and file the Planning Commission minutes of September 7, 2017.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3153850&GUID=C193E8ED-CF72-455A-9CA5-62E88DD8852C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "5744 E. 2nd Street staff report.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5423225&GUID=07814FC7-3924-4E2C-B303-6A1A0F225AD0"
+                },
+                {
+                    "filename": "5744 E. 2nd Street exhibit B.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5423226&GUID=72B174D4-E674-48CB-9333-A74D0512965A"
+                },
+                {
+                    "filename": "5744 E. 2nd Street exhibit D.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5423227&GUID=5DD3EB54-668F-43F0-A111-62E564115A16"
+                }
+            ],
+            "file_num": "17-068PL",
+            "name": "PL - 5744 E. 2nd Street ZA appeal",
+            "title": "Recommendation to accept Categorical Exemption 16-251, deny the appeal and uphold the Zoning Administrator's decision to approve a Local Coastal Development Permit (LCDP17-003) for the construction of a new 1,122-square-foot, two-story commercial building, located at 5744 E. 2nd Street within the Commercial Neighborhood Pedestrian (CNP) zoning district. (District 3) (Application No. 1610-09)",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3153851&GUID=216EF36A-38BB-4570-AF7B-3BD0D5981388&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "17-070PL",
+            "name": "PL - Elect PC Chair 2017-2018",
+            "title": "Elect a Chair of the Planning Commission for 2017-2018.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3153853&GUID=1F3D256E-D529-4631-B5BB-17A58F305DDA&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "17-071PL",
+            "name": "PL - Elect Vice of PC 2017-2018",
+            "title": "Elect a Vice Chair of the Planning Commission for 2017-2018.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3153854&GUID=8ED9C662-2E2A-4E9E-AECF-0A9B9231B3E7&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "17-069PL",
+            "name": "PL - Climate Action Plan Study Session",
+            "title": "Conduct a study session regarding the Climate Action Plan.",
+            "type": "PL-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3153852&GUID=B21C03E5-B74F-4C27-8150-EA4E71776730&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-09-21T17:00:00",
+    "id": "1C96F29A-C0AB-4C7F-B121-87A155B2ED5E-2017-09-13-22-50-28",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=563495&GUID=1C96F29A-C0AB-4C7F-B121-87A155B2ED5E",
+    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
+    "minutes": null,
+    "name": "Planning Commission",
+    "summary": "",
+    "title": "Planning Commission - 9/21/2017 - 5:00 PM"
+}

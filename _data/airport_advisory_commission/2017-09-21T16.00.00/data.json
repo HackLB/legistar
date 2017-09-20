@@ -1,0 +1,105 @@
+{
+    "agenda": "http://longbeach.legistar.com/View.ashx?M=A&ID=563816&GUID=F51E66DC-943E-4A53-856B-41304694F839",
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [],
+            "file_num": "17-026AC",
+            "name": "AAC Excuse Absent Commissioners",
+            "title": "Recommendation to excuse Commissioners that are absent from the Airport Advisory Commission meeting on September 21, 2017.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3156860&GUID=4D671BEA-5F2A-47FB-A19F-71499AA28D9E&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "17-027AC",
+            "name": "AAC Minutes 07-20-17",
+            "title": "Recommendation to approve the Minutes from the Airport Advisory Commission meeting on July 20, 2017.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3156861&GUID=7FDDDA2C-BA44-4453-B93E-73B2A1AE20A6&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "17-028AC",
+            "name": "AAC Reconsider Minutes 06-15-2017",
+            "title": "Recommendation to reconsider the Minutes from the Airport Advisory Commission meeting on June 15, 2017.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3156862&GUID=62FE68A7-53B0-4BEF-A9B5-D9D687D0586B&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [
+                {
+                    "filename": "Margaret Smith Public Comment.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5325012&GUID=F757BBAC-58B5-4166-9200-86092AAA7A30"
+                }
+            ],
+            "file_num": "17-024AC",
+            "name": "AAC Redirect Fines",
+            "title": "Recommendation to ask the City Prosecutor to examine whether it is feasible to redirect late arrival fines from the Library to noise mitigation.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3103625&GUID=0AEEE96F-E69F-4A96-AF42-3B8FB72BBA38&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [
+                {
+                    "filename": "AAC Monthly Activity Report July 2017.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5430377&GUID=8D5B7F1F-E7D6-429E-9A67-6BAC98124ED0"
+                },
+                {
+                    "filename": "AAC Monthly Noise Report June 2017.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5430378&GUID=F43D5724-05E7-4002-945F-3FFE3363313C"
+                },
+                {
+                    "filename": "AAC Monthly Noise Report July 2017.rev2.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5430379&GUID=91881FC6-8422-4D2A-8D07-AEF5309DF401"
+                },
+                {
+                    "filename": "AAC Public Affairs Report July-August 2017.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5430380&GUID=B391AC00-12EE-43D8-A1F6-858D5AABAC7F"
+                },
+                {
+                    "filename": "AAC Monthly Activity Report August 2017.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5433566&GUID=338C5890-BA1C-47A5-B505-FC930D24060C"
+                },
+                {
+                    "filename": "AAC Budget Performance Report August 2017.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5434143&GUID=9C1937B4-C466-43A0-AFFC-20AA5BF68058"
+                }
+            ],
+            "file_num": "17-029AC",
+            "name": "AAC Monthly Staff Reports",
+            "title": "Recommendation to receive and file monthly Airport Staff Reports for September 2017.",
+            "type": "AC-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3156895&GUID=3F381210-5683-41F5-9192-72E33A0E6F1E&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "4800 E Wardlow Rd, Long Beach, CA 90808, USA",
+        "latitude": 33.8181388,
+        "longitude": -118.1383922
+    },
+    "datetime": "2017-09-21T16:00:00",
+    "id": "F51E66DC-943E-4A53-856B-41304694F839-2017-09-15-21-20-26",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=563816&GUID=F51E66DC-943E-4A53-856B-41304694F839",
+    "location": "Skylinks Municipal Golf Course\r\n4800 E. Wardlow Rd., LB 90808",
+    "minutes": null,
+    "name": "Airport Advisory Commission",
+    "summary": "",
+    "title": "Airport Advisory Commission - 9/21/2017 - 4:00 PM"
+}

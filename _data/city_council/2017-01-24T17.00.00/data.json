@@ -40,6 +40,11 @@
                     "filename": "012417-C-3sr-att.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4921309&GUID=7F422BB2-4D29-47D0-9166-0427F701FF36"
+                },
+                {
+                    "filename": "RES-17-0005.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4937558&GUID=98BB2BCB-77C5-4090-833B-B02FDB548F71"
                 }
             ],
             "file_num": "17-0037",
@@ -72,6 +77,16 @@
                     "filename": "012417-C-5sr-att.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4921312&GUID=6699DF7B-C66B-4EDF-B96E-DC67E5A1734C"
+                },
+                {
+                    "filename": "012417-C-5 ABC Conditions.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4940564&GUID=F00DB83F-7680-449D-B5A7-C986AEA68F5B"
+                },
+                {
+                    "filename": "012417-C-5 ABC Letter.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4940567&GUID=D65FE398-04AA-410A-8FAD-BD99BA79EE2A"
                 }
             ],
             "file_num": "17-0039",
@@ -98,32 +113,120 @@
             "version": 1
         },
         {
+            "agenda_num": 8,
+            "attachments": [
+                {
+                    "filename": "111516-R-11sr.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4767549&GUID=E964BCB9-6654-42F1-A0CC-EE23F5EC60A6"
+                },
+                {
+                    "filename": "011717.h-n.item2.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4921244&GUID=3E3914C1-0373-4983-9F69-2CFC4DF14784"
+                },
+                {
+                    "filename": "012417-C-8sr-att.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4931052&GUID=9D92617B-E83F-4F31-94F3-5979862277BD"
+                }
+            ],
+            "file_num": "16-1019",
+            "name": "CD8,1,6,7-Naming of Park Del Amo/Oregon Ave",
+            "title": "Recommendation to approve naming the park site located at Del Amo Boulevard and Oregon Avenue as \"C. David Molina Park\".",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2877784&GUID=20415B51-50DF-4796-ABCF-D319ECDCC4D5&Options=&Search=",
+            "version": 3
+        },
+        {
             "agenda_num": 7,
             "attachments": [
                 {
                     "filename": "012417-R-7sr-att.pdf",
                     "num": 1,
                     "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4921314&GUID=30513BC4-B21D-4A97-857D-468D7D60D0A6"
+                },
+                {
+                    "filename": "012417-R-7 Corresp.Angel.pdf",
+                    "num": 2,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4933468&GUID=2353FD67-D34B-4CC7-9E71-24E32B12F0CE"
+                },
+                {
+                    "filename": "012417-R-7 Corresp.Cotton.pdf",
+                    "num": 3,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4933469&GUID=FFF2E0CD-0886-433A-A37D-61F78727CBA0"
+                },
+                {
+                    "filename": "012417-R-7 Corresp.Jacobs.pdf",
+                    "num": 4,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4933967&GUID=24BB5C25-EA98-4C90-B2D2-CDA0524CAE90"
+                },
+                {
+                    "filename": "012417-R-7 Corresp.LoGrande.pdf",
+                    "num": 5,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4933966&GUID=E96FA92A-CD61-416F-BDB7-4FBD42F7059F"
+                },
+                {
+                    "filename": "012417-R-7 Corresp.Redlin.pdf",
+                    "num": 6,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4934940&GUID=50B14607-60A8-4223-A824-57D07D73528A"
+                },
+                {
+                    "filename": "012417-R-7 Public Handout_Sellmer.pdf",
+                    "num": 7,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4940554&GUID=FDD00956-8D2A-4D37-A0EA-20A386CCA5CD"
+                },
+                {
+                    "filename": "012417-R-7 PowerPoint.pdf",
+                    "num": 8,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4936572&GUID=E144CAE4-718D-44C3-A3F8-04034A8B9BAB"
                 }
             ],
             "file_num": "17-0041",
             "name": "LBA  - FIS D5",
             "title": "Recommendation to authorize City Manager, or designee, to negotiate with interested Long Beach carriers or operators a financial agreement for the development of a Customs and Border Protection facility at the Long Beach Airport, subject to further City Council action approving the final terms and conditions of the agreement; and  \r\n\r\nAuthorize City Manager, or designee, to execute and submit all documents necessary to the United States Department of Homeland Security for designation of the Long Beach Airport as a United States Customs and Border Protection User Fee Airport for the processing of aircraft, passengers and baggage arriving from outside the United States.  (Citywide)",
-            "type": "Contract",
+            "type": "Agenda Item",
             "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2938687&GUID=FEE59DD8-A7B1-4A40-9C43-E45F9C3F8BC7&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 10,
+            "attachments": [
+                {
+                    "filename": "2017-01-24 sup memo only.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4931075&GUID=43EFDF41-2297-46B2-9CBB-BD0CF8F9824B"
+                }
+            ],
+            "file_num": "17-0046",
+            "name": "Supp Memo",
+            "title": "Supplemental Memorandum - Corrections and/or additions to the City Council Agenda as of 12:00 noon, Friday, January 20, 2017.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2943141&GUID=08C1E1E1-DC36-4242-8DF8-E19D7215A4B2&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 11,
+            "attachments": [
+                {
+                    "filename": "012417eCommentsReport-R.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=4936941&GUID=4E1C0E6E-1CF9-43FB-8F8C-E11C94A7D24B"
+                }
+            ],
+            "file_num": "17-0047",
+            "name": "eComments",
+            "title": "eComments received for the City Council meeting of Tuesday, January 24, 2017.",
+            "type": "Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=2945920&GUID=87799F93-764B-4220-A10F-C98285D7A66F&Options=&Search=",
             "version": 1
         }
     ],
-    "coordinates": {
-        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
-        "latitude": 33.767949,
-        "longitude": -118.1958298
-    },
     "datetime": "2017-01-24T17:00:00",
-    "id": "8922E675-8880-4363-B516-B2C9A9FB4C0F-2017-01-13-23-46-26",
-    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=528467&GUID=8922E675-8880-4363-B516-B2C9A9FB4C0F",
-    "location": "333 W. Ocean Boulevard\r\nCouncil Chamber",
-    "minutes": null,
+    "id": "8922E675-8880-4363-B516-B2C9A9FB4C0F-2017-02-10-22-36-32",
+    "link": "https://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=528467&GUID=8922E675-8880-4363-B516-B2C9A9FB4C0F",
+    "location": null,
+    "minutes": "http://longbeach.legistar.com/View.ashx?M=M&ID=528467&GUID=8922E675-8880-4363-B516-B2C9A9FB4C0F",
     "name": "City Council",
     "summary": "",
     "title": "City Council - 1/24/2017 - 5:00 PM"

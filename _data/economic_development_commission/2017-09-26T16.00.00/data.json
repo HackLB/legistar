@@ -1,0 +1,74 @@
+{
+    "agenda": null,
+    "agenda_items": [
+        {
+            "agenda_num": 1,
+            "attachments": [
+                {
+                    "filename": "EDC Meeting Minutes 29 Aug.pdf",
+                    "num": 1,
+                    "url": "http://longbeach.legistar.com/View.ashx?M=F&ID=5436496&GUID=71C8B900-196C-456A-8896-7EEEE2123F82"
+                }
+            ],
+            "file_num": "17-050ED",
+            "name": "Recommendation to approve the minutes for the meeting held August 29, 2017.",
+            "title": "Recommendation to approve the minutes for the meeting held August 29, 2017.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3159277&GUID=A89195EF-B069-4798-B582-6813513AF823&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 2,
+            "attachments": [],
+            "file_num": "17-051ED",
+            "name": "Recommendation to receive and file a report from the Economic Development Commission Revolving Loan Subcommittee, regarding meeting actions from the September 21, 2017 Commission meeting",
+            "title": "Recommendation to receive and file a report from the Economic Development Commission Revolving Loan Subcommittee, regarding meeting actions from the September 21, 2017 Commission meeting",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3159278&GUID=A4AC90E7-2D1E-45B5-8185-B27A0A55BA1C&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 3,
+            "attachments": [],
+            "file_num": "17-052ED",
+            "name": "Recommendation to receive and file an oral report from Economic Development Department staff on the Business Corridor Improvements Program that was included in the FY18 budget by the City Council.",
+            "title": "Recommendation to receive and file an oral report from Economic Development Department staff on the Business Corridor Improvements Program that was included in the FY18 budget by the City Council.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3159296&GUID=8CEFAD68-7933-4FFA-AE64-F1FFEC48D6BE&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 4,
+            "attachments": [],
+            "file_num": "17-045ED",
+            "name": "Recommendation to receive and file a report on the decision to enter into an Exclusive Negotiating Agreement with Grand Prix Association of Long Beach for the production of a Grand Prix Race and associated events",
+            "title": "Recommendation to receive and file a report on the decision to enter into an Exclusive Negotiating Agreement with Grand Prix Association of Long Beach for the production of a Grand Prix Race and associated events",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3137389&GUID=E75419DB-BC48-482D-8547-CDC672B347BC&Options=&Search=",
+            "version": 1
+        },
+        {
+            "agenda_num": 5,
+            "attachments": [],
+            "file_num": "17-053ED",
+            "name": "Recommendation to receive and file an oral report from Economic Development Department staff providing updates on the implementation of the City of Long Beach Economic Development Blueprint.",
+            "title": "Recommendation to receive and file an oral report from Economic Development Department staff providing updates on the implementation of the City of Long Beach Economic Development Blueprint.",
+            "type": "ED-Agenda Item",
+            "url": "http://longbeach.legistar.com/LegislationDetail.aspx?ID=3159297&GUID=30DE6208-CD8F-4FEA-B883-EE91E6D5EB03&Options=&Search=",
+            "version": 1
+        }
+    ],
+    "coordinates": {
+        "address": "333 W Ocean Blvd, Long Beach, CA 90802, USA",
+        "latitude": 33.7679491,
+        "longitude": -118.1958298
+    },
+    "datetime": "2017-09-26T16:00:00",
+    "id": "F4991278-14C6-4B4E-933B-CED68EF7B4B6-2017-09-19-23-10-29",
+    "link": "http://longbeach.legistar.com/Gateway.aspx?M=MD&From=RSS&ID=565054&GUID=F4991278-14C6-4B4E-933B-CED68EF7B4B6",
+    "location": "333 W. OCEAN BOULEVARD\r\n3RD FLOOR CONFERENCE RM",
+    "minutes": null,
+    "name": "Economic Development Commission",
+    "summary": "",
+    "title": "Economic Development Commission - 9/26/2017 - 4:00 PM"
+}
